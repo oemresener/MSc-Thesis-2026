@@ -1,0 +1,111 @@
+02:11:43 | ssl[simclr/vit_small] | INFO | Model: simclr / vit_small -- params: 22.93M
+02:11:48 | ssl[simclr/vit_small] | INFO | epoch 001 done in 00:00:05 | loss 5.9508
+02:11:54 | ssl[simclr/vit_small] | INFO | epoch 002 done in 00:00:05 | loss 4.9801
+02:11:58 | ssl[simclr/vit_small] | INFO | epoch 003 done in 00:00:04 | loss 4.2100
+02:12:04 | ssl[simclr/vit_small] | INFO | epoch 004 done in 00:00:05 | loss 3.7195
+02:12:10 | ssl[simclr/vit_small] | INFO | epoch 005 done in 00:00:05 | loss 3.4734
+02:12:15 | ssl[simclr/vit_small] | INFO | epoch 006 done in 00:00:05 | loss 3.2469
+02:12:21 | ssl[simclr/vit_small] | INFO | epoch 007 done in 00:00:05 | loss 3.0389
+02:12:25 | ssl[simclr/vit_small] | INFO | epoch 008 done in 00:00:04 | loss 2.8600
+02:12:31 | ssl[simclr/vit_small] | INFO | epoch 009 done in 00:00:05 | loss 2.7185
+02:12:35 | ssl[simclr/vit_small] | INFO | epoch 010 done in 00:00:04 | loss 2.6336
+02:12:41 | ssl[simclr/vit_small] | INFO | epoch 011 done in 00:00:06 | loss 2.5444
+02:12:46 | ssl[simclr/vit_small] | INFO | epoch 012 done in 00:00:05 | loss 2.4809
+02:12:52 | ssl[simclr/vit_small] | INFO | epoch 013 done in 00:00:05 | loss 2.4481
+02:12:57 | ssl[simclr/vit_small] | INFO | epoch 014 done in 00:00:05 | loss 2.3531
+02:13:02 | ssl[simclr/vit_small] | INFO | epoch 015 done in 00:00:04 | loss 2.2746
+02:13:08 | ssl[simclr/vit_small] | INFO | epoch 016 done in 00:00:05 | loss 2.2436
+02:13:12 | ssl[simclr/vit_small] | INFO | epoch 017 done in 00:00:04 | loss 2.2301
+02:13:18 | ssl[simclr/vit_small] | INFO | epoch 018 done in 00:00:05 | loss 2.1602
+02:13:23 | ssl[simclr/vit_small] | INFO | epoch 019 done in 00:00:05 | loss 2.0786
+02:13:29 | ssl[simclr/vit_small] | INFO | epoch 020 done in 00:00:05 | loss 2.0755
+02:13:33 | ssl[simclr/vit_small] | INFO | epoch 021 done in 00:00:04 | loss 2.0599
+02:13:39 | ssl[simclr/vit_small] | INFO | epoch 022 done in 00:00:05 | loss 1.9801
+02:13:43 | ssl[simclr/vit_small] | INFO | epoch 023 done in 00:00:04 | loss 1.9329
+02:13:49 | ssl[simclr/vit_small] | INFO | epoch 024 done in 00:00:06 | loss 1.9209
+02:13:55 | ssl[simclr/vit_small] | INFO | epoch 025 done in 00:00:05 | loss 1.8967
+02:14:00 | ssl[simclr/vit_small] | INFO | epoch 026 done in 00:00:05 | loss 1.8820
+02:14:06 | ssl[simclr/vit_small] | INFO | epoch 027 done in 00:00:05 | loss 1.7993
+02:14:11 | ssl[simclr/vit_small] | INFO | epoch 028 done in 00:00:04 | loss 1.8113
+02:14:16 | ssl[simclr/vit_small] | INFO | epoch 029 done in 00:00:05 | loss 1.7774
+02:14:20 | ssl[simclr/vit_small] | INFO | epoch 030 done in 00:00:03 | loss 1.7359
+02:14:26 | ssl[simclr/vit_small] | INFO | epoch 031 done in 00:00:05 | loss 1.7401
+02:14:32 | ssl[simclr/vit_small] | INFO | epoch 032 done in 00:00:05 | loss 1.7196
+02:14:37 | ssl[simclr/vit_small] | INFO | epoch 033 done in 00:00:05 | loss 1.7128
+02:14:43 | ssl[simclr/vit_small] | INFO | epoch 034 done in 00:00:05 | loss 1.6765
+02:14:48 | ssl[simclr/vit_small] | INFO | epoch 035 done in 00:00:04 | loss 1.6217
+02:14:53 | ssl[simclr/vit_small] | INFO | epoch 036 done in 00:00:05 | loss 1.6159
+02:14:58 | ssl[simclr/vit_small] | INFO | epoch 037 done in 00:00:04 | loss 1.5993
+02:15:03 | ssl[simclr/vit_small] | INFO | epoch 038 done in 00:00:05 | loss 1.5862
+02:15:08 | ssl[simclr/vit_small] | INFO | epoch 039 done in 00:00:04 | loss 1.5588
+02:15:14 | ssl[simclr/vit_small] | INFO | epoch 040 done in 00:00:05 | loss 1.5277
+02:15:18 | ssl[simclr/vit_small] | INFO | epoch 041 done in 00:00:04 | loss 1.5336
+02:15:23 | ssl[simclr/vit_small] | INFO | epoch 042 done in 00:00:05 | loss 1.5118
+02:15:28 | ssl[simclr/vit_small] | INFO | epoch 043 done in 00:00:04 | loss 1.4933
+02:15:33 | ssl[simclr/vit_small] | INFO | epoch 044 done in 00:00:05 | loss 1.4761
+02:15:39 | ssl[simclr/vit_small] | INFO | epoch 045 done in 00:00:05 | loss 1.4347
+02:15:44 | ssl[simclr/vit_small] | INFO | epoch 046 done in 00:00:05 | loss 1.4256
+02:15:50 | ssl[simclr/vit_small] | INFO | epoch 047 done in 00:00:05 | loss 1.4173
+02:15:55 | ssl[simclr/vit_small] | INFO | epoch 048 done in 00:00:04 | loss 1.3823
+02:16:00 | ssl[simclr/vit_small] | INFO | epoch 049 done in 00:00:05 | loss 1.3834
+02:16:05 | ssl[simclr/vit_small] | INFO | epoch 050 done in 00:00:04 | loss 1.3810
+02:16:11 | ssl[simclr/vit_small] | INFO | epoch 051 done in 00:00:05 | loss 1.3407
+02:16:15 | ssl[simclr/vit_small] | INFO | epoch 052 done in 00:00:04 | loss 1.3308
+02:16:21 | ssl[simclr/vit_small] | INFO | epoch 053 done in 00:00:05 | loss 1.3126
+02:16:25 | ssl[simclr/vit_small] | INFO | epoch 054 done in 00:00:04 | loss 1.3162
+02:16:31 | ssl[simclr/vit_small] | INFO | epoch 055 done in 00:00:05 | loss 1.2899
+02:16:35 | ssl[simclr/vit_small] | INFO | epoch 056 done in 00:00:04 | loss 1.2376
+02:16:41 | ssl[simclr/vit_small] | INFO | epoch 057 done in 00:00:06 | loss 1.2711
+02:16:47 | ssl[simclr/vit_small] | INFO | epoch 058 done in 00:00:05 | loss 1.2398
+02:16:52 | ssl[simclr/vit_small] | INFO | epoch 059 done in 00:00:05 | loss 1.2155
+02:16:57 | ssl[simclr/vit_small] | INFO | epoch 060 done in 00:00:05 | loss 1.2277
+02:17:02 | ssl[simclr/vit_small] | INFO | epoch 061 done in 00:00:04 | loss 1.2267
+02:17:08 | ssl[simclr/vit_small] | INFO | epoch 062 done in 00:00:05 | loss 1.1752
+02:17:12 | ssl[simclr/vit_small] | INFO | epoch 063 done in 00:00:04 | loss 1.1728
+02:17:18 | ssl[simclr/vit_small] | INFO | epoch 064 done in 00:00:06 | loss 1.1852
+02:17:23 | ssl[simclr/vit_small] | INFO | epoch 065 done in 00:00:05 | loss 1.1600
+02:17:29 | ssl[simclr/vit_small] | INFO | epoch 066 done in 00:00:05 | loss 1.1239
+02:17:34 | ssl[simclr/vit_small] | INFO | epoch 067 done in 00:00:05 | loss 1.1077
+02:17:39 | ssl[simclr/vit_small] | INFO | epoch 068 done in 00:00:05 | loss 1.0939
+02:17:45 | ssl[simclr/vit_small] | INFO | epoch 069 done in 00:00:05 | loss 1.0920
+02:17:49 | ssl[simclr/vit_small] | INFO | epoch 070 done in 00:00:04 | loss 1.0870
+02:17:55 | ssl[simclr/vit_small] | INFO | epoch 071 done in 00:00:06 | loss 1.0625
+02:18:00 | ssl[simclr/vit_small] | INFO | epoch 072 done in 00:00:04 | loss 1.0570
+02:18:06 | ssl[simclr/vit_small] | INFO | epoch 073 done in 00:00:05 | loss 1.0456
+02:18:10 | ssl[simclr/vit_small] | INFO | epoch 074 done in 00:00:04 | loss 1.0324
+02:18:16 | ssl[simclr/vit_small] | INFO | epoch 075 done in 00:00:05 | loss 1.0334
+02:18:21 | ssl[simclr/vit_small] | INFO | epoch 076 done in 00:00:04 | loss 1.0240
+02:18:27 | ssl[simclr/vit_small] | INFO | epoch 077 done in 00:00:05 | loss 1.0311
+02:18:32 | ssl[simclr/vit_small] | INFO | epoch 078 done in 00:00:05 | loss 0.9864
+02:18:38 | ssl[simclr/vit_small] | INFO | epoch 079 done in 00:00:05 | loss 0.9990
+02:18:43 | ssl[simclr/vit_small] | INFO | epoch 080 done in 00:00:05 | loss 1.0013
+02:18:48 | ssl[simclr/vit_small] | INFO | epoch 081 done in 00:00:04 | loss 1.0001
+02:18:53 | ssl[simclr/vit_small] | INFO | epoch 082 done in 00:00:05 | loss 0.9618
+02:18:57 | ssl[simclr/vit_small] | INFO | epoch 083 done in 00:00:04 | loss 0.9685
+02:19:03 | ssl[simclr/vit_small] | INFO | epoch 084 done in 00:00:06 | loss 0.9624
+02:19:09 | ssl[simclr/vit_small] | INFO | epoch 085 done in 00:00:05 | loss 0.9587
+02:19:14 | ssl[simclr/vit_small] | INFO | epoch 086 done in 00:00:05 | loss 0.9524
+02:19:20 | ssl[simclr/vit_small] | INFO | epoch 087 done in 00:00:05 | loss 0.9538
+02:19:24 | ssl[simclr/vit_small] | INFO | epoch 088 done in 00:00:04 | loss 0.9490
+02:19:30 | ssl[simclr/vit_small] | INFO | epoch 089 done in 00:00:05 | loss 0.9393
+02:19:34 | ssl[simclr/vit_small] | INFO | epoch 090 done in 00:00:04 | loss 0.9209
+02:19:40 | ssl[simclr/vit_small] | INFO | epoch 091 done in 00:00:05 | loss 0.9156
+02:19:45 | ssl[simclr/vit_small] | INFO | epoch 092 done in 00:00:04 | loss 0.9220
+02:19:50 | ssl[simclr/vit_small] | INFO | epoch 093 done in 00:00:05 | loss 0.9253
+02:19:54 | ssl[simclr/vit_small] | INFO | epoch 094 done in 00:00:03 | loss 0.9297
+02:20:00 | ssl[simclr/vit_small] | INFO | epoch 095 done in 00:00:05 | loss 0.9282
+02:20:05 | ssl[simclr/vit_small] | INFO | epoch 096 done in 00:00:05 | loss 0.9089
+02:20:11 | ssl[simclr/vit_small] | INFO | epoch 097 done in 00:00:05 | loss 0.9326
+02:20:16 | ssl[simclr/vit_small] | INFO | epoch 098 done in 00:00:05 | loss 0.9161
+02:20:21 | ssl[simclr/vit_small] | INFO | epoch 099 done in 00:00:04 | loss 0.9114
+02:20:27 | ssl[simclr/vit_small] | INFO | epoch 100 done in 00:00:05 | loss 0.9208
+02:20:27 | ssl[simclr/vit_small] | INFO | Total SSL training: 00:08:44 (best loss 0.9089)
+
+02:24:11 | eval[SimCLR-10pct/vit_small] | INFO | Loaded backbone weights from runs/ssl-simclr-vit_small-ep100-bs256-seed42-frac10/backbone_final.pt
+02:38:17 | eval[SimCLR-10pct/vit_small] | INFO | Extracting features for kNN / t-SNE / UMAP...
+02:42:47 | eval[SimCLR-10pct/vit_small] | INFO | kNN(k=20) top-1: 0.8806
+02:43:48 | eval[SimCLR-10pct/vit_small] | INFO | Saved t-SNE / UMAP plots.
+03:10:09 | eval[SimCLR-10pct/vit_small] | INFO | Linear test acc 0.8747 | bal-acc 0.8449 | f1-macro 0.8348 | AUC 0.987612743202112
+03:14:37 | eval[SimCLR-10pct/vit_small] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.8999 | bal-acc 0.8796 | f1-macro 0.8726
+03:16:46 | eval[SimCLR-10pct/vit_small] | INFO | Low-shot 1.0% (n=901) -> test acc 0.8720 | bal-acc 0.8304 | f1-macro 0.8255
+03:16:46 | eval[SimCLR-10pct/vit_small] | INFO | Downstream evaluation complete.

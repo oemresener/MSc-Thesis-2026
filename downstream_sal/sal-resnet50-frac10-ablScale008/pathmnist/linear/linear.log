@@ -1,0 +1,32 @@
+03:37:03 | probe[linear/resnet50] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+03:37:18 | probe[linear/resnet50] | INFO | [linear] epoch 001/30 | train_loss 0.8719 train_acc 0.6938 | val_loss 0.6094 val_acc 0.7766
+03:37:32 | probe[linear/resnet50] | INFO | [linear] epoch 002/30 | train_loss 0.5543 train_acc 0.7994 | val_loss 0.5189 val_acc 0.8143
+03:37:46 | probe[linear/resnet50] | INFO | [linear] epoch 003/30 | train_loss 0.5227 train_acc 0.8104 | val_loss 0.4938 val_acc 0.8249
+03:37:59 | probe[linear/resnet50] | INFO | [linear] epoch 004/30 | train_loss 0.4984 train_acc 0.8201 | val_loss 0.4884 val_acc 0.8251
+03:38:13 | probe[linear/resnet50] | INFO | [linear] epoch 005/30 | train_loss 0.4854 train_acc 0.8245 | val_loss 0.4784 val_acc 0.8279
+03:38:26 | probe[linear/resnet50] | INFO | [linear] epoch 006/30 | train_loss 0.4794 train_acc 0.8253 | val_loss 0.4806 val_acc 0.8295
+03:38:40 | probe[linear/resnet50] | INFO | [linear] epoch 007/30 | train_loss 0.4682 train_acc 0.8303 | val_loss 0.5108 val_acc 0.8141
+03:38:54 | probe[linear/resnet50] | INFO | [linear] epoch 008/30 | train_loss 0.4592 train_acc 0.8341 | val_loss 0.4458 val_acc 0.8413
+03:39:08 | probe[linear/resnet50] | INFO | [linear] epoch 009/30 | train_loss 0.4572 train_acc 0.8341 | val_loss 0.4664 val_acc 0.8314
+03:39:22 | probe[linear/resnet50] | INFO | [linear] epoch 010/30 | train_loss 0.4479 train_acc 0.8377 | val_loss 0.4415 val_acc 0.8415
+03:39:36 | probe[linear/resnet50] | INFO | [linear] epoch 011/30 | train_loss 0.4467 train_acc 0.8385 | val_loss 0.4412 val_acc 0.8417
+03:39:50 | probe[linear/resnet50] | INFO | [linear] epoch 012/30 | train_loss 0.4394 train_acc 0.8406 | val_loss 0.4347 val_acc 0.8429
+03:40:04 | probe[linear/resnet50] | INFO | [linear] epoch 013/30 | train_loss 0.4353 train_acc 0.8432 | val_loss 0.4221 val_acc 0.8485
+03:40:18 | probe[linear/resnet50] | INFO | [linear] epoch 014/30 | train_loss 0.4331 train_acc 0.8421 | val_loss 0.4238 val_acc 0.8472
+03:40:32 | probe[linear/resnet50] | INFO | [linear] epoch 015/30 | train_loss 0.4307 train_acc 0.8436 | val_loss 0.4472 val_acc 0.8365
+03:40:46 | probe[linear/resnet50] | INFO | [linear] epoch 016/30 | train_loss 0.4249 train_acc 0.8464 | val_loss 0.4207 val_acc 0.8494
+03:41:00 | probe[linear/resnet50] | INFO | [linear] epoch 017/30 | train_loss 0.4231 train_acc 0.8467 | val_loss 0.4194 val_acc 0.8519
+03:41:14 | probe[linear/resnet50] | INFO | [linear] epoch 018/30 | train_loss 0.4179 train_acc 0.8491 | val_loss 0.4240 val_acc 0.8466
+03:41:28 | probe[linear/resnet50] | INFO | [linear] epoch 019/30 | train_loss 0.4176 train_acc 0.8489 | val_loss 0.4259 val_acc 0.8468
+03:41:42 | probe[linear/resnet50] | INFO | [linear] epoch 020/30 | train_loss 0.4146 train_acc 0.8499 | val_loss 0.4156 val_acc 0.8506
+03:41:55 | probe[linear/resnet50] | INFO | [linear] epoch 021/30 | train_loss 0.4123 train_acc 0.8516 | val_loss 0.4106 val_acc 0.8542
+03:42:09 | probe[linear/resnet50] | INFO | [linear] epoch 022/30 | train_loss 0.4104 train_acc 0.8521 | val_loss 0.4076 val_acc 0.8570
+03:42:24 | probe[linear/resnet50] | INFO | [linear] epoch 023/30 | train_loss 0.4089 train_acc 0.8522 | val_loss 0.4112 val_acc 0.8522
+03:42:37 | probe[linear/resnet50] | INFO | [linear] epoch 024/30 | train_loss 0.4050 train_acc 0.8544 | val_loss 0.4089 val_acc 0.8536
+03:42:51 | probe[linear/resnet50] | INFO | [linear] epoch 025/30 | train_loss 0.4052 train_acc 0.8545 | val_loss 0.4041 val_acc 0.8548
+03:43:05 | probe[linear/resnet50] | INFO | [linear] epoch 026/30 | train_loss 0.4059 train_acc 0.8546 | val_loss 0.4025 val_acc 0.8565
+03:43:19 | probe[linear/resnet50] | INFO | [linear] epoch 027/30 | train_loss 0.4038 train_acc 0.8557 | val_loss 0.4046 val_acc 0.8569
+03:43:32 | probe[linear/resnet50] | INFO | [linear] epoch 028/30 | train_loss 0.4007 train_acc 0.8565 | val_loss 0.4035 val_acc 0.8580
+03:43:46 | probe[linear/resnet50] | INFO | [linear] epoch 029/30 | train_loss 0.4028 train_acc 0.8561 | val_loss 0.4044 val_acc 0.8575
+03:44:00 | probe[linear/resnet50] | INFO | [linear] epoch 030/30 | train_loss 0.4018 train_acc 0.8558 | val_loss 0.4042 val_acc 0.8570
+03:44:00 | probe[linear/resnet50] | INFO | [linear] done in 00:06:56 | best val_acc 0.8580

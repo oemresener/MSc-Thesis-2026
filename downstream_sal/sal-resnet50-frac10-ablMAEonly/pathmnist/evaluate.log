@@ -1,0 +1,8 @@
+02:08:17 | eval[sal-resnet50-frac10-ablMAEonly/resnet50] | INFO | Loaded backbone weights from /workspace/vcl_pathmnist/runs/sal-pathmnist-resnet50-ep100-bs256-seed42-frac10-ablMAEonly/backbone_final.pt
+02:09:35 | eval[sal-resnet50-frac10-ablMAEonly/resnet50] | INFO | Extracting features for kNN / t-SNE / UMAP...
+02:09:55 | eval[sal-resnet50-frac10-ablMAEonly/resnet50] | INFO | kNN(k=20) top-1: 0.7522
+02:10:26 | eval[sal-resnet50-frac10-ablMAEonly/resnet50] | INFO | Saved t-SNE / UMAP plots.
+02:17:30 | eval[sal-resnet50-frac10-ablMAEonly/resnet50] | INFO | Linear test acc 0.7845 | bal-acc 0.7596 | f1-macro 0.7476 | AUC 0.9695959430140593
+02:19:18 | eval[sal-resnet50-frac10-ablMAEonly/resnet50] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.9189 | bal-acc 0.8959 | f1-macro 0.8904
+02:20:28 | eval[sal-resnet50-frac10-ablMAEonly/resnet50] | INFO | Low-shot 1.0% (n=901) -> test acc 0.7951 | bal-acc 0.7850 | f1-macro 0.7662
+02:20:28 | eval[sal-resnet50-frac10-ablMAEonly/resnet50] | INFO | Downstream evaluation complete.

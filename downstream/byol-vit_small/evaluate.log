@@ -1,0 +1,8 @@
+22:13:36 | eval[byol-vit_small/vit_small] | INFO | Loaded backbone weights from runs/ssl-byol-vit_small-ep100-bs512-seed42/backbone_final.pt
+22:13:37 | eval[byol-vit_small/vit_small] | INFO | Extracting features for kNN / t-SNE / UMAP...
+22:13:53 | eval[byol-vit_small/vit_small] | INFO | kNN(k=20) top-1: 0.9309
+22:14:22 | eval[byol-vit_small/vit_small] | INFO | Saved t-SNE / UMAP plots.
+22:18:50 | eval[byol-vit_small/vit_small] | INFO | Linear test acc 0.9295 | bal-acc 0.9062 | f1-macro 0.9003 | AUC 0.9940806712547041
+22:20:41 | eval[byol-vit_small/vit_small] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.9450 | bal-acc 0.9245 | f1-macro 0.9236
+22:21:59 | eval[byol-vit_small/vit_small] | INFO | Low-shot 1.0% (n=901) -> test acc 0.9178 | bal-acc 0.8779 | f1-macro 0.8769
+22:21:59 | eval[byol-vit_small/vit_small] | INFO | Downstream evaluation complete.

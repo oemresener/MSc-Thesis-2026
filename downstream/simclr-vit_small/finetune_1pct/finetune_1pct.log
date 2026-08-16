@@ -1,0 +1,32 @@
+21:38:40 | probe[finetune_1pct/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+21:38:43 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 001/30 | train_loss 2.4180 train_acc 0.1421 | val_loss 2.3965 val_acc 0.1472
+21:38:45 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 002/30 | train_loss 2.2837 train_acc 0.1731 | val_loss 1.7611 val_acc 0.4762
+21:38:47 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 003/30 | train_loss 1.6784 train_acc 0.5017 | val_loss 1.2897 val_acc 0.6920
+21:38:49 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 004/30 | train_loss 1.2007 train_acc 0.7469 | val_loss 0.8916 val_acc 0.8421
+21:38:52 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 005/30 | train_loss 0.8072 train_acc 0.8735 | val_loss 0.6040 val_acc 0.8718
+21:38:54 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 006/30 | train_loss 0.5528 train_acc 0.8935 | val_loss 0.4315 val_acc 0.8997
+21:38:56 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 007/30 | train_loss 0.3901 train_acc 0.9168 | val_loss 0.3215 val_acc 0.9171
+21:38:58 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 008/30 | train_loss 0.2823 train_acc 0.9312 | val_loss 0.2524 val_acc 0.9326
+21:39:01 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 009/30 | train_loss 0.2134 train_acc 0.9456 | val_loss 0.2161 val_acc 0.9380
+21:39:03 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 010/30 | train_loss 0.1651 train_acc 0.9567 | val_loss 0.1995 val_acc 0.9386
+21:39:05 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 011/30 | train_loss 0.1273 train_acc 0.9756 | val_loss 0.1768 val_acc 0.9464
+21:39:07 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 012/30 | train_loss 0.1032 train_acc 0.9767 | val_loss 0.1719 val_acc 0.9450
+21:39:09 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 013/30 | train_loss 0.0854 train_acc 0.9789 | val_loss 0.1661 val_acc 0.9457
+21:39:11 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 014/30 | train_loss 0.0796 train_acc 0.9834 | val_loss 0.1628 val_acc 0.9460
+21:39:13 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 015/30 | train_loss 0.0675 train_acc 0.9856 | val_loss 0.1640 val_acc 0.9478
+21:39:15 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 016/30 | train_loss 0.0483 train_acc 0.9911 | val_loss 0.1790 val_acc 0.9436
+21:39:17 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 017/30 | train_loss 0.0593 train_acc 0.9845 | val_loss 0.1575 val_acc 0.9514
+21:39:19 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 018/30 | train_loss 0.0390 train_acc 0.9945 | val_loss 0.1517 val_acc 0.9521
+21:39:21 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 019/30 | train_loss 0.0345 train_acc 0.9945 | val_loss 0.1496 val_acc 0.9526
+21:39:23 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 020/30 | train_loss 0.0383 train_acc 0.9911 | val_loss 0.1516 val_acc 0.9525
+21:39:25 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 021/30 | train_loss 0.0307 train_acc 0.9956 | val_loss 0.1573 val_acc 0.9520
+21:39:27 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 022/30 | train_loss 0.0290 train_acc 0.9956 | val_loss 0.1580 val_acc 0.9508
+21:39:29 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 023/30 | train_loss 0.0269 train_acc 0.9967 | val_loss 0.1626 val_acc 0.9494
+21:39:31 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 024/30 | train_loss 0.0270 train_acc 0.9945 | val_loss 0.1645 val_acc 0.9489
+21:39:33 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 025/30 | train_loss 0.0188 train_acc 0.9989 | val_loss 0.1630 val_acc 0.9494
+21:39:35 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 026/30 | train_loss 0.0234 train_acc 0.9978 | val_loss 0.1615 val_acc 0.9506
+21:39:37 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 027/30 | train_loss 0.0172 train_acc 1.0000 | val_loss 0.1607 val_acc 0.9515
+21:39:39 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 028/30 | train_loss 0.0207 train_acc 0.9978 | val_loss 0.1605 val_acc 0.9514
+21:39:41 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 029/30 | train_loss 0.0194 train_acc 1.0000 | val_loss 0.1605 val_acc 0.9514
+21:39:43 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 030/30 | train_loss 0.0279 train_acc 0.9933 | val_loss 0.1603 val_acc 0.9513
+21:39:43 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] done in 00:01:03 | best val_acc 0.9526

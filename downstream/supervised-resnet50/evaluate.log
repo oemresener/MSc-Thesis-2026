@@ -1,0 +1,8 @@
+04:39:00 | eval[supervised-resnet50/resnet50] | INFO | Loaded backbone weights from /workspace/vcl_pathmnist/runs/sup-resnet50-ep100-bs512-seed42/backbone_final.pt
+04:39:01 | eval[supervised-resnet50/resnet50] | INFO | Extracting features for kNN / t-SNE / UMAP...
+04:39:32 | eval[supervised-resnet50/resnet50] | INFO | kNN(k=20) top-1: 0.9535
+04:40:02 | eval[supervised-resnet50/resnet50] | INFO | Saved t-SNE / UMAP plots.
+04:44:37 | eval[supervised-resnet50/resnet50] | INFO | Linear test acc 0.9446 | bal-acc 0.9275 | f1-macro 0.9245 | AUC 0.9895626852566175
+04:46:21 | eval[supervised-resnet50/resnet50] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.9454 | bal-acc 0.9245 | f1-macro 0.9238
+04:47:29 | eval[supervised-resnet50/resnet50] | INFO | Low-shot 1.0% (n=901) -> test acc 0.9450 | bal-acc 0.9173 | f1-macro 0.9181
+04:47:29 | eval[supervised-resnet50/resnet50] | INFO | Downstream evaluation complete.

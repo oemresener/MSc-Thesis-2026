@@ -1,0 +1,37 @@
+{
+  "method": "sal-vit_small",
+  "backbone": "vit_small",
+  "dataset": "pathmnist",
+  "knn": {
+    "knn_top1": 0.9327298050139275,
+    "k": 20
+  },
+  "linear_eval": {
+    "best_val_acc": 0.9909036386399115,
+    "test_metrics": {
+      "accuracy": 0.9217270194986072,
+      "balanced_accuracy": 0.9075503828499915,
+      "f1_macro": 0.9029328040826662,
+      "f1_weighted": 0.9225775233053571
+    },
+    "test_auc": 0.9928110461090631
+  },
+  "lowshot": {
+    "0.1": {
+      "n_train": 9000,
+      "best_val_acc": 0.9901039584881304,
+      "test_accuracy": 0.9416434540389972,
+      "test_balanced_accuracy": 0.92347764512182,
+      "test_f1_macro": 0.9258809679749977,
+      "test_auc_macro": 0.9944465684874813
+    },
+    "0.01": {
+      "n_train": 901,
+      "best_val_acc": 0.9695121953126098,
+      "test_accuracy": 0.9298050139275766,
+      "test_balanced_accuracy": 0.9003738245949245,
+      "test_f1_macro": 0.8994194287909932,
+      "test_auc_macro": 0.9901194847744392
+    }
+  }
+}

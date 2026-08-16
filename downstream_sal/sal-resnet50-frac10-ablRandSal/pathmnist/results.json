@@ -1,0 +1,36 @@
+{
+  "method": "sal-resnet50-frac10-ablRandSal",
+  "backbone": "resnet50",
+  "knn": {
+    "knn_top1": 0.8505571030640668,
+    "k": 20
+  },
+  "linear_eval": {
+    "best_val_acc": 0.8558576570087221,
+    "test_metrics": {
+      "accuracy": 0.8573816155988858,
+      "balanced_accuracy": 0.814868977796815,
+      "f1_macro": 0.8094980036760315,
+      "f1_weighted": 0.8540256727553287
+    },
+    "test_auc": 0.9826875902374685
+  },
+  "lowshot": {
+    "0.1": {
+      "n_train": 9000,
+      "best_val_acc": 0.9621151539145923,
+      "test_accuracy": 0.9090529247910863,
+      "test_balanced_accuracy": 0.8945251565233985,
+      "test_f1_macro": 0.8876238081713058,
+      "test_auc_macro": 0.9913986290976522
+    },
+    "0.01": {
+      "n_train": 901,
+      "best_val_acc": 0.8689524190085547,
+      "test_accuracy": 0.8733983286908078,
+      "test_balanced_accuracy": 0.8376276725373907,
+      "test_f1_macro": 0.83039618979705,
+      "test_auc_macro": 0.986018034607857
+    }
+  }
+}

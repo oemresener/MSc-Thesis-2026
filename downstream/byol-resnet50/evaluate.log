@@ -1,0 +1,8 @@
+18:10:09 | eval[byol-resnet50/resnet50] | INFO | Loaded backbone weights from /workspace/vcl_pathmnist/runs/ssl-byol-resnet50-ep100-bs512-seed42/backbone_final.pt
+18:10:09 | eval[byol-resnet50/resnet50] | INFO | Extracting features for kNN / t-SNE / UMAP...
+18:10:42 | eval[byol-resnet50/resnet50] | INFO | kNN(k=20) top-1: 0.9175
+18:11:12 | eval[byol-resnet50/resnet50] | INFO | Saved t-SNE / UMAP plots.
+18:15:47 | eval[byol-resnet50/resnet50] | INFO | Linear test acc 0.9235 | bal-acc 0.8994 | f1-macro 0.8936 | AUC 0.9932512672473527
+18:17:32 | eval[byol-resnet50/resnet50] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.9308 | bal-acc 0.9092 | f1-macro 0.9029
+18:18:37 | eval[byol-resnet50/resnet50] | INFO | Low-shot 1.0% (n=901) -> test acc 0.8889 | bal-acc 0.8507 | f1-macro 0.8424
+18:18:37 | eval[byol-resnet50/resnet50] | INFO | Downstream evaluation complete.

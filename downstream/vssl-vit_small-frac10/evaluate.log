@@ -1,0 +1,8 @@
+15:10:38 | eval[VSSL-10pct/vit_small] | INFO | Loaded backbone weights from runs/ssl-vssl-vit_small-ep100-bs256-seed42-frac10/backbone_final.pt
+15:10:39 | eval[VSSL-10pct/vit_small] | INFO | Extracting features for kNN / t-SNE / UMAP...
+15:12:42 | eval[VSSL-10pct/vit_small] | INFO | kNN(k=20) top-1: 0.8026
+15:13:13 | eval[VSSL-10pct/vit_small] | INFO | Saved t-SNE / UMAP plots.
+15:20:32 | eval[VSSL-10pct/vit_small] | INFO | Linear test acc 0.8252 | bal-acc 0.7771 | f1-macro 0.7636 | AUC 0.9769763048756555
+15:22:12 | eval[VSSL-10pct/vit_small] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.8510 | bal-acc 0.8045 | f1-macro 0.7911
+15:23:15 | eval[VSSL-10pct/vit_small] | INFO | Low-shot 1.0% (n=901) -> test acc 0.8072 | bal-acc 0.7470 | f1-macro 0.7323
+15:23:15 | eval[VSSL-10pct/vit_small] | INFO | Downstream evaluation complete.

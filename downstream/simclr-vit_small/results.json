@@ -1,0 +1,36 @@
+{
+  "method": "simclr-vit_small",
+  "backbone": "vit_small",
+  "knn": {
+    "knn_top1": 0.9332869080779944,
+    "k": 20
+  },
+  "linear_eval": {
+    "best_val_acc": 0.9763094764001748,
+    "test_metrics": {
+      "accuracy": 0.9370473537604457,
+      "balanced_accuracy": 0.9125349464832606,
+      "f1_macro": 0.9100596370369392,
+      "f1_weighted": 0.9363434336409177
+    },
+    "test_auc": 0.994655594530347
+  },
+  "lowshot": {
+    "0.1": {
+      "n_train": 9000,
+      "best_val_acc": 0.9835065975278818,
+      "test_accuracy": 0.9440111420612813,
+      "test_balanced_accuracy": 0.9238449446223456,
+      "test_f1_macro": 0.9237515038408269,
+      "test_auc_macro": 0.9945748561717553
+    },
+    "0.01": {
+      "n_train": 901,
+      "best_val_acc": 0.9526189527288527,
+      "test_accuracy": 0.9249303621169916,
+      "test_balanced_accuracy": 0.8918308216111916,
+      "test_f1_macro": 0.8860001453264669,
+      "test_auc_macro": 0.9924508217854479
+    }
+  }
+}

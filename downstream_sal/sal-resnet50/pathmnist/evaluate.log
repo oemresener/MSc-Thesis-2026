@@ -1,0 +1,6 @@
+10:42:27 | eval[sal-resnet50/resnet50/pathmnist] | INFO | Evaluating PathMNIST (colorectal histology) (classes=9)
+10:42:28 | eval[sal-resnet50/resnet50/pathmnist] | INFO | Loaded backbone: missing=0 unexpected=0
+10:42:48 | eval[sal-resnet50/resnet50/pathmnist] | INFO | kNN train set capped to 20000 of 89996.
+10:42:48 | eval[sal-resnet50/resnet50/pathmnist] | INFO | Extracting features for kNN / t-SNE / UMAP...
+10:42:55 | eval[sal-resnet50/resnet50/pathmnist] | INFO | kNN(k=20) top-1: 0.9319
+10:53:27 | eval[sal-resnet50/resnet50/pathmnist] | INFO | Downstream evaluation on pathmnist complete.

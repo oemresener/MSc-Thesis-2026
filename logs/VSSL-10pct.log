@@ -1,0 +1,210 @@
+[pretrain] Using 9000/89996 samples (10% stratified)
+15:00:23 | ssl[vssl/vit_small] | INFO | Model: vssl / vit_small -- params: 25.56M
+15:00:29 | ssl[vssl/vit_small] | INFO | epoch 001 done in 00:00:05 | loss -15.9864
+15:00:33 | ssl[vssl/vit_small] | INFO | epoch 002 done in 00:00:03 | loss -19.9406
+15:00:36 | ssl[vssl/vit_small] | INFO | epoch 003 done in 00:00:03 | loss -20.9952
+15:00:40 | ssl[vssl/vit_small] | INFO | epoch 004 done in 00:00:03 | loss -21.2248
+15:00:44 | ssl[vssl/vit_small] | INFO | epoch 005 done in 00:00:03 | loss -21.2240
+15:00:48 | ssl[vssl/vit_small] | INFO | epoch 006 done in 00:00:04 | loss -21.2921
+15:00:52 | ssl[vssl/vit_small] | INFO | epoch 007 done in 00:00:03 | loss -21.3388
+15:00:56 | ssl[vssl/vit_small] | INFO | epoch 008 done in 00:00:03 | loss -21.3543
+15:01:00 | ssl[vssl/vit_small] | INFO | epoch 009 done in 00:00:04 | loss -21.3828
+15:01:04 | ssl[vssl/vit_small] | INFO | epoch 010 done in 00:00:04 | loss -21.4342
+15:01:08 | ssl[vssl/vit_small] | INFO | epoch 011 done in 00:00:03 | loss -21.4758
+15:01:13 | ssl[vssl/vit_small] | INFO | epoch 012 done in 00:00:04 | loss -21.5168
+15:01:17 | ssl[vssl/vit_small] | INFO | epoch 013 done in 00:00:04 | loss -21.6030
+15:01:21 | ssl[vssl/vit_small] | INFO | epoch 014 done in 00:00:04 | loss -21.6407
+15:01:26 | ssl[vssl/vit_small] | INFO | epoch 015 done in 00:00:04 | loss -21.6789
+15:01:30 | ssl[vssl/vit_small] | INFO | epoch 016 done in 00:00:04 | loss -21.7775
+15:01:35 | ssl[vssl/vit_small] | INFO | epoch 017 done in 00:00:04 | loss -21.8377
+15:01:39 | ssl[vssl/vit_small] | INFO | epoch 018 done in 00:00:04 | loss -21.9101
+15:01:43 | ssl[vssl/vit_small] | INFO | epoch 019 done in 00:00:04 | loss -21.9849
+15:01:48 | ssl[vssl/vit_small] | INFO | epoch 020 done in 00:00:04 | loss -22.0716
+15:01:52 | ssl[vssl/vit_small] | INFO | epoch 021 done in 00:00:04 | loss -22.1336
+15:01:57 | ssl[vssl/vit_small] | INFO | epoch 022 done in 00:00:04 | loss -22.1948
+15:02:01 | ssl[vssl/vit_small] | INFO | epoch 023 done in 00:00:04 | loss -22.2573
+15:02:06 | ssl[vssl/vit_small] | INFO | epoch 024 done in 00:00:04 | loss -22.3211
+15:02:10 | ssl[vssl/vit_small] | INFO | epoch 025 done in 00:00:04 | loss -22.3893
+15:02:15 | ssl[vssl/vit_small] | INFO | epoch 026 done in 00:00:04 | loss -22.4363
+15:02:19 | ssl[vssl/vit_small] | INFO | epoch 027 done in 00:00:04 | loss -22.4700
+15:02:24 | ssl[vssl/vit_small] | INFO | epoch 028 done in 00:00:04 | loss -22.5255
+15:02:28 | ssl[vssl/vit_small] | INFO | epoch 029 done in 00:00:04 | loss -22.5756
+15:02:33 | ssl[vssl/vit_small] | INFO | epoch 030 done in 00:00:04 | loss -22.6160
+15:02:38 | ssl[vssl/vit_small] | INFO | epoch 031 done in 00:00:04 | loss -22.6443
+15:02:43 | ssl[vssl/vit_small] | INFO | epoch 032 done in 00:00:05 | loss -22.6980
+15:02:48 | ssl[vssl/vit_small] | INFO | epoch 033 done in 00:00:04 | loss -22.7211
+15:02:52 | ssl[vssl/vit_small] | INFO | epoch 034 done in 00:00:04 | loss -22.7593
+15:02:57 | ssl[vssl/vit_small] | INFO | epoch 035 done in 00:00:04 | loss -22.7835
+15:03:01 | ssl[vssl/vit_small] | INFO | epoch 036 done in 00:00:04 | loss -22.8106
+15:03:05 | ssl[vssl/vit_small] | INFO | epoch 037 done in 00:00:04 | loss -22.8388
+15:03:10 | ssl[vssl/vit_small] | INFO | epoch 038 done in 00:00:04 | loss -22.8689
+15:03:14 | ssl[vssl/vit_small] | INFO | epoch 039 done in 00:00:04 | loss -22.8953
+15:03:19 | ssl[vssl/vit_small] | INFO | epoch 040 done in 00:00:04 | loss -22.9157
+15:03:23 | ssl[vssl/vit_small] | INFO | epoch 041 done in 00:00:04 | loss -22.9344
+15:03:28 | ssl[vssl/vit_small] | INFO | epoch 042 done in 00:00:05 | loss -22.9405
+15:03:33 | ssl[vssl/vit_small] | INFO | epoch 043 done in 00:00:04 | loss -22.9586
+15:03:37 | ssl[vssl/vit_small] | INFO | epoch 044 done in 00:00:04 | loss -22.9824
+15:03:42 | ssl[vssl/vit_small] | INFO | epoch 045 done in 00:00:04 | loss -23.0021
+15:03:46 | ssl[vssl/vit_small] | INFO | epoch 046 done in 00:00:04 | loss -23.0155
+15:03:50 | ssl[vssl/vit_small] | INFO | epoch 047 done in 00:00:04 | loss -23.0312
+15:03:55 | ssl[vssl/vit_small] | INFO | epoch 048 done in 00:00:04 | loss -23.0429
+15:04:00 | ssl[vssl/vit_small] | INFO | epoch 049 done in 00:00:04 | loss -23.0576
+15:04:04 | ssl[vssl/vit_small] | INFO | epoch 050 done in 00:00:04 | loss -23.0840
+15:04:08 | ssl[vssl/vit_small] | INFO | epoch 051 done in 00:00:04 | loss -23.0986
+15:04:13 | ssl[vssl/vit_small] | INFO | epoch 052 done in 00:00:04 | loss -23.1045
+15:04:17 | ssl[vssl/vit_small] | INFO | epoch 053 done in 00:00:04 | loss -23.1271
+15:04:22 | ssl[vssl/vit_small] | INFO | epoch 054 done in 00:00:04 | loss -23.1451
+15:04:26 | ssl[vssl/vit_small] | INFO | epoch 055 done in 00:00:04 | loss -23.1629
+15:04:31 | ssl[vssl/vit_small] | INFO | epoch 056 done in 00:00:04 | loss -23.1815
+15:04:35 | ssl[vssl/vit_small] | INFO | epoch 057 done in 00:00:04 | loss -23.1952
+15:04:39 | ssl[vssl/vit_small] | INFO | epoch 058 done in 00:00:04 | loss -23.2130
+15:04:44 | ssl[vssl/vit_small] | INFO | epoch 059 done in 00:00:04 | loss -23.2201
+15:04:48 | ssl[vssl/vit_small] | INFO | epoch 060 done in 00:00:04 | loss -23.2346
+15:04:53 | ssl[vssl/vit_small] | INFO | epoch 061 done in 00:00:04 | loss -23.2489
+15:04:58 | ssl[vssl/vit_small] | INFO | epoch 062 done in 00:00:04 | loss -23.2648
+15:05:02 | ssl[vssl/vit_small] | INFO | epoch 063 done in 00:00:04 | loss -23.2736
+15:05:07 | ssl[vssl/vit_small] | INFO | epoch 064 done in 00:00:04 | loss -23.3023
+15:05:11 | ssl[vssl/vit_small] | INFO | epoch 065 done in 00:00:04 | loss -23.3058
+15:05:16 | ssl[vssl/vit_small] | INFO | epoch 066 done in 00:00:04 | loss -23.3122
+15:05:20 | ssl[vssl/vit_small] | INFO | epoch 067 done in 00:00:04 | loss -23.3258
+15:05:25 | ssl[vssl/vit_small] | INFO | epoch 068 done in 00:00:04 | loss -23.3350
+15:05:29 | ssl[vssl/vit_small] | INFO | epoch 069 done in 00:00:04 | loss -23.3407
+15:05:33 | ssl[vssl/vit_small] | INFO | epoch 070 done in 00:00:04 | loss -23.3500
+15:05:38 | ssl[vssl/vit_small] | INFO | epoch 071 done in 00:00:04 | loss -23.3636
+15:05:42 | ssl[vssl/vit_small] | INFO | epoch 072 done in 00:00:03 | loss -23.3750
+15:05:46 | ssl[vssl/vit_small] | INFO | epoch 073 done in 00:00:04 | loss -23.3771
+15:05:50 | ssl[vssl/vit_small] | INFO | epoch 074 done in 00:00:03 | loss -23.3944
+15:05:54 | ssl[vssl/vit_small] | INFO | epoch 075 done in 00:00:04 | loss -23.3988
+15:05:58 | ssl[vssl/vit_small] | INFO | epoch 076 done in 00:00:04 | loss -23.3958
+15:06:02 | ssl[vssl/vit_small] | INFO | epoch 077 done in 00:00:04 | loss -23.4079
+15:06:06 | ssl[vssl/vit_small] | INFO | epoch 078 done in 00:00:04 | loss -23.4126
+15:06:10 | ssl[vssl/vit_small] | INFO | epoch 079 done in 00:00:04 | loss -23.4093
+15:06:14 | ssl[vssl/vit_small] | INFO | epoch 080 done in 00:00:03 | loss -23.4253
+15:06:18 | ssl[vssl/vit_small] | INFO | epoch 081 done in 00:00:03 | loss -23.4203
+15:06:22 | ssl[vssl/vit_small] | INFO | epoch 082 done in 00:00:03 | loss -23.4260
+15:06:26 | ssl[vssl/vit_small] | INFO | epoch 083 done in 00:00:03 | loss -23.4279
+15:06:30 | ssl[vssl/vit_small] | INFO | epoch 084 done in 00:00:03 | loss -23.4351
+15:06:34 | ssl[vssl/vit_small] | INFO | epoch 085 done in 00:00:03 | loss -23.4404
+15:06:38 | ssl[vssl/vit_small] | INFO | epoch 086 done in 00:00:03 | loss -23.4371
+15:06:42 | ssl[vssl/vit_small] | INFO | epoch 087 done in 00:00:04 | loss -23.4381
+15:06:46 | ssl[vssl/vit_small] | INFO | epoch 088 done in 00:00:03 | loss -23.4470
+15:06:50 | ssl[vssl/vit_small] | INFO | epoch 089 done in 00:00:03 | loss -23.4445
+15:06:54 | ssl[vssl/vit_small] | INFO | epoch 090 done in 00:00:03 | loss -23.4396
+15:06:58 | ssl[vssl/vit_small] | INFO | epoch 091 done in 00:00:03 | loss -23.4469
+15:07:02 | ssl[vssl/vit_small] | INFO | epoch 092 done in 00:00:03 | loss -23.4424
+15:07:05 | ssl[vssl/vit_small] | INFO | epoch 093 done in 00:00:03 | loss -23.4540
+15:07:09 | ssl[vssl/vit_small] | INFO | epoch 094 done in 00:00:03 | loss -23.4522
+15:07:13 | ssl[vssl/vit_small] | INFO | epoch 095 done in 00:00:03 | loss -23.4542
+15:07:17 | ssl[vssl/vit_small] | INFO | epoch 096 done in 00:00:03 | loss -23.4541
+15:07:21 | ssl[vssl/vit_small] | INFO | epoch 097 done in 00:00:03 | loss -23.4551
+15:07:25 | ssl[vssl/vit_small] | INFO | epoch 098 done in 00:00:03 | loss -23.4561
+15:07:29 | ssl[vssl/vit_small] | INFO | epoch 099 done in 00:00:04 | loss -23.4586
+15:07:33 | ssl[vssl/vit_small] | INFO | epoch 100 done in 00:00:03 | loss -23.4567
+15:07:33 | ssl[vssl/vit_small] | INFO | Total SSL training: 00:07:10 (best loss -23.4586)
+
+15:10:38 | eval[VSSL-10pct/vit_small] | INFO | Loaded backbone weights from runs/ssl-vssl-vit_small-ep100-bs256-seed42-frac10/backbone_final.pt
+15:10:39 | eval[VSSL-10pct/vit_small] | INFO | Extracting features for kNN / t-SNE / UMAP...
+15:12:42 | eval[VSSL-10pct/vit_small] | INFO | kNN(k=20) top-1: 0.8026
+/workspace/vcl_pathmnist/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+15:13:13 | eval[VSSL-10pct/vit_small] | INFO | Saved t-SNE / UMAP plots.
+15:13:27 | probe[linear/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+15:13:41 | probe[linear/vit_small] | INFO | [linear] epoch 001/30 | train_loss 1.4038 train_acc 0.5001 | val_loss 0.7952 val_acc 0.7220
+15:13:56 | probe[linear/vit_small] | INFO | [linear] epoch 002/30 | train_loss 0.7554 train_acc 0.7328 | val_loss 0.6701 val_acc 0.7675
+15:14:10 | probe[linear/vit_small] | INFO | [linear] epoch 003/30 | train_loss 0.6924 train_acc 0.7549 | val_loss 0.6235 val_acc 0.7813
+15:14:24 | probe[linear/vit_small] | INFO | [linear] epoch 004/30 | train_loss 0.6660 train_acc 0.7638 | val_loss 0.5967 val_acc 0.7942
+15:14:38 | probe[linear/vit_small] | INFO | [linear] epoch 005/30 | train_loss 0.6474 train_acc 0.7709 | val_loss 0.5824 val_acc 0.8003
+15:14:52 | probe[linear/vit_small] | INFO | [linear] epoch 006/30 | train_loss 0.6346 train_acc 0.7757 | val_loss 0.5791 val_acc 0.7957
+15:15:06 | probe[linear/vit_small] | INFO | [linear] epoch 007/30 | train_loss 0.6259 train_acc 0.7777 | val_loss 0.5585 val_acc 0.8041
+15:15:20 | probe[linear/vit_small] | INFO | [linear] epoch 008/30 | train_loss 0.6192 train_acc 0.7804 | val_loss 0.5580 val_acc 0.8059
+15:15:34 | probe[linear/vit_small] | INFO | [linear] epoch 009/30 | train_loss 0.6125 train_acc 0.7815 | val_loss 0.5488 val_acc 0.8087
+15:15:48 | probe[linear/vit_small] | INFO | [linear] epoch 010/30 | train_loss 0.6063 train_acc 0.7854 | val_loss 0.5418 val_acc 0.8085
+15:16:02 | probe[linear/vit_small] | INFO | [linear] epoch 011/30 | train_loss 0.6017 train_acc 0.7865 | val_loss 0.5366 val_acc 0.8117
+15:16:16 | probe[linear/vit_small] | INFO | [linear] epoch 012/30 | train_loss 0.5962 train_acc 0.7882 | val_loss 0.5316 val_acc 0.8131
+15:16:30 | probe[linear/vit_small] | INFO | [linear] epoch 013/30 | train_loss 0.5902 train_acc 0.7900 | val_loss 0.5307 val_acc 0.8144
+15:16:45 | probe[linear/vit_small] | INFO | [linear] epoch 014/30 | train_loss 0.5919 train_acc 0.7910 | val_loss 0.5260 val_acc 0.8144
+15:16:59 | probe[linear/vit_small] | INFO | [linear] epoch 015/30 | train_loss 0.5882 train_acc 0.7908 | val_loss 0.5232 val_acc 0.8171
+15:17:13 | probe[linear/vit_small] | INFO | [linear] epoch 016/30 | train_loss 0.5863 train_acc 0.7927 | val_loss 0.5168 val_acc 0.8169
+15:17:27 | probe[linear/vit_small] | INFO | [linear] epoch 017/30 | train_loss 0.5828 train_acc 0.7917 | val_loss 0.5181 val_acc 0.8186
+15:17:41 | probe[linear/vit_small] | INFO | [linear] epoch 018/30 | train_loss 0.5815 train_acc 0.7935 | val_loss 0.5153 val_acc 0.8169
+15:17:56 | probe[linear/vit_small] | INFO | [linear] epoch 019/30 | train_loss 0.5770 train_acc 0.7942 | val_loss 0.5145 val_acc 0.8182
+15:18:10 | probe[linear/vit_small] | INFO | [linear] epoch 020/30 | train_loss 0.5774 train_acc 0.7958 | val_loss 0.5134 val_acc 0.8213
+15:18:24 | probe[linear/vit_small] | INFO | [linear] epoch 021/30 | train_loss 0.5749 train_acc 0.7958 | val_loss 0.5158 val_acc 0.8188
+15:18:38 | probe[linear/vit_small] | INFO | [linear] epoch 022/30 | train_loss 0.5750 train_acc 0.7949 | val_loss 0.5109 val_acc 0.8200
+15:18:52 | probe[linear/vit_small] | INFO | [linear] epoch 023/30 | train_loss 0.5732 train_acc 0.7972 | val_loss 0.5096 val_acc 0.8217
+15:19:06 | probe[linear/vit_small] | INFO | [linear] epoch 024/30 | train_loss 0.5721 train_acc 0.7979 | val_loss 0.5098 val_acc 0.8212
+15:19:20 | probe[linear/vit_small] | INFO | [linear] epoch 025/30 | train_loss 0.5712 train_acc 0.7973 | val_loss 0.5090 val_acc 0.8217
+15:19:34 | probe[linear/vit_small] | INFO | [linear] epoch 026/30 | train_loss 0.5727 train_acc 0.7972 | val_loss 0.5088 val_acc 0.8211
+15:19:49 | probe[linear/vit_small] | INFO | [linear] epoch 027/30 | train_loss 0.5736 train_acc 0.7969 | val_loss 0.5082 val_acc 0.8205
+15:20:03 | probe[linear/vit_small] | INFO | [linear] epoch 028/30 | train_loss 0.5723 train_acc 0.7951 | val_loss 0.5082 val_acc 0.8216
+15:20:17 | probe[linear/vit_small] | INFO | [linear] epoch 029/30 | train_loss 0.5708 train_acc 0.7981 | val_loss 0.5082 val_acc 0.8201
+15:20:31 | probe[linear/vit_small] | INFO | [linear] epoch 030/30 | train_loss 0.5720 train_acc 0.7975 | val_loss 0.5082 val_acc 0.8214
+15:20:31 | probe[linear/vit_small] | INFO | [linear] done in 00:07:04 | best val_acc 0.8217
+15:20:32 | eval[VSSL-10pct/vit_small] | INFO | Linear test acc 0.8252 | bal-acc 0.7771 | f1-macro 0.7636 | AUC 0.9769763048756555
+15:20:48 | probe[finetune_10pct/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+15:20:51 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 001/30 | train_loss 1.4636 train_acc 0.4761 | val_loss 0.8543 val_acc 0.6827
+15:20:54 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 002/30 | train_loss 0.6751 train_acc 0.7528 | val_loss 0.5661 val_acc 0.7908
+15:20:57 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 003/30 | train_loss 0.5420 train_acc 0.8062 | val_loss 0.5551 val_acc 0.8017
+15:21:00 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 004/30 | train_loss 0.4766 train_acc 0.8314 | val_loss 0.3765 val_acc 0.8699
+15:21:03 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 005/30 | train_loss 0.4519 train_acc 0.8394 | val_loss 0.3874 val_acc 0.8675
+15:21:06 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 006/30 | train_loss 0.4098 train_acc 0.8518 | val_loss 0.3712 val_acc 0.8660
+15:21:08 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 007/30 | train_loss 0.3868 train_acc 0.8586 | val_loss 0.3597 val_acc 0.8723
+15:21:11 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 008/30 | train_loss 0.3811 train_acc 0.8648 | val_loss 0.3358 val_acc 0.8798
+15:21:14 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 009/30 | train_loss 0.3565 train_acc 0.8737 | val_loss 0.3068 val_acc 0.8896
+15:21:17 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 010/30 | train_loss 0.3461 train_acc 0.8752 | val_loss 0.3273 val_acc 0.8859
+15:21:19 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 011/30 | train_loss 0.3178 train_acc 0.8867 | val_loss 0.3235 val_acc 0.8884
+15:21:22 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 012/30 | train_loss 0.3174 train_acc 0.8871 | val_loss 0.3091 val_acc 0.8896
+15:21:25 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 013/30 | train_loss 0.3077 train_acc 0.8897 | val_loss 0.2676 val_acc 0.9055
+15:21:27 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 014/30 | train_loss 0.2801 train_acc 0.9026 | val_loss 0.2754 val_acc 0.9047
+15:21:30 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 015/30 | train_loss 0.2637 train_acc 0.9060 | val_loss 0.2504 val_acc 0.9130
+15:21:33 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 016/30 | train_loss 0.2641 train_acc 0.9029 | val_loss 0.2620 val_acc 0.9097
+15:21:35 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 017/30 | train_loss 0.2615 train_acc 0.9093 | val_loss 0.2369 val_acc 0.9178
+15:21:38 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 018/30 | train_loss 0.2382 train_acc 0.9130 | val_loss 0.2449 val_acc 0.9143
+15:21:41 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 019/30 | train_loss 0.2343 train_acc 0.9139 | val_loss 0.2130 val_acc 0.9281
+15:21:43 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 020/30 | train_loss 0.2141 train_acc 0.9230 | val_loss 0.2399 val_acc 0.9145
+15:21:46 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 021/30 | train_loss 0.2068 train_acc 0.9292 | val_loss 0.2068 val_acc 0.9288
+15:21:49 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 022/30 | train_loss 0.2039 train_acc 0.9279 | val_loss 0.2090 val_acc 0.9287
+15:21:51 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 023/30 | train_loss 0.1912 train_acc 0.9328 | val_loss 0.2051 val_acc 0.9299
+15:21:54 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 024/30 | train_loss 0.1857 train_acc 0.9337 | val_loss 0.2045 val_acc 0.9317
+15:21:57 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 025/30 | train_loss 0.1787 train_acc 0.9373 | val_loss 0.1938 val_acc 0.9324
+15:22:00 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 026/30 | train_loss 0.1764 train_acc 0.9394 | val_loss 0.1938 val_acc 0.9344
+15:22:02 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 027/30 | train_loss 0.1686 train_acc 0.9418 | val_loss 0.1889 val_acc 0.9350
+15:22:05 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 028/30 | train_loss 0.1691 train_acc 0.9392 | val_loss 0.1888 val_acc 0.9361
+15:22:08 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 029/30 | train_loss 0.1599 train_acc 0.9446 | val_loss 0.1881 val_acc 0.9365
+15:22:11 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 030/30 | train_loss 0.1670 train_acc 0.9420 | val_loss 0.1873 val_acc 0.9368
+15:22:11 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] done in 00:01:23 | best val_acc 0.9368
+15:22:12 | eval[VSSL-10pct/vit_small] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.8510 | bal-acc 0.8045 | f1-macro 0.7911
+15:22:26 | probe[finetune_1pct/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+15:22:27 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 001/30 | train_loss 2.1002 train_acc 0.2519 | val_loss 1.6697 val_acc 0.4244
+15:22:29 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 002/30 | train_loss 1.4973 train_acc 0.4850 | val_loss 1.0675 val_acc 0.6294
+15:22:31 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 003/30 | train_loss 1.0151 train_acc 0.6271 | val_loss 0.8661 val_acc 0.7054
+15:22:32 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 004/30 | train_loss 0.8689 train_acc 0.6748 | val_loss 0.7460 val_acc 0.7480
+15:22:34 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 005/30 | train_loss 0.7711 train_acc 0.7281 | val_loss 0.7662 val_acc 0.7193
+15:22:36 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 006/30 | train_loss 0.7614 train_acc 0.7159 | val_loss 0.6891 val_acc 0.7507
+15:22:37 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 007/30 | train_loss 0.7307 train_acc 0.7358 | val_loss 0.6644 val_acc 0.7618
+15:22:39 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 008/30 | train_loss 0.6847 train_acc 0.7458 | val_loss 0.6122 val_acc 0.7866
+15:22:41 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 009/30 | train_loss 0.6003 train_acc 0.7758 | val_loss 0.6010 val_acc 0.7930
+15:22:42 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 010/30 | train_loss 0.5826 train_acc 0.7658 | val_loss 0.5539 val_acc 0.8028
+15:22:44 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 011/30 | train_loss 0.5802 train_acc 0.7891 | val_loss 0.5549 val_acc 0.8129
+15:22:46 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 012/30 | train_loss 0.5357 train_acc 0.8036 | val_loss 0.5178 val_acc 0.8217
+15:22:48 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 013/30 | train_loss 0.5059 train_acc 0.8313 | val_loss 0.5125 val_acc 0.8170
+15:22:49 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 014/30 | train_loss 0.4736 train_acc 0.8291 | val_loss 0.5039 val_acc 0.8257
+15:22:51 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 015/30 | train_loss 0.4620 train_acc 0.8302 | val_loss 0.4986 val_acc 0.8265
+15:22:52 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 016/30 | train_loss 0.4232 train_acc 0.8413 | val_loss 0.5015 val_acc 0.8243
+15:22:54 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 017/30 | train_loss 0.4467 train_acc 0.8446 | val_loss 0.4897 val_acc 0.8264
+15:22:55 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 018/30 | train_loss 0.4196 train_acc 0.8546 | val_loss 0.5159 val_acc 0.8221
+15:22:57 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 019/30 | train_loss 0.4140 train_acc 0.8491 | val_loss 0.4948 val_acc 0.8305
+15:22:58 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 020/30 | train_loss 0.4276 train_acc 0.8535 | val_loss 0.4704 val_acc 0.8385
+15:23:00 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 021/30 | train_loss 0.3763 train_acc 0.8657 | val_loss 0.4739 val_acc 0.8302
+15:23:02 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 022/30 | train_loss 0.3972 train_acc 0.8602 | val_loss 0.4715 val_acc 0.8371
+15:23:03 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 023/30 | train_loss 0.3867 train_acc 0.8668 | val_loss 0.4678 val_acc 0.8367
+15:23:04 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 024/30 | train_loss 0.3830 train_acc 0.8646 | val_loss 0.4587 val_acc 0.8412
+15:23:06 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 025/30 | train_loss 0.3548 train_acc 0.8701 | val_loss 0.4553 val_acc 0.8440
+15:23:08 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 026/30 | train_loss 0.3564 train_acc 0.8657 | val_loss 0.4506 val_acc 0.8451
+15:23:09 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 027/30 | train_loss 0.3457 train_acc 0.8757 | val_loss 0.4475 val_acc 0.8467
+15:23:11 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 028/30 | train_loss 0.3348 train_acc 0.8779 | val_loss 0.4453 val_acc 0.8475
+15:23:13 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 029/30 | train_loss 0.3735 train_acc 0.8624 | val_loss 0.4452 val_acc 0.8471
+15:23:14 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 030/30 | train_loss 0.3338 train_acc 0.8779 | val_loss 0.4453 val_acc 0.8475
+15:23:14 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] done in 00:00:48 | best val_acc 0.8475
+15:23:15 | eval[VSSL-10pct/vit_small] | INFO | Low-shot 1.0% (n=901) -> test acc 0.8072 | bal-acc 0.7470 | f1-macro 0.7323
+15:23:15 | eval[VSSL-10pct/vit_small] | INFO | Downstream evaluation complete.

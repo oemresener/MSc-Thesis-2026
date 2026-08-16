@@ -1,0 +1,32 @@
+15:13:27 | probe[linear/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+15:13:41 | probe[linear/vit_small] | INFO | [linear] epoch 001/30 | train_loss 1.4038 train_acc 0.5001 | val_loss 0.7952 val_acc 0.7220
+15:13:56 | probe[linear/vit_small] | INFO | [linear] epoch 002/30 | train_loss 0.7554 train_acc 0.7328 | val_loss 0.6701 val_acc 0.7675
+15:14:10 | probe[linear/vit_small] | INFO | [linear] epoch 003/30 | train_loss 0.6924 train_acc 0.7549 | val_loss 0.6235 val_acc 0.7813
+15:14:24 | probe[linear/vit_small] | INFO | [linear] epoch 004/30 | train_loss 0.6660 train_acc 0.7638 | val_loss 0.5967 val_acc 0.7942
+15:14:38 | probe[linear/vit_small] | INFO | [linear] epoch 005/30 | train_loss 0.6474 train_acc 0.7709 | val_loss 0.5824 val_acc 0.8003
+15:14:52 | probe[linear/vit_small] | INFO | [linear] epoch 006/30 | train_loss 0.6346 train_acc 0.7757 | val_loss 0.5791 val_acc 0.7957
+15:15:06 | probe[linear/vit_small] | INFO | [linear] epoch 007/30 | train_loss 0.6259 train_acc 0.7777 | val_loss 0.5585 val_acc 0.8041
+15:15:20 | probe[linear/vit_small] | INFO | [linear] epoch 008/30 | train_loss 0.6192 train_acc 0.7804 | val_loss 0.5580 val_acc 0.8059
+15:15:34 | probe[linear/vit_small] | INFO | [linear] epoch 009/30 | train_loss 0.6125 train_acc 0.7815 | val_loss 0.5488 val_acc 0.8087
+15:15:48 | probe[linear/vit_small] | INFO | [linear] epoch 010/30 | train_loss 0.6063 train_acc 0.7854 | val_loss 0.5418 val_acc 0.8085
+15:16:02 | probe[linear/vit_small] | INFO | [linear] epoch 011/30 | train_loss 0.6017 train_acc 0.7865 | val_loss 0.5366 val_acc 0.8117
+15:16:16 | probe[linear/vit_small] | INFO | [linear] epoch 012/30 | train_loss 0.5962 train_acc 0.7882 | val_loss 0.5316 val_acc 0.8131
+15:16:30 | probe[linear/vit_small] | INFO | [linear] epoch 013/30 | train_loss 0.5902 train_acc 0.7900 | val_loss 0.5307 val_acc 0.8144
+15:16:45 | probe[linear/vit_small] | INFO | [linear] epoch 014/30 | train_loss 0.5919 train_acc 0.7910 | val_loss 0.5260 val_acc 0.8144
+15:16:59 | probe[linear/vit_small] | INFO | [linear] epoch 015/30 | train_loss 0.5882 train_acc 0.7908 | val_loss 0.5232 val_acc 0.8171
+15:17:13 | probe[linear/vit_small] | INFO | [linear] epoch 016/30 | train_loss 0.5863 train_acc 0.7927 | val_loss 0.5168 val_acc 0.8169
+15:17:27 | probe[linear/vit_small] | INFO | [linear] epoch 017/30 | train_loss 0.5828 train_acc 0.7917 | val_loss 0.5181 val_acc 0.8186
+15:17:41 | probe[linear/vit_small] | INFO | [linear] epoch 018/30 | train_loss 0.5815 train_acc 0.7935 | val_loss 0.5153 val_acc 0.8169
+15:17:56 | probe[linear/vit_small] | INFO | [linear] epoch 019/30 | train_loss 0.5770 train_acc 0.7942 | val_loss 0.5145 val_acc 0.8182
+15:18:10 | probe[linear/vit_small] | INFO | [linear] epoch 020/30 | train_loss 0.5774 train_acc 0.7958 | val_loss 0.5134 val_acc 0.8213
+15:18:24 | probe[linear/vit_small] | INFO | [linear] epoch 021/30 | train_loss 0.5749 train_acc 0.7958 | val_loss 0.5158 val_acc 0.8188
+15:18:38 | probe[linear/vit_small] | INFO | [linear] epoch 022/30 | train_loss 0.5750 train_acc 0.7949 | val_loss 0.5109 val_acc 0.8200
+15:18:52 | probe[linear/vit_small] | INFO | [linear] epoch 023/30 | train_loss 0.5732 train_acc 0.7972 | val_loss 0.5096 val_acc 0.8217
+15:19:06 | probe[linear/vit_small] | INFO | [linear] epoch 024/30 | train_loss 0.5721 train_acc 0.7979 | val_loss 0.5098 val_acc 0.8212
+15:19:20 | probe[linear/vit_small] | INFO | [linear] epoch 025/30 | train_loss 0.5712 train_acc 0.7973 | val_loss 0.5090 val_acc 0.8217
+15:19:34 | probe[linear/vit_small] | INFO | [linear] epoch 026/30 | train_loss 0.5727 train_acc 0.7972 | val_loss 0.5088 val_acc 0.8211
+15:19:49 | probe[linear/vit_small] | INFO | [linear] epoch 027/30 | train_loss 0.5736 train_acc 0.7969 | val_loss 0.5082 val_acc 0.8205
+15:20:03 | probe[linear/vit_small] | INFO | [linear] epoch 028/30 | train_loss 0.5723 train_acc 0.7951 | val_loss 0.5082 val_acc 0.8216
+15:20:17 | probe[linear/vit_small] | INFO | [linear] epoch 029/30 | train_loss 0.5708 train_acc 0.7981 | val_loss 0.5082 val_acc 0.8201
+15:20:31 | probe[linear/vit_small] | INFO | [linear] epoch 030/30 | train_loss 0.5720 train_acc 0.7975 | val_loss 0.5082 val_acc 0.8214
+15:20:31 | probe[linear/vit_small] | INFO | [linear] done in 00:07:04 | best val_acc 0.8217

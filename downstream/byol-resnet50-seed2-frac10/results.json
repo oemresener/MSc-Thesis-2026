@@ -1,0 +1,36 @@
+{
+  "method": "byol-resnet50-seed2-frac10",
+  "backbone": "resnet50",
+  "knn": {
+    "knn_top1": 0.8164345403899721,
+    "k": 20
+  },
+  "linear_eval": {
+    "best_val_acc": 0.7910835666448677,
+    "test_metrics": {
+      "accuracy": 0.8447075208913649,
+      "balanced_accuracy": 0.7971914659661817,
+      "f1_macro": 0.7925045900449693,
+      "f1_weighted": 0.8415138493850951
+    },
+    "test_auc": 0.9791342818720765
+  },
+  "lowshot": {
+    "0.1": {
+      "n_train": 9000,
+      "best_val_acc": 0.9634146341463414,
+      "test_accuracy": 0.898050139275766,
+      "test_balanced_accuracy": 0.866595829403287,
+      "test_f1_macro": 0.865285727550788,
+      "test_auc_macro": 0.9909775196860353
+    },
+    "0.01": {
+      "n_train": 901,
+      "best_val_acc": 0.8502598961130804,
+      "test_accuracy": 0.8259052924791086,
+      "test_balanced_accuracy": 0.7728320052419808,
+      "test_f1_macro": 0.7700526556783506,
+      "test_auc_macro": 0.9738670328948726
+    }
+  }
+}

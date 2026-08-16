@@ -1,0 +1,510 @@
+[SSL] method=byol backbone=resnet50
+------------------------------------------------
+17:15:04 | ssl[byol/resnet50] | INFO | Model: byol / resnet50 -- params: 35.07M
+17:15:21 | ssl[byol/resnet50] | INFO | ep 001/100 it 50/175 | lr 5.71e-05 | loss 1.1055
+17:15:30 | ssl[byol/resnet50] | INFO | ep 001/100 it 100/175 | lr 1.14e-04 | loss 0.9228
+17:15:38 | ssl[byol/resnet50] | INFO | ep 001/100 it 150/175 | lr 1.71e-04 | loss 0.8383
+17:15:42 | ssl[byol/resnet50] | INFO | epoch 001 done in 00:00:37 | loss 0.7984
+17:15:55 | ssl[byol/resnet50] | INFO | ep 002/100 it 50/175 | lr 2.57e-04 | loss 0.4756
+17:16:03 | ssl[byol/resnet50] | INFO | ep 002/100 it 100/175 | lr 3.14e-04 | loss 0.4066
+17:16:11 | ssl[byol/resnet50] | INFO | ep 002/100 it 150/175 | lr 3.71e-04 | loss 0.3567
+17:16:15 | ssl[byol/resnet50] | INFO | epoch 002 done in 00:00:31 | loss 0.3372
+17:16:28 | ssl[byol/resnet50] | INFO | ep 003/100 it 50/175 | lr 4.57e-04 | loss 0.1884
+17:16:36 | ssl[byol/resnet50] | INFO | ep 003/100 it 100/175 | lr 5.14e-04 | loss 0.1737
+17:16:45 | ssl[byol/resnet50] | INFO | ep 003/100 it 150/175 | lr 5.71e-04 | loss 0.1662
+17:16:49 | ssl[byol/resnet50] | INFO | epoch 003 done in 00:00:30 | loss 0.1625
+17:17:02 | ssl[byol/resnet50] | INFO | ep 004/100 it 50/175 | lr 6.57e-04 | loss 0.1384
+17:17:10 | ssl[byol/resnet50] | INFO | ep 004/100 it 100/175 | lr 7.14e-04 | loss 0.1319
+17:17:18 | ssl[byol/resnet50] | INFO | ep 004/100 it 150/175 | lr 7.71e-04 | loss 0.1309
+17:17:22 | ssl[byol/resnet50] | INFO | epoch 004 done in 00:00:31 | loss 0.1292
+17:17:34 | ssl[byol/resnet50] | INFO | ep 005/100 it 50/175 | lr 8.57e-04 | loss 0.1155
+17:17:42 | ssl[byol/resnet50] | INFO | ep 005/100 it 100/175 | lr 9.14e-04 | loss 0.1147
+17:17:51 | ssl[byol/resnet50] | INFO | ep 005/100 it 150/175 | lr 9.71e-04 | loss 0.1142
+17:17:55 | ssl[byol/resnet50] | INFO | epoch 005 done in 00:00:30 | loss 0.1132
+17:18:08 | ssl[byol/resnet50] | INFO | ep 006/100 it 50/175 | lr 1.00e-03 | loss 0.1063
+17:18:16 | ssl[byol/resnet50] | INFO | ep 006/100 it 100/175 | lr 1.00e-03 | loss 0.1048
+17:18:24 | ssl[byol/resnet50] | INFO | ep 006/100 it 150/175 | lr 1.00e-03 | loss 0.1023
+17:18:28 | ssl[byol/resnet50] | INFO | epoch 006 done in 00:00:30 | loss 0.1018
+17:18:41 | ssl[byol/resnet50] | INFO | ep 007/100 it 50/175 | lr 1.00e-03 | loss 0.0954
+17:18:49 | ssl[byol/resnet50] | INFO | ep 007/100 it 100/175 | lr 9.99e-04 | loss 0.0921
+17:18:58 | ssl[byol/resnet50] | INFO | ep 007/100 it 150/175 | lr 9.99e-04 | loss 0.0918
+17:19:02 | ssl[byol/resnet50] | INFO | epoch 007 done in 00:00:30 | loss 0.0912
+17:19:14 | ssl[byol/resnet50] | INFO | ep 008/100 it 50/175 | lr 9.99e-04 | loss 0.0866
+17:19:22 | ssl[byol/resnet50] | INFO | ep 008/100 it 100/175 | lr 9.98e-04 | loss 0.0868
+17:19:30 | ssl[byol/resnet50] | INFO | ep 008/100 it 150/175 | lr 9.98e-04 | loss 0.0852
+17:19:35 | ssl[byol/resnet50] | INFO | epoch 008 done in 00:00:30 | loss 0.0846
+17:19:47 | ssl[byol/resnet50] | INFO | ep 009/100 it 50/175 | lr 9.97e-04 | loss 0.0807
+17:19:55 | ssl[byol/resnet50] | INFO | ep 009/100 it 100/175 | lr 9.97e-04 | loss 0.0781
+17:20:04 | ssl[byol/resnet50] | INFO | ep 009/100 it 150/175 | lr 9.96e-04 | loss 0.0774
+17:20:08 | ssl[byol/resnet50] | INFO | epoch 009 done in 00:00:30 | loss 0.0772
+17:20:20 | ssl[byol/resnet50] | INFO | ep 010/100 it 50/175 | lr 9.95e-04 | loss 0.0752
+17:20:28 | ssl[byol/resnet50] | INFO | ep 010/100 it 100/175 | lr 9.94e-04 | loss 0.0744
+17:20:36 | ssl[byol/resnet50] | INFO | ep 010/100 it 150/175 | lr 9.94e-04 | loss 0.0746
+17:20:40 | ssl[byol/resnet50] | INFO | epoch 010 done in 00:00:30 | loss 0.0746
+17:20:53 | ssl[byol/resnet50] | INFO | ep 011/100 it 50/175 | lr 9.92e-04 | loss 0.0722
+17:21:01 | ssl[byol/resnet50] | INFO | ep 011/100 it 100/175 | lr 9.92e-04 | loss 0.0719
+17:21:09 | ssl[byol/resnet50] | INFO | ep 011/100 it 150/175 | lr 9.91e-04 | loss 0.0705
+17:21:13 | ssl[byol/resnet50] | INFO | epoch 011 done in 00:00:30 | loss 0.0704
+17:21:27 | ssl[byol/resnet50] | INFO | ep 012/100 it 50/175 | lr 9.89e-04 | loss 0.0677
+17:21:35 | ssl[byol/resnet50] | INFO | ep 012/100 it 100/175 | lr 9.88e-04 | loss 0.0673
+17:21:43 | ssl[byol/resnet50] | INFO | ep 012/100 it 150/175 | lr 9.87e-04 | loss 0.0667
+17:21:47 | ssl[byol/resnet50] | INFO | epoch 012 done in 00:00:31 | loss 0.0664
+17:22:00 | ssl[byol/resnet50] | INFO | ep 013/100 it 50/175 | lr 9.86e-04 | loss 0.0645
+17:22:08 | ssl[byol/resnet50] | INFO | ep 013/100 it 100/175 | lr 9.85e-04 | loss 0.0644
+17:22:16 | ssl[byol/resnet50] | INFO | ep 013/100 it 150/175 | lr 9.83e-04 | loss 0.0640
+17:22:20 | ssl[byol/resnet50] | INFO | epoch 013 done in 00:00:31 | loss 0.0636
+17:22:33 | ssl[byol/resnet50] | INFO | ep 014/100 it 50/175 | lr 9.82e-04 | loss 0.0611
+17:22:41 | ssl[byol/resnet50] | INFO | ep 014/100 it 100/175 | lr 9.80e-04 | loss 0.0628
+17:22:49 | ssl[byol/resnet50] | INFO | ep 014/100 it 150/175 | lr 9.79e-04 | loss 0.0625
+17:22:54 | ssl[byol/resnet50] | INFO | epoch 014 done in 00:00:30 | loss 0.0626
+17:23:06 | ssl[byol/resnet50] | INFO | ep 015/100 it 50/175 | lr 9.77e-04 | loss 0.0619
+17:23:14 | ssl[byol/resnet50] | INFO | ep 015/100 it 100/175 | lr 9.75e-04 | loss 0.0614
+17:23:22 | ssl[byol/resnet50] | INFO | ep 015/100 it 150/175 | lr 9.74e-04 | loss 0.0608
+17:23:26 | ssl[byol/resnet50] | INFO | epoch 015 done in 00:00:30 | loss 0.0607
+17:23:38 | ssl[byol/resnet50] | INFO | ep 016/100 it 50/175 | lr 9.72e-04 | loss 0.0584
+17:23:47 | ssl[byol/resnet50] | INFO | ep 016/100 it 100/175 | lr 9.70e-04 | loss 0.0585
+17:23:55 | ssl[byol/resnet50] | INFO | ep 016/100 it 150/175 | lr 9.68e-04 | loss 0.0590
+17:23:59 | ssl[byol/resnet50] | INFO | epoch 016 done in 00:00:30 | loss 0.0589
+17:24:12 | ssl[byol/resnet50] | INFO | ep 017/100 it 50/175 | lr 9.66e-04 | loss 0.0582
+17:24:20 | ssl[byol/resnet50] | INFO | ep 017/100 it 100/175 | lr 9.64e-04 | loss 0.0581
+17:24:28 | ssl[byol/resnet50] | INFO | ep 017/100 it 150/175 | lr 9.62e-04 | loss 0.0581
+17:24:32 | ssl[byol/resnet50] | INFO | epoch 017 done in 00:00:30 | loss 0.0581
+17:24:45 | ssl[byol/resnet50] | INFO | ep 018/100 it 50/175 | lr 9.60e-04 | loss 0.0568
+17:24:53 | ssl[byol/resnet50] | INFO | ep 018/100 it 100/175 | lr 9.58e-04 | loss 0.0570
+17:25:01 | ssl[byol/resnet50] | INFO | ep 018/100 it 150/175 | lr 9.56e-04 | loss 0.0570
+17:25:05 | ssl[byol/resnet50] | INFO | epoch 018 done in 00:00:30 | loss 0.0571
+17:25:18 | ssl[byol/resnet50] | INFO | ep 019/100 it 50/175 | lr 9.53e-04 | loss 0.0567
+17:25:26 | ssl[byol/resnet50] | INFO | ep 019/100 it 100/175 | lr 9.51e-04 | loss 0.0571
+17:25:34 | ssl[byol/resnet50] | INFO | ep 019/100 it 150/175 | lr 9.49e-04 | loss 0.0570
+17:25:39 | ssl[byol/resnet50] | INFO | epoch 019 done in 00:00:31 | loss 0.0569
+17:25:52 | ssl[byol/resnet50] | INFO | ep 020/100 it 50/175 | lr 9.46e-04 | loss 0.0564
+17:26:00 | ssl[byol/resnet50] | INFO | ep 020/100 it 100/175 | lr 9.44e-04 | loss 0.0566
+17:26:08 | ssl[byol/resnet50] | INFO | ep 020/100 it 150/175 | lr 9.41e-04 | loss 0.0563
+17:26:12 | ssl[byol/resnet50] | INFO | epoch 020 done in 00:00:31 | loss 0.0561
+17:26:25 | ssl[byol/resnet50] | INFO | ep 021/100 it 50/175 | lr 9.38e-04 | loss 0.0552
+17:26:33 | ssl[byol/resnet50] | INFO | ep 021/100 it 100/175 | lr 9.36e-04 | loss 0.0552
+17:26:41 | ssl[byol/resnet50] | INFO | ep 021/100 it 150/175 | lr 9.34e-04 | loss 0.0552
+17:26:45 | ssl[byol/resnet50] | INFO | epoch 021 done in 00:00:30 | loss 0.0551
+17:26:58 | ssl[byol/resnet50] | INFO | ep 022/100 it 50/175 | lr 9.30e-04 | loss 0.0547
+17:27:06 | ssl[byol/resnet50] | INFO | ep 022/100 it 100/175 | lr 9.28e-04 | loss 0.0545
+17:27:14 | ssl[byol/resnet50] | INFO | ep 022/100 it 150/175 | lr 9.25e-04 | loss 0.0546
+17:27:19 | ssl[byol/resnet50] | INFO | epoch 022 done in 00:00:31 | loss 0.0545
+17:27:31 | ssl[byol/resnet50] | INFO | ep 023/100 it 50/175 | lr 9.21e-04 | loss 0.0532
+17:27:39 | ssl[byol/resnet50] | INFO | ep 023/100 it 100/175 | lr 9.19e-04 | loss 0.0539
+17:27:47 | ssl[byol/resnet50] | INFO | ep 023/100 it 150/175 | lr 9.16e-04 | loss 0.0541
+17:27:51 | ssl[byol/resnet50] | INFO | epoch 023 done in 00:00:30 | loss 0.0542
+17:28:04 | ssl[byol/resnet50] | INFO | ep 024/100 it 50/175 | lr 9.12e-04 | loss 0.0552
+17:28:12 | ssl[byol/resnet50] | INFO | ep 024/100 it 100/175 | lr 9.10e-04 | loss 0.0547
+17:28:20 | ssl[byol/resnet50] | INFO | ep 024/100 it 150/175 | lr 9.07e-04 | loss 0.0545
+17:28:25 | ssl[byol/resnet50] | INFO | epoch 024 done in 00:00:31 | loss 0.0544
+17:28:36 | ssl[byol/resnet50] | INFO | ep 025/100 it 50/175 | lr 9.03e-04 | loss 0.0549
+17:28:44 | ssl[byol/resnet50] | INFO | ep 025/100 it 100/175 | lr 9.00e-04 | loss 0.0555
+17:28:53 | ssl[byol/resnet50] | INFO | ep 025/100 it 150/175 | lr 8.97e-04 | loss 0.0556
+17:28:57 | ssl[byol/resnet50] | INFO | epoch 025 done in 00:00:31 | loss 0.0554
+17:29:09 | ssl[byol/resnet50] | INFO | ep 026/100 it 50/175 | lr 8.93e-04 | loss 0.0566
+17:29:17 | ssl[byol/resnet50] | INFO | ep 026/100 it 100/175 | lr 8.90e-04 | loss 0.0563
+17:29:25 | ssl[byol/resnet50] | INFO | ep 026/100 it 150/175 | lr 8.87e-04 | loss 0.0563
+17:29:29 | ssl[byol/resnet50] | INFO | epoch 026 done in 00:00:30 | loss 0.0563
+17:29:41 | ssl[byol/resnet50] | INFO | ep 027/100 it 50/175 | lr 8.82e-04 | loss 0.0564
+17:29:49 | ssl[byol/resnet50] | INFO | ep 027/100 it 100/175 | lr 8.79e-04 | loss 0.0555
+17:29:57 | ssl[byol/resnet50] | INFO | ep 027/100 it 150/175 | lr 8.76e-04 | loss 0.0557
+17:30:01 | ssl[byol/resnet50] | INFO | epoch 027 done in 00:00:30 | loss 0.0555
+17:30:13 | ssl[byol/resnet50] | INFO | ep 028/100 it 50/175 | lr 8.72e-04 | loss 0.0565
+17:30:21 | ssl[byol/resnet50] | INFO | ep 028/100 it 100/175 | lr 8.68e-04 | loss 0.0559
+17:30:29 | ssl[byol/resnet50] | INFO | ep 028/100 it 150/175 | lr 8.65e-04 | loss 0.0557
+17:30:33 | ssl[byol/resnet50] | INFO | epoch 028 done in 00:00:30 | loss 0.0556
+17:30:44 | ssl[byol/resnet50] | INFO | ep 029/100 it 50/175 | lr 8.60e-04 | loss 0.0549
+17:30:53 | ssl[byol/resnet50] | INFO | ep 029/100 it 100/175 | lr 8.57e-04 | loss 0.0552
+17:31:01 | ssl[byol/resnet50] | INFO | ep 029/100 it 150/175 | lr 8.54e-04 | loss 0.0553
+17:31:05 | ssl[byol/resnet50] | INFO | epoch 029 done in 00:00:30 | loss 0.0554
+17:31:17 | ssl[byol/resnet50] | INFO | ep 030/100 it 50/175 | lr 8.49e-04 | loss 0.0557
+17:31:25 | ssl[byol/resnet50] | INFO | ep 030/100 it 100/175 | lr 8.45e-04 | loss 0.0557
+17:31:33 | ssl[byol/resnet50] | INFO | ep 030/100 it 150/175 | lr 8.42e-04 | loss 0.0558
+17:31:37 | ssl[byol/resnet50] | INFO | epoch 030 done in 00:00:31 | loss 0.0557
+17:31:49 | ssl[byol/resnet50] | INFO | ep 031/100 it 50/175 | lr 8.37e-04 | loss 0.0564
+17:31:57 | ssl[byol/resnet50] | INFO | ep 031/100 it 100/175 | lr 8.33e-04 | loss 0.0567
+17:32:05 | ssl[byol/resnet50] | INFO | ep 031/100 it 150/175 | lr 8.30e-04 | loss 0.0566
+17:32:09 | ssl[byol/resnet50] | INFO | epoch 031 done in 00:00:30 | loss 0.0568
+17:32:21 | ssl[byol/resnet50] | INFO | ep 032/100 it 50/175 | lr 8.25e-04 | loss 0.0558
+17:32:30 | ssl[byol/resnet50] | INFO | ep 032/100 it 100/175 | lr 8.21e-04 | loss 0.0568
+17:32:38 | ssl[byol/resnet50] | INFO | ep 032/100 it 150/175 | lr 8.17e-04 | loss 0.0568
+17:32:42 | ssl[byol/resnet50] | INFO | epoch 032 done in 00:00:31 | loss 0.0570
+17:32:53 | ssl[byol/resnet50] | INFO | ep 033/100 it 50/175 | lr 8.12e-04 | loss 0.0574
+17:33:01 | ssl[byol/resnet50] | INFO | ep 033/100 it 100/175 | lr 8.08e-04 | loss 0.0579
+17:33:10 | ssl[byol/resnet50] | INFO | ep 033/100 it 150/175 | lr 8.04e-04 | loss 0.0576
+17:33:14 | ssl[byol/resnet50] | INFO | epoch 033 done in 00:00:30 | loss 0.0575
+17:33:25 | ssl[byol/resnet50] | INFO | ep 034/100 it 50/175 | lr 7.99e-04 | loss 0.0578
+17:33:33 | ssl[byol/resnet50] | INFO | ep 034/100 it 100/175 | lr 7.95e-04 | loss 0.0568
+17:33:41 | ssl[byol/resnet50] | INFO | ep 034/100 it 150/175 | lr 7.91e-04 | loss 0.0568
+17:33:46 | ssl[byol/resnet50] | INFO | epoch 034 done in 00:00:30 | loss 0.0570
+17:33:57 | ssl[byol/resnet50] | INFO | ep 035/100 it 50/175 | lr 7.86e-04 | loss 0.0564
+17:34:05 | ssl[byol/resnet50] | INFO | ep 035/100 it 100/175 | lr 7.82e-04 | loss 0.0568
+17:34:13 | ssl[byol/resnet50] | INFO | ep 035/100 it 150/175 | lr 7.78e-04 | loss 0.0569
+17:34:17 | ssl[byol/resnet50] | INFO | epoch 035 done in 00:00:30 | loss 0.0570
+17:34:28 | ssl[byol/resnet50] | INFO | ep 036/100 it 50/175 | lr 7.72e-04 | loss 0.0571
+17:34:37 | ssl[byol/resnet50] | INFO | ep 036/100 it 100/175 | lr 7.68e-04 | loss 0.0566
+17:34:45 | ssl[byol/resnet50] | INFO | ep 036/100 it 150/175 | lr 7.64e-04 | loss 0.0566
+17:34:49 | ssl[byol/resnet50] | INFO | epoch 036 done in 00:00:30 | loss 0.0566
+17:35:01 | ssl[byol/resnet50] | INFO | ep 037/100 it 50/175 | lr 7.58e-04 | loss 0.0581
+17:35:09 | ssl[byol/resnet50] | INFO | ep 037/100 it 100/175 | lr 7.54e-04 | loss 0.0569
+17:35:17 | ssl[byol/resnet50] | INFO | ep 037/100 it 150/175 | lr 7.50e-04 | loss 0.0566
+17:35:21 | ssl[byol/resnet50] | INFO | epoch 037 done in 00:00:31 | loss 0.0566
+17:35:33 | ssl[byol/resnet50] | INFO | ep 038/100 it 50/175 | lr 7.44e-04 | loss 0.0572
+17:35:42 | ssl[byol/resnet50] | INFO | ep 038/100 it 100/175 | lr 7.40e-04 | loss 0.0572
+17:35:50 | ssl[byol/resnet50] | INFO | ep 038/100 it 150/175 | lr 7.36e-04 | loss 0.0569
+17:35:54 | ssl[byol/resnet50] | INFO | epoch 038 done in 00:00:31 | loss 0.0565
+17:36:05 | ssl[byol/resnet50] | INFO | ep 039/100 it 50/175 | lr 7.29e-04 | loss 0.0557
+17:36:13 | ssl[byol/resnet50] | INFO | ep 039/100 it 100/175 | lr 7.25e-04 | loss 0.0557
+17:36:22 | ssl[byol/resnet50] | INFO | ep 039/100 it 150/175 | lr 7.21e-04 | loss 0.0559
+17:36:26 | ssl[byol/resnet50] | INFO | epoch 039 done in 00:00:30 | loss 0.0557
+17:36:37 | ssl[byol/resnet50] | INFO | ep 040/100 it 50/175 | lr 7.15e-04 | loss 0.0550
+17:36:45 | ssl[byol/resnet50] | INFO | ep 040/100 it 100/175 | lr 7.10e-04 | loss 0.0552
+17:36:53 | ssl[byol/resnet50] | INFO | ep 040/100 it 150/175 | lr 7.06e-04 | loss 0.0552
+17:36:57 | ssl[byol/resnet50] | INFO | epoch 040 done in 00:00:30 | loss 0.0554
+17:37:08 | ssl[byol/resnet50] | INFO | ep 041/100 it 50/175 | lr 7.00e-04 | loss 0.0551
+17:37:17 | ssl[byol/resnet50] | INFO | ep 041/100 it 100/175 | lr 6.95e-04 | loss 0.0552
+17:37:25 | ssl[byol/resnet50] | INFO | ep 041/100 it 150/175 | lr 6.91e-04 | loss 0.0553
+17:37:29 | ssl[byol/resnet50] | INFO | epoch 041 done in 00:00:30 | loss 0.0553
+17:37:41 | ssl[byol/resnet50] | INFO | ep 042/100 it 50/175 | lr 6.84e-04 | loss 0.0544
+17:37:49 | ssl[byol/resnet50] | INFO | ep 042/100 it 100/175 | lr 6.80e-04 | loss 0.0555
+17:37:57 | ssl[byol/resnet50] | INFO | ep 042/100 it 150/175 | lr 6.76e-04 | loss 0.0555
+17:38:01 | ssl[byol/resnet50] | INFO | epoch 042 done in 00:00:31 | loss 0.0555
+17:38:13 | ssl[byol/resnet50] | INFO | ep 043/100 it 50/175 | lr 6.69e-04 | loss 0.0561
+17:38:21 | ssl[byol/resnet50] | INFO | ep 043/100 it 100/175 | lr 6.65e-04 | loss 0.0555
+17:38:29 | ssl[byol/resnet50] | INFO | ep 043/100 it 150/175 | lr 6.60e-04 | loss 0.0556
+17:38:33 | ssl[byol/resnet50] | INFO | epoch 043 done in 00:00:30 | loss 0.0558
+17:38:45 | ssl[byol/resnet50] | INFO | ep 044/100 it 50/175 | lr 6.54e-04 | loss 0.0547
+17:38:53 | ssl[byol/resnet50] | INFO | ep 044/100 it 100/175 | lr 6.49e-04 | loss 0.0548
+17:39:01 | ssl[byol/resnet50] | INFO | ep 044/100 it 150/175 | lr 6.45e-04 | loss 0.0549
+17:39:05 | ssl[byol/resnet50] | INFO | epoch 044 done in 00:00:30 | loss 0.0551
+17:39:17 | ssl[byol/resnet50] | INFO | ep 045/100 it 50/175 | lr 6.38e-04 | loss 0.0542
+17:39:25 | ssl[byol/resnet50] | INFO | ep 045/100 it 100/175 | lr 6.33e-04 | loss 0.0552
+17:39:33 | ssl[byol/resnet50] | INFO | ep 045/100 it 150/175 | lr 6.29e-04 | loss 0.0552
+17:39:37 | ssl[byol/resnet50] | INFO | epoch 045 done in 00:00:30 | loss 0.0552
+17:39:49 | ssl[byol/resnet50] | INFO | ep 046/100 it 50/175 | lr 6.22e-04 | loss 0.0563
+17:39:57 | ssl[byol/resnet50] | INFO | ep 046/100 it 100/175 | lr 6.18e-04 | loss 0.0564
+17:40:05 | ssl[byol/resnet50] | INFO | ep 046/100 it 150/175 | lr 6.13e-04 | loss 0.0565
+17:40:09 | ssl[byol/resnet50] | INFO | epoch 046 done in 00:00:30 | loss 0.0567
+17:40:21 | ssl[byol/resnet50] | INFO | ep 047/100 it 50/175 | lr 6.06e-04 | loss 0.0567
+17:40:29 | ssl[byol/resnet50] | INFO | ep 047/100 it 100/175 | lr 6.02e-04 | loss 0.0570
+17:40:37 | ssl[byol/resnet50] | INFO | ep 047/100 it 150/175 | lr 5.97e-04 | loss 0.0565
+17:40:41 | ssl[byol/resnet50] | INFO | epoch 047 done in 00:00:30 | loss 0.0566
+17:40:53 | ssl[byol/resnet50] | INFO | ep 048/100 it 50/175 | lr 5.90e-04 | loss 0.0564
+17:41:01 | ssl[byol/resnet50] | INFO | ep 048/100 it 100/175 | lr 5.85e-04 | loss 0.0560
+17:41:09 | ssl[byol/resnet50] | INFO | ep 048/100 it 150/175 | lr 5.81e-04 | loss 0.0565
+17:41:14 | ssl[byol/resnet50] | INFO | epoch 048 done in 00:00:31 | loss 0.0563
+17:41:25 | ssl[byol/resnet50] | INFO | ep 049/100 it 50/175 | lr 5.74e-04 | loss 0.0574
+17:41:33 | ssl[byol/resnet50] | INFO | ep 049/100 it 100/175 | lr 5.69e-04 | loss 0.0572
+17:41:42 | ssl[byol/resnet50] | INFO | ep 049/100 it 150/175 | lr 5.65e-04 | loss 0.0575
+17:41:46 | ssl[byol/resnet50] | INFO | epoch 049 done in 00:00:30 | loss 0.0572
+17:41:57 | ssl[byol/resnet50] | INFO | ep 050/100 it 50/175 | lr 5.58e-04 | loss 0.0569
+17:42:05 | ssl[byol/resnet50] | INFO | ep 050/100 it 100/175 | lr 5.53e-04 | loss 0.0573
+17:42:14 | ssl[byol/resnet50] | INFO | ep 050/100 it 150/175 | lr 5.48e-04 | loss 0.0570
+17:42:18 | ssl[byol/resnet50] | INFO | epoch 050 done in 00:00:31 | loss 0.0571
+17:42:29 | ssl[byol/resnet50] | INFO | ep 051/100 it 50/175 | lr 5.41e-04 | loss 0.0566
+17:42:37 | ssl[byol/resnet50] | INFO | ep 051/100 it 100/175 | lr 5.37e-04 | loss 0.0568
+17:42:46 | ssl[byol/resnet50] | INFO | ep 051/100 it 150/175 | lr 5.32e-04 | loss 0.0567
+17:42:50 | ssl[byol/resnet50] | INFO | epoch 051 done in 00:00:30 | loss 0.0568
+17:43:01 | ssl[byol/resnet50] | INFO | ep 052/100 it 50/175 | lr 5.25e-04 | loss 0.0579
+17:43:09 | ssl[byol/resnet50] | INFO | ep 052/100 it 100/175 | lr 5.20e-04 | loss 0.0578
+17:43:18 | ssl[byol/resnet50] | INFO | ep 052/100 it 150/175 | lr 5.16e-04 | loss 0.0579
+17:43:22 | ssl[byol/resnet50] | INFO | epoch 052 done in 00:00:31 | loss 0.0579
+17:43:34 | ssl[byol/resnet50] | INFO | ep 053/100 it 50/175 | lr 5.09e-04 | loss 0.0571
+17:43:42 | ssl[byol/resnet50] | INFO | ep 053/100 it 100/175 | lr 5.04e-04 | loss 0.0576
+17:43:50 | ssl[byol/resnet50] | INFO | ep 053/100 it 150/175 | lr 4.99e-04 | loss 0.0577
+17:43:54 | ssl[byol/resnet50] | INFO | epoch 053 done in 00:00:31 | loss 0.0577
+17:44:06 | ssl[byol/resnet50] | INFO | ep 054/100 it 50/175 | lr 4.92e-04 | loss 0.0575
+17:44:14 | ssl[byol/resnet50] | INFO | ep 054/100 it 100/175 | lr 4.88e-04 | loss 0.0581
+17:44:22 | ssl[byol/resnet50] | INFO | ep 054/100 it 150/175 | lr 4.83e-04 | loss 0.0580
+17:44:27 | ssl[byol/resnet50] | INFO | epoch 054 done in 00:00:31 | loss 0.0579
+17:44:38 | ssl[byol/resnet50] | INFO | ep 055/100 it 50/175 | lr 4.76e-04 | loss 0.0566
+17:44:47 | ssl[byol/resnet50] | INFO | ep 055/100 it 100/175 | lr 4.71e-04 | loss 0.0574
+17:44:55 | ssl[byol/resnet50] | INFO | ep 055/100 it 150/175 | lr 4.67e-04 | loss 0.0575
+17:44:59 | ssl[byol/resnet50] | INFO | epoch 055 done in 00:00:31 | loss 0.0578
+17:45:11 | ssl[byol/resnet50] | INFO | ep 056/100 it 50/175 | lr 4.60e-04 | loss 0.0588
+17:45:19 | ssl[byol/resnet50] | INFO | ep 056/100 it 100/175 | lr 4.55e-04 | loss 0.0574
+17:45:28 | ssl[byol/resnet50] | INFO | ep 056/100 it 150/175 | lr 4.50e-04 | loss 0.0571
+17:45:32 | ssl[byol/resnet50] | INFO | epoch 056 done in 00:00:31 | loss 0.0571
+17:45:43 | ssl[byol/resnet50] | INFO | ep 057/100 it 50/175 | lr 4.43e-04 | loss 0.0571
+17:45:51 | ssl[byol/resnet50] | INFO | ep 057/100 it 100/175 | lr 4.39e-04 | loss 0.0575
+17:46:00 | ssl[byol/resnet50] | INFO | ep 057/100 it 150/175 | lr 4.34e-04 | loss 0.0574
+17:46:04 | ssl[byol/resnet50] | INFO | epoch 057 done in 00:00:30 | loss 0.0574
+17:46:15 | ssl[byol/resnet50] | INFO | ep 058/100 it 50/175 | lr 4.27e-04 | loss 0.0592
+17:46:23 | ssl[byol/resnet50] | INFO | ep 058/100 it 100/175 | lr 4.22e-04 | loss 0.0584
+17:46:32 | ssl[byol/resnet50] | INFO | ep 058/100 it 150/175 | lr 4.18e-04 | loss 0.0577
+17:46:36 | ssl[byol/resnet50] | INFO | epoch 058 done in 00:00:30 | loss 0.0577
+17:46:47 | ssl[byol/resnet50] | INFO | ep 059/100 it 50/175 | lr 4.11e-04 | loss 0.0576
+17:46:56 | ssl[byol/resnet50] | INFO | ep 059/100 it 100/175 | lr 4.06e-04 | loss 0.0575
+17:47:04 | ssl[byol/resnet50] | INFO | ep 059/100 it 150/175 | lr 4.02e-04 | loss 0.0575
+17:47:08 | ssl[byol/resnet50] | INFO | epoch 059 done in 00:00:30 | loss 0.0577
+17:47:20 | ssl[byol/resnet50] | INFO | ep 060/100 it 50/175 | lr 3.95e-04 | loss 0.0569
+17:47:28 | ssl[byol/resnet50] | INFO | ep 060/100 it 100/175 | lr 3.90e-04 | loss 0.0567
+17:47:37 | ssl[byol/resnet50] | INFO | ep 060/100 it 150/175 | lr 3.86e-04 | loss 0.0570
+17:47:41 | ssl[byol/resnet50] | INFO | epoch 060 done in 00:00:31 | loss 0.0572
+17:47:53 | ssl[byol/resnet50] | INFO | ep 061/100 it 50/175 | lr 3.79e-04 | loss 0.0571
+17:48:01 | ssl[byol/resnet50] | INFO | ep 061/100 it 100/175 | lr 3.75e-04 | loss 0.0572
+17:48:09 | ssl[byol/resnet50] | INFO | ep 061/100 it 150/175 | lr 3.70e-04 | loss 0.0568
+17:48:14 | ssl[byol/resnet50] | INFO | epoch 061 done in 00:00:31 | loss 0.0569
+17:48:25 | ssl[byol/resnet50] | INFO | ep 062/100 it 50/175 | lr 3.63e-04 | loss 0.0574
+17:48:34 | ssl[byol/resnet50] | INFO | ep 062/100 it 100/175 | lr 3.59e-04 | loss 0.0572
+17:48:42 | ssl[byol/resnet50] | INFO | ep 062/100 it 150/175 | lr 3.54e-04 | loss 0.0574
+17:48:46 | ssl[byol/resnet50] | INFO | epoch 062 done in 00:00:31 | loss 0.0570
+17:48:58 | ssl[byol/resnet50] | INFO | ep 063/100 it 50/175 | lr 3.48e-04 | loss 0.0566
+17:49:06 | ssl[byol/resnet50] | INFO | ep 063/100 it 100/175 | lr 3.43e-04 | loss 0.0569
+17:49:14 | ssl[byol/resnet50] | INFO | ep 063/100 it 150/175 | lr 3.39e-04 | loss 0.0563
+17:49:18 | ssl[byol/resnet50] | INFO | epoch 063 done in 00:00:31 | loss 0.0564
+17:49:30 | ssl[byol/resnet50] | INFO | ep 064/100 it 50/175 | lr 3.32e-04 | loss 0.0552
+17:49:38 | ssl[byol/resnet50] | INFO | ep 064/100 it 100/175 | lr 3.28e-04 | loss 0.0554
+17:49:46 | ssl[byol/resnet50] | INFO | ep 064/100 it 150/175 | lr 3.24e-04 | loss 0.0560
+17:49:50 | ssl[byol/resnet50] | INFO | epoch 064 done in 00:00:30 | loss 0.0560
+17:50:02 | ssl[byol/resnet50] | INFO | ep 065/100 it 50/175 | lr 3.17e-04 | loss 0.0558
+17:50:10 | ssl[byol/resnet50] | INFO | ep 065/100 it 100/175 | lr 3.13e-04 | loss 0.0559
+17:50:18 | ssl[byol/resnet50] | INFO | ep 065/100 it 150/175 | lr 3.08e-04 | loss 0.0561
+17:50:22 | ssl[byol/resnet50] | INFO | epoch 065 done in 00:00:30 | loss 0.0562
+17:50:34 | ssl[byol/resnet50] | INFO | ep 066/100 it 50/175 | lr 3.02e-04 | loss 0.0564
+17:50:42 | ssl[byol/resnet50] | INFO | ep 066/100 it 100/175 | lr 2.98e-04 | loss 0.0562
+17:50:50 | ssl[byol/resnet50] | INFO | ep 066/100 it 150/175 | lr 2.93e-04 | loss 0.0561
+17:50:54 | ssl[byol/resnet50] | INFO | epoch 066 done in 00:00:30 | loss 0.0560
+17:51:06 | ssl[byol/resnet50] | INFO | ep 067/100 it 50/175 | lr 2.87e-04 | loss 0.0568
+17:51:14 | ssl[byol/resnet50] | INFO | ep 067/100 it 100/175 | lr 2.83e-04 | loss 0.0564
+17:51:23 | ssl[byol/resnet50] | INFO | ep 067/100 it 150/175 | lr 2.79e-04 | loss 0.0562
+17:51:27 | ssl[byol/resnet50] | INFO | epoch 067 done in 00:00:31 | loss 0.0564
+17:51:38 | ssl[byol/resnet50] | INFO | ep 068/100 it 50/175 | lr 2.73e-04 | loss 0.0565
+17:51:46 | ssl[byol/resnet50] | INFO | ep 068/100 it 100/175 | lr 2.68e-04 | loss 0.0562
+17:51:54 | ssl[byol/resnet50] | INFO | ep 068/100 it 150/175 | lr 2.64e-04 | loss 0.0558
+17:51:59 | ssl[byol/resnet50] | INFO | epoch 068 done in 00:00:30 | loss 0.0558
+17:52:10 | ssl[byol/resnet50] | INFO | ep 069/100 it 50/175 | lr 2.58e-04 | loss 0.0559
+17:52:18 | ssl[byol/resnet50] | INFO | ep 069/100 it 100/175 | lr 2.54e-04 | loss 0.0561
+17:52:27 | ssl[byol/resnet50] | INFO | ep 069/100 it 150/175 | lr 2.50e-04 | loss 0.0557
+17:52:31 | ssl[byol/resnet50] | INFO | epoch 069 done in 00:00:31 | loss 0.0555
+17:52:42 | ssl[byol/resnet50] | INFO | ep 070/100 it 50/175 | lr 2.44e-04 | loss 0.0559
+17:52:50 | ssl[byol/resnet50] | INFO | ep 070/100 it 100/175 | lr 2.40e-04 | loss 0.0557
+17:52:58 | ssl[byol/resnet50] | INFO | ep 070/100 it 150/175 | lr 2.36e-04 | loss 0.0557
+17:53:03 | ssl[byol/resnet50] | INFO | epoch 070 done in 00:00:30 | loss 0.0557
+17:53:14 | ssl[byol/resnet50] | INFO | ep 071/100 it 50/175 | lr 2.30e-04 | loss 0.0542
+17:53:22 | ssl[byol/resnet50] | INFO | ep 071/100 it 100/175 | lr 2.27e-04 | loss 0.0551
+17:53:31 | ssl[byol/resnet50] | INFO | ep 071/100 it 150/175 | lr 2.23e-04 | loss 0.0553
+17:53:35 | ssl[byol/resnet50] | INFO | epoch 071 done in 00:00:31 | loss 0.0554
+17:53:47 | ssl[byol/resnet50] | INFO | ep 072/100 it 50/175 | lr 2.17e-04 | loss 0.0550
+17:53:55 | ssl[byol/resnet50] | INFO | ep 072/100 it 100/175 | lr 2.13e-04 | loss 0.0550
+17:54:03 | ssl[byol/resnet50] | INFO | ep 072/100 it 150/175 | lr 2.09e-04 | loss 0.0548
+17:54:07 | ssl[byol/resnet50] | INFO | epoch 072 done in 00:00:31 | loss 0.0549
+17:54:19 | ssl[byol/resnet50] | INFO | ep 073/100 it 50/175 | lr 2.04e-04 | loss 0.0534
+17:54:28 | ssl[byol/resnet50] | INFO | ep 073/100 it 100/175 | lr 2.00e-04 | loss 0.0539
+17:54:36 | ssl[byol/resnet50] | INFO | ep 073/100 it 150/175 | lr 1.96e-04 | loss 0.0543
+17:54:40 | ssl[byol/resnet50] | INFO | epoch 073 done in 00:00:31 | loss 0.0544
+17:54:52 | ssl[byol/resnet50] | INFO | ep 074/100 it 50/175 | lr 1.91e-04 | loss 0.0548
+17:55:00 | ssl[byol/resnet50] | INFO | ep 074/100 it 100/175 | lr 1.87e-04 | loss 0.0544
+17:55:08 | ssl[byol/resnet50] | INFO | ep 074/100 it 150/175 | lr 1.84e-04 | loss 0.0543
+17:55:12 | ssl[byol/resnet50] | INFO | epoch 074 done in 00:00:31 | loss 0.0544
+17:55:24 | ssl[byol/resnet50] | INFO | ep 075/100 it 50/175 | lr 1.79e-04 | loss 0.0538
+17:55:32 | ssl[byol/resnet50] | INFO | ep 075/100 it 100/175 | lr 1.75e-04 | loss 0.0540
+17:55:40 | ssl[byol/resnet50] | INFO | ep 075/100 it 150/175 | lr 1.72e-04 | loss 0.0538
+17:55:44 | ssl[byol/resnet50] | INFO | epoch 075 done in 00:00:30 | loss 0.0539
+17:55:56 | ssl[byol/resnet50] | INFO | ep 076/100 it 50/175 | lr 1.66e-04 | loss 0.0536
+17:56:04 | ssl[byol/resnet50] | INFO | ep 076/100 it 100/175 | lr 1.63e-04 | loss 0.0535
+17:56:13 | ssl[byol/resnet50] | INFO | ep 076/100 it 150/175 | lr 1.60e-04 | loss 0.0534
+17:56:17 | ssl[byol/resnet50] | INFO | epoch 076 done in 00:00:30 | loss 0.0532
+17:56:30 | ssl[byol/resnet50] | INFO | ep 077/100 it 50/175 | lr 1.55e-04 | loss 0.0534
+17:56:38 | ssl[byol/resnet50] | INFO | ep 077/100 it 100/175 | lr 1.51e-04 | loss 0.0532
+17:56:46 | ssl[byol/resnet50] | INFO | ep 077/100 it 150/175 | lr 1.48e-04 | loss 0.0531
+17:56:50 | ssl[byol/resnet50] | INFO | epoch 077 done in 00:00:31 | loss 0.0533
+17:57:01 | ssl[byol/resnet50] | INFO | ep 078/100 it 50/175 | lr 1.43e-04 | loss 0.0529
+17:57:10 | ssl[byol/resnet50] | INFO | ep 078/100 it 100/175 | lr 1.40e-04 | loss 0.0534
+17:57:18 | ssl[byol/resnet50] | INFO | ep 078/100 it 150/175 | lr 1.37e-04 | loss 0.0533
+17:57:22 | ssl[byol/resnet50] | INFO | epoch 078 done in 00:00:30 | loss 0.0531
+17:57:35 | ssl[byol/resnet50] | INFO | ep 079/100 it 50/175 | lr 1.32e-04 | loss 0.0529
+17:57:43 | ssl[byol/resnet50] | INFO | ep 079/100 it 100/175 | lr 1.29e-04 | loss 0.0527
+17:57:51 | ssl[byol/resnet50] | INFO | ep 079/100 it 150/175 | lr 1.26e-04 | loss 0.0527
+17:57:55 | ssl[byol/resnet50] | INFO | epoch 079 done in 00:00:30 | loss 0.0526
+17:58:08 | ssl[byol/resnet50] | INFO | ep 080/100 it 50/175 | lr 1.22e-04 | loss 0.0525
+17:58:16 | ssl[byol/resnet50] | INFO | ep 080/100 it 100/175 | lr 1.19e-04 | loss 0.0531
+17:58:24 | ssl[byol/resnet50] | INFO | ep 080/100 it 150/175 | lr 1.16e-04 | loss 0.0529
+17:58:28 | ssl[byol/resnet50] | INFO | epoch 080 done in 00:00:30 | loss 0.0529
+17:58:40 | ssl[byol/resnet50] | INFO | ep 081/100 it 50/175 | lr 1.12e-04 | loss 0.0513
+17:58:48 | ssl[byol/resnet50] | INFO | ep 081/100 it 100/175 | lr 1.09e-04 | loss 0.0518
+17:58:57 | ssl[byol/resnet50] | INFO | ep 081/100 it 150/175 | lr 1.06e-04 | loss 0.0519
+17:59:01 | ssl[byol/resnet50] | INFO | epoch 081 done in 00:00:31 | loss 0.0521
+17:59:13 | ssl[byol/resnet50] | INFO | ep 082/100 it 50/175 | lr 1.02e-04 | loss 0.0511
+17:59:21 | ssl[byol/resnet50] | INFO | ep 082/100 it 100/175 | lr 9.92e-05 | loss 0.0510
+17:59:29 | ssl[byol/resnet50] | INFO | ep 082/100 it 150/175 | lr 9.65e-05 | loss 0.0513
+17:59:33 | ssl[byol/resnet50] | INFO | epoch 082 done in 00:00:30 | loss 0.0514
+17:59:46 | ssl[byol/resnet50] | INFO | ep 083/100 it 50/175 | lr 9.26e-05 | loss 0.0511
+17:59:54 | ssl[byol/resnet50] | INFO | ep 083/100 it 100/175 | lr 9.00e-05 | loss 0.0510
+18:00:02 | ssl[byol/resnet50] | INFO | ep 083/100 it 150/175 | lr 8.75e-05 | loss 0.0510
+18:00:06 | ssl[byol/resnet50] | INFO | epoch 083 done in 00:00:30 | loss 0.0512
+18:00:19 | ssl[byol/resnet50] | INFO | ep 084/100 it 50/175 | lr 8.38e-05 | loss 0.0505
+18:00:27 | ssl[byol/resnet50] | INFO | ep 084/100 it 100/175 | lr 8.13e-05 | loss 0.0504
+18:00:35 | ssl[byol/resnet50] | INFO | ep 084/100 it 150/175 | lr 7.89e-05 | loss 0.0504
+18:00:39 | ssl[byol/resnet50] | INFO | epoch 084 done in 00:00:30 | loss 0.0502
+18:00:52 | ssl[byol/resnet50] | INFO | ep 085/100 it 50/175 | lr 7.54e-05 | loss 0.0502
+18:01:00 | ssl[byol/resnet50] | INFO | ep 085/100 it 100/175 | lr 7.31e-05 | loss 0.0505
+18:01:08 | ssl[byol/resnet50] | INFO | ep 085/100 it 150/175 | lr 7.08e-05 | loss 0.0504
+18:01:13 | ssl[byol/resnet50] | INFO | epoch 085 done in 00:00:31 | loss 0.0503
+18:01:25 | ssl[byol/resnet50] | INFO | ep 086/100 it 50/175 | lr 6.75e-05 | loss 0.0499
+18:01:33 | ssl[byol/resnet50] | INFO | ep 086/100 it 100/175 | lr 6.53e-05 | loss 0.0495
+18:01:41 | ssl[byol/resnet50] | INFO | ep 086/100 it 150/175 | lr 6.32e-05 | loss 0.0493
+18:01:45 | ssl[byol/resnet50] | INFO | epoch 086 done in 00:00:31 | loss 0.0492
+18:01:58 | ssl[byol/resnet50] | INFO | ep 087/100 it 50/175 | lr 6.01e-05 | loss 0.0493
+18:02:06 | ssl[byol/resnet50] | INFO | ep 087/100 it 100/175 | lr 5.81e-05 | loss 0.0490
+18:02:14 | ssl[byol/resnet50] | INFO | ep 087/100 it 150/175 | lr 5.61e-05 | loss 0.0488
+18:02:18 | ssl[byol/resnet50] | INFO | epoch 087 done in 00:00:30 | loss 0.0488
+18:02:31 | ssl[byol/resnet50] | INFO | ep 088/100 it 50/175 | lr 5.32e-05 | loss 0.0484
+18:02:39 | ssl[byol/resnet50] | INFO | ep 088/100 it 100/175 | lr 5.13e-05 | loss 0.0487
+18:02:47 | ssl[byol/resnet50] | INFO | ep 088/100 it 150/175 | lr 4.94e-05 | loss 0.0483
+18:02:51 | ssl[byol/resnet50] | INFO | epoch 088 done in 00:00:30 | loss 0.0483
+18:03:04 | ssl[byol/resnet50] | INFO | ep 089/100 it 50/175 | lr 4.67e-05 | loss 0.0482
+18:03:12 | ssl[byol/resnet50] | INFO | ep 089/100 it 100/175 | lr 4.50e-05 | loss 0.0481
+18:03:21 | ssl[byol/resnet50] | INFO | ep 089/100 it 150/175 | lr 4.33e-05 | loss 0.0482
+18:03:25 | ssl[byol/resnet50] | INFO | epoch 089 done in 00:00:31 | loss 0.0481
+18:03:37 | ssl[byol/resnet50] | INFO | ep 090/100 it 50/175 | lr 4.08e-05 | loss 0.0478
+18:03:45 | ssl[byol/resnet50] | INFO | ep 090/100 it 100/175 | lr 3.92e-05 | loss 0.0474
+18:03:54 | ssl[byol/resnet50] | INFO | ep 090/100 it 150/175 | lr 3.76e-05 | loss 0.0476
+18:03:58 | ssl[byol/resnet50] | INFO | epoch 090 done in 00:00:31 | loss 0.0476
+18:04:11 | ssl[byol/resnet50] | INFO | ep 091/100 it 50/175 | lr 3.54e-05 | loss 0.0474
+18:04:19 | ssl[byol/resnet50] | INFO | ep 091/100 it 100/175 | lr 3.39e-05 | loss 0.0476
+18:04:27 | ssl[byol/resnet50] | INFO | ep 091/100 it 150/175 | lr 3.25e-05 | loss 0.0476
+18:04:31 | ssl[byol/resnet50] | INFO | epoch 091 done in 00:00:31 | loss 0.0475
+18:04:44 | ssl[byol/resnet50] | INFO | ep 092/100 it 50/175 | lr 3.04e-05 | loss 0.0460
+18:04:52 | ssl[byol/resnet50] | INFO | ep 092/100 it 100/175 | lr 2.91e-05 | loss 0.0467
+18:05:00 | ssl[byol/resnet50] | INFO | ep 092/100 it 150/175 | lr 2.79e-05 | loss 0.0469
+18:05:04 | ssl[byol/resnet50] | INFO | epoch 092 done in 00:00:30 | loss 0.0471
+18:05:16 | ssl[byol/resnet50] | INFO | ep 093/100 it 50/175 | lr 2.60e-05 | loss 0.0470
+18:05:25 | ssl[byol/resnet50] | INFO | ep 093/100 it 100/175 | lr 2.49e-05 | loss 0.0468
+18:05:33 | ssl[byol/resnet50] | INFO | ep 093/100 it 150/175 | lr 2.38e-05 | loss 0.0470
+18:05:37 | ssl[byol/resnet50] | INFO | epoch 093 done in 00:00:30 | loss 0.0470
+18:05:50 | ssl[byol/resnet50] | INFO | ep 094/100 it 50/175 | lr 2.22e-05 | loss 0.0471
+18:05:59 | ssl[byol/resnet50] | INFO | ep 094/100 it 100/175 | lr 2.12e-05 | loss 0.0470
+18:06:07 | ssl[byol/resnet50] | INFO | ep 094/100 it 150/175 | lr 2.02e-05 | loss 0.0469
+18:06:11 | ssl[byol/resnet50] | INFO | epoch 094 done in 00:00:31 | loss 0.0469
+18:06:23 | ssl[byol/resnet50] | INFO | ep 095/100 it 50/175 | lr 1.88e-05 | loss 0.0472
+18:06:31 | ssl[byol/resnet50] | INFO | ep 095/100 it 100/175 | lr 1.80e-05 | loss 0.0470
+18:06:40 | ssl[byol/resnet50] | INFO | ep 095/100 it 150/175 | lr 1.72e-05 | loss 0.0466
+18:06:44 | ssl[byol/resnet50] | INFO | epoch 095 done in 00:00:30 | loss 0.0468
+18:06:56 | ssl[byol/resnet50] | INFO | ep 096/100 it 50/175 | lr 1.60e-05 | loss 0.0466
+18:07:04 | ssl[byol/resnet50] | INFO | ep 096/100 it 100/175 | lr 1.53e-05 | loss 0.0466
+18:07:13 | ssl[byol/resnet50] | INFO | ep 096/100 it 150/175 | lr 1.47e-05 | loss 0.0467
+18:07:17 | ssl[byol/resnet50] | INFO | epoch 096 done in 00:00:30 | loss 0.0466
+18:07:30 | ssl[byol/resnet50] | INFO | ep 097/100 it 50/175 | lr 1.37e-05 | loss 0.0465
+18:07:38 | ssl[byol/resnet50] | INFO | ep 097/100 it 100/175 | lr 1.32e-05 | loss 0.0465
+18:07:46 | ssl[byol/resnet50] | INFO | ep 097/100 it 150/175 | lr 1.27e-05 | loss 0.0466
+18:07:50 | ssl[byol/resnet50] | INFO | epoch 097 done in 00:00:31 | loss 0.0468
+18:08:01 | ssl[byol/resnet50] | INFO | ep 098/100 it 50/175 | lr 1.20e-05 | loss 0.0466
+18:08:10 | ssl[byol/resnet50] | INFO | ep 098/100 it 100/175 | lr 1.16e-05 | loss 0.0471
+18:08:18 | ssl[byol/resnet50] | INFO | ep 098/100 it 150/175 | lr 1.12e-05 | loss 0.0470
+18:08:22 | ssl[byol/resnet50] | INFO | epoch 098 done in 00:00:30 | loss 0.0470
+18:08:33 | ssl[byol/resnet50] | INFO | ep 099/100 it 50/175 | lr 1.08e-05 | loss 0.0470
+18:08:41 | ssl[byol/resnet50] | INFO | ep 099/100 it 100/175 | lr 1.06e-05 | loss 0.0468
+18:08:50 | ssl[byol/resnet50] | INFO | ep 099/100 it 150/175 | lr 1.04e-05 | loss 0.0468
+18:08:54 | ssl[byol/resnet50] | INFO | epoch 099 done in 00:00:30 | loss 0.0468
+18:09:05 | ssl[byol/resnet50] | INFO | ep 100/100 it 50/175 | lr 1.01e-05 | loss 0.0466
+18:09:13 | ssl[byol/resnet50] | INFO | ep 100/100 it 100/175 | lr 1.01e-05 | loss 0.0467
+18:09:21 | ssl[byol/resnet50] | INFO | ep 100/100 it 150/175 | lr 1.00e-05 | loss 0.0469
+18:09:26 | ssl[byol/resnet50] | INFO | epoch 100 done in 00:00:30 | loss 0.0468
+18:09:27 | ssl[byol/resnet50] | INFO | Total SSL training: 00:54:22 (best loss 0.0466)
+18:10:09 | eval[byol-resnet50/resnet50] | INFO | Loaded backbone weights from /workspace/vcl_pathmnist/runs/ssl-byol-resnet50-ep100-bs512-seed42/backbone_final.pt
+18:10:09 | eval[byol-resnet50/resnet50] | INFO | Extracting features for kNN / t-SNE / UMAP...
+18:10:42 | eval[byol-resnet50/resnet50] | INFO | kNN(k=20) top-1: 0.9175
+/workspace/vcl_pathmnist/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+18:11:12 | eval[byol-resnet50/resnet50] | INFO | Saved t-SNE / UMAP plots.
+18:11:12 | probe[linear/resnet50] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+18:11:23 | probe[linear/resnet50] | INFO | [linear] epoch 001/30 | train_loss 0.6464 train_acc 0.8217 | val_loss 0.1181 val_acc 0.9687
+18:11:32 | probe[linear/resnet50] | INFO | [linear] epoch 002/30 | train_loss 0.0983 train_acc 0.9697 | val_loss 0.0917 val_acc 0.9748
+18:11:41 | probe[linear/resnet50] | INFO | [linear] epoch 003/30 | train_loss 0.0859 train_acc 0.9726 | val_loss 0.0888 val_acc 0.9733
+18:11:50 | probe[linear/resnet50] | INFO | [linear] epoch 004/30 | train_loss 0.0798 train_acc 0.9741 | val_loss 0.0782 val_acc 0.9780
+18:11:59 | probe[linear/resnet50] | INFO | [linear] epoch 005/30 | train_loss 0.0742 train_acc 0.9758 | val_loss 0.0801 val_acc 0.9756
+18:12:08 | probe[linear/resnet50] | INFO | [linear] epoch 006/30 | train_loss 0.0721 train_acc 0.9764 | val_loss 0.0782 val_acc 0.9772
+18:12:17 | probe[linear/resnet50] | INFO | [linear] epoch 007/30 | train_loss 0.0680 train_acc 0.9778 | val_loss 0.0760 val_acc 0.9777
+18:12:26 | probe[linear/resnet50] | INFO | [linear] epoch 008/30 | train_loss 0.0665 train_acc 0.9781 | val_loss 0.0700 val_acc 0.9790
+18:12:35 | probe[linear/resnet50] | INFO | [linear] epoch 009/30 | train_loss 0.0651 train_acc 0.9781 | val_loss 0.0747 val_acc 0.9779
+18:12:44 | probe[linear/resnet50] | INFO | [linear] epoch 010/30 | train_loss 0.0630 train_acc 0.9790 | val_loss 0.0765 val_acc 0.9772
+18:12:53 | probe[linear/resnet50] | INFO | [linear] epoch 011/30 | train_loss 0.0618 train_acc 0.9793 | val_loss 0.0771 val_acc 0.9764
+18:13:02 | probe[linear/resnet50] | INFO | [linear] epoch 012/30 | train_loss 0.0604 train_acc 0.9801 | val_loss 0.0775 val_acc 0.9772
+18:13:11 | probe[linear/resnet50] | INFO | [linear] epoch 013/30 | train_loss 0.0594 train_acc 0.9802 | val_loss 0.0673 val_acc 0.9806
+18:13:20 | probe[linear/resnet50] | INFO | [linear] epoch 014/30 | train_loss 0.0585 train_acc 0.9806 | val_loss 0.0688 val_acc 0.9792
+18:13:29 | probe[linear/resnet50] | INFO | [linear] epoch 015/30 | train_loss 0.0577 train_acc 0.9809 | val_loss 0.0667 val_acc 0.9801
+18:13:38 | probe[linear/resnet50] | INFO | [linear] epoch 016/30 | train_loss 0.0569 train_acc 0.9809 | val_loss 0.0695 val_acc 0.9790
+18:13:47 | probe[linear/resnet50] | INFO | [linear] epoch 017/30 | train_loss 0.0554 train_acc 0.9816 | val_loss 0.0665 val_acc 0.9803
+18:13:56 | probe[linear/resnet50] | INFO | [linear] epoch 018/30 | train_loss 0.0546 train_acc 0.9815 | val_loss 0.0674 val_acc 0.9789
+18:14:05 | probe[linear/resnet50] | INFO | [linear] epoch 019/30 | train_loss 0.0541 train_acc 0.9817 | val_loss 0.0675 val_acc 0.9796
+18:14:14 | probe[linear/resnet50] | INFO | [linear] epoch 020/30 | train_loss 0.0534 train_acc 0.9820 | val_loss 0.0674 val_acc 0.9788
+18:14:24 | probe[linear/resnet50] | INFO | [linear] epoch 021/30 | train_loss 0.0527 train_acc 0.9823 | val_loss 0.0642 val_acc 0.9808
+18:14:33 | probe[linear/resnet50] | INFO | [linear] epoch 022/30 | train_loss 0.0526 train_acc 0.9821 | val_loss 0.0635 val_acc 0.9809
+18:14:43 | probe[linear/resnet50] | INFO | [linear] epoch 023/30 | train_loss 0.0521 train_acc 0.9824 | val_loss 0.0625 val_acc 0.9816
+18:14:52 | probe[linear/resnet50] | INFO | [linear] epoch 024/30 | train_loss 0.0514 train_acc 0.9826 | val_loss 0.0636 val_acc 0.9811
+18:15:01 | probe[linear/resnet50] | INFO | [linear] epoch 025/30 | train_loss 0.0505 train_acc 0.9829 | val_loss 0.0645 val_acc 0.9812
+18:15:10 | probe[linear/resnet50] | INFO | [linear] epoch 026/30 | train_loss 0.0512 train_acc 0.9829 | val_loss 0.0650 val_acc 0.9805
+18:15:19 | probe[linear/resnet50] | INFO | [linear] epoch 027/30 | train_loss 0.0504 train_acc 0.9825 | val_loss 0.0634 val_acc 0.9812
+18:15:27 | probe[linear/resnet50] | INFO | [linear] epoch 028/30 | train_loss 0.0505 train_acc 0.9826 | val_loss 0.0643 val_acc 0.9806
+18:15:37 | probe[linear/resnet50] | INFO | [linear] epoch 029/30 | train_loss 0.0504 train_acc 0.9829 | val_loss 0.0640 val_acc 0.9809
+18:15:46 | probe[linear/resnet50] | INFO | [linear] epoch 030/30 | train_loss 0.0500 train_acc 0.9829 | val_loss 0.0637 val_acc 0.9812
+18:15:46 | probe[linear/resnet50] | INFO | [linear] done in 00:04:33 | best val_acc 0.9816
+18:15:47 | eval[byol-resnet50/resnet50] | INFO | Linear test acc 0.9235 | bal-acc 0.8994 | f1-macro 0.8936 | AUC 0.9932512672473527
+18:15:47 | probe[finetune_10pct/resnet50] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+18:15:53 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 001/30 | train_loss 1.6886 train_acc 0.4474 | val_loss 0.7734 val_acc 0.8628
+18:15:57 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 002/30 | train_loss 0.2489 train_acc 0.9454 | val_loss 0.1877 val_acc 0.9388
+18:16:00 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 003/30 | train_loss 0.1179 train_acc 0.9602 | val_loss 0.1245 val_acc 0.9593
+18:16:04 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 004/30 | train_loss 0.0890 train_acc 0.9691 | val_loss 0.1158 val_acc 0.9625
+18:16:07 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 005/30 | train_loss 0.0720 train_acc 0.9772 | val_loss 0.1242 val_acc 0.9644
+18:16:11 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 006/30 | train_loss 0.0571 train_acc 0.9806 | val_loss 0.0841 val_acc 0.9739
+18:16:14 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 007/30 | train_loss 0.0520 train_acc 0.9822 | val_loss 0.0792 val_acc 0.9767
+18:16:18 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 008/30 | train_loss 0.0437 train_acc 0.9856 | val_loss 0.0873 val_acc 0.9733
+18:16:21 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 009/30 | train_loss 0.0447 train_acc 0.9854 | val_loss 0.1029 val_acc 0.9705
+18:16:24 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 010/30 | train_loss 0.0376 train_acc 0.9879 | val_loss 0.0898 val_acc 0.9713
+18:16:28 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 011/30 | train_loss 0.0294 train_acc 0.9901 | val_loss 0.0840 val_acc 0.9739
+18:16:31 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 012/30 | train_loss 0.0311 train_acc 0.9898 | val_loss 0.0941 val_acc 0.9708
+18:16:34 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 013/30 | train_loss 0.0314 train_acc 0.9890 | val_loss 0.0869 val_acc 0.9760
+18:16:37 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 014/30 | train_loss 0.0228 train_acc 0.9926 | val_loss 0.0787 val_acc 0.9767
+18:16:40 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 015/30 | train_loss 0.0149 train_acc 0.9961 | val_loss 0.0653 val_acc 0.9808
+18:16:44 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 016/30 | train_loss 0.0121 train_acc 0.9958 | val_loss 0.0692 val_acc 0.9803
+18:16:47 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 017/30 | train_loss 0.0123 train_acc 0.9962 | val_loss 0.0743 val_acc 0.9774
+18:16:50 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 018/30 | train_loss 0.0090 train_acc 0.9973 | val_loss 0.0702 val_acc 0.9794
+18:16:54 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 019/30 | train_loss 0.0085 train_acc 0.9976 | val_loss 0.0711 val_acc 0.9815
+18:16:57 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 020/30 | train_loss 0.0070 train_acc 0.9974 | val_loss 0.0702 val_acc 0.9804
+18:17:00 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 021/30 | train_loss 0.0068 train_acc 0.9984 | val_loss 0.0656 val_acc 0.9817
+18:17:04 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 022/30 | train_loss 0.0066 train_acc 0.9982 | val_loss 0.0716 val_acc 0.9801
+18:17:07 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 023/30 | train_loss 0.0050 train_acc 0.9988 | val_loss 0.0663 val_acc 0.9817
+18:17:10 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 024/30 | train_loss 0.0056 train_acc 0.9983 | val_loss 0.0695 val_acc 0.9815
+18:17:14 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 025/30 | train_loss 0.0050 train_acc 0.9982 | val_loss 0.0689 val_acc 0.9820
+18:17:17 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 026/30 | train_loss 0.0048 train_acc 0.9984 | val_loss 0.0696 val_acc 0.9819
+18:17:21 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 027/30 | train_loss 0.0035 train_acc 0.9992 | val_loss 0.0685 val_acc 0.9825
+18:17:24 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 028/30 | train_loss 0.0038 train_acc 0.9992 | val_loss 0.0694 val_acc 0.9824
+18:17:27 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 029/30 | train_loss 0.0047 train_acc 0.9986 | val_loss 0.0695 val_acc 0.9822
+18:17:31 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] epoch 030/30 | train_loss 0.0035 train_acc 0.9992 | val_loss 0.0685 val_acc 0.9825
+18:17:31 | probe[finetune_10pct/resnet50] | INFO | [finetune_10pct] done in 00:01:43 | best val_acc 0.9825
+18:17:32 | eval[byol-resnet50/resnet50] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.9308 | bal-acc 0.9092 | f1-macro 0.9029
+18:17:32 | probe[finetune_1pct/resnet50] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+18:17:36 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 001/30 | train_loss 2.4697 train_acc 0.0666 | val_loss 2.0541 val_acc 0.2546
+18:17:38 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 002/30 | train_loss 1.9021 train_acc 0.3541 | val_loss 1.4775 val_acc 0.7453
+18:17:40 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 003/30 | train_loss 1.2236 train_acc 0.8801 | val_loss 1.0124 val_acc 0.8597
+18:17:42 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 004/30 | train_loss 0.7048 train_acc 0.9201 | val_loss 0.6637 val_acc 0.8807
+18:17:44 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 005/30 | train_loss 0.3966 train_acc 0.9323 | val_loss 0.4641 val_acc 0.9082
+18:17:47 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 006/30 | train_loss 0.2181 train_acc 0.9445 | val_loss 0.4013 val_acc 0.8929
+18:17:48 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 007/30 | train_loss 0.1437 train_acc 0.9645 | val_loss 0.3874 val_acc 0.8850
+18:17:50 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 008/30 | train_loss 0.0912 train_acc 0.9756 | val_loss 0.3926 val_acc 0.8797
+18:17:52 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 009/30 | train_loss 0.0670 train_acc 0.9834 | val_loss 0.3614 val_acc 0.8934
+18:17:54 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 010/30 | train_loss 0.0582 train_acc 0.9789 | val_loss 0.3493 val_acc 0.8970
+18:17:56 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 011/30 | train_loss 0.0440 train_acc 0.9878 | val_loss 0.3623 val_acc 0.8944
+18:17:58 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 012/30 | train_loss 0.0456 train_acc 0.9867 | val_loss 0.3403 val_acc 0.9022
+18:18:00 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 013/30 | train_loss 0.0411 train_acc 0.9834 | val_loss 0.2794 val_acc 0.9187
+18:18:02 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 014/30 | train_loss 0.0268 train_acc 0.9878 | val_loss 0.2573 val_acc 0.9250
+18:18:04 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 015/30 | train_loss 0.0213 train_acc 0.9945 | val_loss 0.2807 val_acc 0.9186
+18:18:06 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 016/30 | train_loss 0.0155 train_acc 0.9967 | val_loss 0.2694 val_acc 0.9234
+18:18:07 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 017/30 | train_loss 0.0186 train_acc 0.9956 | val_loss 0.2469 val_acc 0.9337
+18:18:10 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 018/30 | train_loss 0.0217 train_acc 0.9945 | val_loss 0.2305 val_acc 0.9369
+18:18:12 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 019/30 | train_loss 0.0150 train_acc 0.9945 | val_loss 0.2217 val_acc 0.9417
+18:18:14 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 020/30 | train_loss 0.0113 train_acc 0.9956 | val_loss 0.2156 val_acc 0.9436
+18:18:16 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 021/30 | train_loss 0.0140 train_acc 0.9945 | val_loss 0.2093 val_acc 0.9452
+18:18:18 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 022/30 | train_loss 0.0090 train_acc 0.9967 | val_loss 0.2067 val_acc 0.9459
+18:18:20 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 023/30 | train_loss 0.0073 train_acc 0.9989 | val_loss 0.2042 val_acc 0.9471
+18:18:22 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 024/30 | train_loss 0.0061 train_acc 1.0000 | val_loss 0.2011 val_acc 0.9478
+18:18:25 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 025/30 | train_loss 0.0063 train_acc 0.9989 | val_loss 0.1997 val_acc 0.9489
+18:18:27 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 026/30 | train_loss 0.0077 train_acc 0.9989 | val_loss 0.1983 val_acc 0.9493
+18:18:29 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 027/30 | train_loss 0.0071 train_acc 0.9989 | val_loss 0.1983 val_acc 0.9494
+18:18:31 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 028/30 | train_loss 0.0121 train_acc 0.9978 | val_loss 0.1977 val_acc 0.9500
+18:18:33 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 029/30 | train_loss 0.0059 train_acc 0.9989 | val_loss 0.1977 val_acc 0.9501
+18:18:35 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 030/30 | train_loss 0.0074 train_acc 0.9989 | val_loss 0.1983 val_acc 0.9503
+18:18:36 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] done in 00:01:03 | best val_acc 0.9503
+18:18:37 | eval[byol-resnet50/resnet50] | INFO | Low-shot 1.0% (n=901) -> test acc 0.8889 | bal-acc 0.8507 | f1-macro 0.8424
+18:18:37 | eval[byol-resnet50/resnet50] | INFO | Downstream evaluation complete.

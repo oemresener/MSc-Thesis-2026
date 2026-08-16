@@ -1,0 +1,55 @@
+22:54:36 | vae[b4] | INFO | BetaVAE params: 4.54M
+22:54:47 | vae[b4] | INFO | epoch 001/50 | loss 1725.9353 | recon 1632.0561 | kl 23.4698 | lr 5.00e-04 | 00:00:10
+22:54:52 | vae[b4] | INFO | epoch 002/50 | loss 850.8981 | recon 772.8637 | kl 19.5086 | lr 1.00e-03 | 00:00:05
+22:54:58 | vae[b4] | INFO | epoch 003/50 | loss 828.8336 | recon 752.8872 | kl 18.9866 | lr 9.99e-04 | 00:00:05
+22:55:04 | vae[b4] | INFO | epoch 004/50 | loss 814.6021 | recon 739.1716 | kl 18.8576 | lr 9.96e-04 | 00:00:05
+22:55:10 | vae[b4] | INFO | epoch 005/50 | loss 805.7819 | recon 730.6062 | kl 18.7939 | lr 9.91e-04 | 00:00:05
+22:55:16 | vae[b4] | INFO | epoch 006/50 | loss 801.7115 | recon 726.3094 | kl 18.8505 | lr 9.83e-04 | 00:00:06
+22:55:22 | vae[b4] | INFO | epoch 007/50 | loss 798.3099 | recon 722.2803 | kl 19.0074 | lr 9.74e-04 | 00:00:05
+22:55:28 | vae[b4] | INFO | epoch 008/50 | loss 796.5011 | recon 720.3181 | kl 19.0457 | lr 9.62e-04 | 00:00:05
+22:55:34 | vae[b4] | INFO | epoch 009/50 | loss 794.5786 | recon 717.8540 | kl 19.1812 | lr 9.49e-04 | 00:00:05
+22:55:40 | vae[b4] | INFO | epoch 010/50 | loss 792.9053 | recon 716.0416 | kl 19.2159 | lr 9.34e-04 | 00:00:05
+22:55:45 | vae[b4] | INFO | epoch 011/50 | loss 792.5125 | recon 715.2174 | kl 19.3238 | lr 9.17e-04 | 00:00:05
+22:55:51 | vae[b4] | INFO | epoch 012/50 | loss 791.0146 | recon 713.5311 | kl 19.3709 | lr 8.98e-04 | 00:00:05
+22:55:57 | vae[b4] | INFO | epoch 013/50 | loss 790.2724 | recon 712.8887 | kl 19.3459 | lr 8.77e-04 | 00:00:05
+22:56:03 | vae[b4] | INFO | epoch 014/50 | loss 789.4533 | recon 711.8804 | kl 19.3932 | lr 8.55e-04 | 00:00:05
+22:56:09 | vae[b4] | INFO | epoch 015/50 | loss 788.2189 | recon 710.9315 | kl 19.3218 | lr 8.31e-04 | 00:00:06
+22:56:15 | vae[b4] | INFO | epoch 016/50 | loss 787.8018 | recon 710.2642 | kl 19.3844 | lr 8.06e-04 | 00:00:06
+22:56:21 | vae[b4] | INFO | epoch 017/50 | loss 787.1297 | recon 709.5923 | kl 19.3844 | lr 7.80e-04 | 00:00:05
+22:56:27 | vae[b4] | INFO | epoch 018/50 | loss 786.3919 | recon 708.8013 | kl 19.3977 | lr 7.53e-04 | 00:00:05
+22:56:33 | vae[b4] | INFO | epoch 019/50 | loss 785.9547 | recon 708.1521 | kl 19.4506 | lr 7.24e-04 | 00:00:05
+22:56:38 | vae[b4] | INFO | epoch 020/50 | loss 785.3108 | recon 707.6112 | kl 19.4249 | lr 6.95e-04 | 00:00:05
+22:56:44 | vae[b4] | INFO | epoch 021/50 | loss 784.9295 | recon 706.9968 | kl 19.4832 | lr 6.64e-04 | 00:00:05
+22:56:50 | vae[b4] | INFO | epoch 022/50 | loss 784.2354 | recon 706.4748 | kl 19.4402 | lr 6.33e-04 | 00:00:05
+22:56:56 | vae[b4] | INFO | epoch 023/50 | loss 784.1120 | recon 706.1219 | kl 19.4975 | lr 6.02e-04 | 00:00:05
+22:57:02 | vae[b4] | INFO | epoch 024/50 | loss 783.4236 | recon 705.6204 | kl 19.4508 | lr 5.70e-04 | 00:00:05
+22:57:07 | vae[b4] | INFO | epoch 025/50 | loss 782.7540 | recon 704.7257 | kl 19.5071 | lr 5.37e-04 | 00:00:05
+22:57:12 | vae[b4] | INFO | epoch 026/50 | loss 782.4930 | recon 704.5344 | kl 19.4896 | lr 5.05e-04 | 00:00:05
+22:57:18 | vae[b4] | INFO | epoch 027/50 | loss 782.2882 | recon 704.1810 | kl 19.5268 | lr 4.73e-04 | 00:00:05
+22:57:24 | vae[b4] | INFO | epoch 028/50 | loss 781.9052 | recon 703.8326 | kl 19.5182 | lr 4.40e-04 | 00:00:05
+22:57:30 | vae[b4] | INFO | epoch 029/50 | loss 781.1256 | recon 702.9690 | kl 19.5392 | lr 4.09e-04 | 00:00:05
+22:57:36 | vae[b4] | INFO | epoch 030/50 | loss 780.6177 | recon 702.5578 | kl 19.5150 | lr 3.77e-04 | 00:00:05
+22:57:41 | vae[b4] | INFO | epoch 031/50 | loss 780.4332 | recon 702.2923 | kl 19.5352 | lr 3.46e-04 | 00:00:05
+22:57:47 | vae[b4] | INFO | epoch 032/50 | loss 780.1418 | recon 701.9184 | kl 19.5559 | lr 3.16e-04 | 00:00:05
+22:57:53 | vae[b4] | INFO | epoch 033/50 | loss 779.4478 | recon 700.9691 | kl 19.6197 | lr 2.86e-04 | 00:00:05
+22:58:00 | vae[b4] | INFO | epoch 034/50 | loss 779.2725 | recon 700.8941 | kl 19.5946 | lr 2.58e-04 | 00:00:06
+22:58:06 | vae[b4] | INFO | epoch 035/50 | loss 778.9926 | recon 700.6729 | kl 19.5799 | lr 2.30e-04 | 00:00:06
+22:58:12 | vae[b4] | INFO | epoch 036/50 | loss 778.7154 | recon 700.3537 | kl 19.5904 | lr 2.04e-04 | 00:00:06
+22:58:18 | vae[b4] | INFO | epoch 037/50 | loss 778.4283 | recon 699.9340 | kl 19.6236 | lr 1.79e-04 | 00:00:05
+22:58:24 | vae[b4] | INFO | epoch 038/50 | loss 778.0757 | recon 699.7915 | kl 19.5711 | lr 1.55e-04 | 00:00:06
+22:58:30 | vae[b4] | INFO | epoch 039/50 | loss 777.8891 | recon 699.4337 | kl 19.6138 | lr 1.33e-04 | 00:00:05
+22:58:36 | vae[b4] | INFO | epoch 040/50 | loss 777.5719 | recon 699.0646 | kl 19.6268 | lr 1.12e-04 | 00:00:06
+22:58:42 | vae[b4] | INFO | epoch 041/50 | loss 777.5979 | recon 699.0632 | kl 19.6337 | lr 9.35e-05 | 00:00:05
+22:58:48 | vae[b4] | INFO | epoch 042/50 | loss 777.0830 | recon 698.6481 | kl 19.6087 | lr 7.64e-05 | 00:00:05
+22:58:54 | vae[b4] | INFO | epoch 043/50 | loss 776.7341 | recon 698.3169 | kl 19.6043 | lr 6.11e-05 | 00:00:06
+22:59:01 | vae[b4] | INFO | epoch 044/50 | loss 777.0640 | recon 698.4832 | kl 19.6452 | lr 4.77e-05 | 00:00:06
+22:59:07 | vae[b4] | INFO | epoch 045/50 | loss 776.8308 | recon 698.3008 | kl 19.6325 | lr 3.63e-05 | 00:00:06
+22:59:14 | vae[b4] | INFO | epoch 046/50 | loss 776.4454 | recon 697.8586 | kl 19.6467 | lr 2.69e-05 | 00:00:06
+22:59:20 | vae[b4] | INFO | epoch 047/50 | loss 776.2600 | recon 697.7586 | kl 19.6253 | lr 1.95e-05 | 00:00:06
+22:59:27 | vae[b4] | INFO | epoch 048/50 | loss 776.3693 | recon 697.7719 | kl 19.6493 | lr 1.42e-05 | 00:00:06
+22:59:33 | vae[b4] | INFO | epoch 049/50 | loss 776.3134 | recon 697.6163 | kl 19.6743 | lr 1.11e-05 | 00:00:06
+22:59:39 | vae[b4] | INFO | epoch 050/50 | loss 776.1933 | recon 697.6677 | kl 19.6314 | lr 1.00e-05 | 00:00:05
+22:59:39 | vae[b4] | INFO | VAE done in 00:05:02 (best loss 776.1933)
+22:59:39 | vae.precompute | INFO | Computing saliency for 89996 images from pathmnist:train...
+22:59:46 | vae.precompute | INFO | Saliency computed in 7.0s, shape (89996, 128, 128)
+23:07:25 | vae.precompute | INFO | Saved saliency map to /workspace/vcl_pathmnist/runs/vae-pathmnist-ld64-b4-ep50-seed42/saliency_train.npy

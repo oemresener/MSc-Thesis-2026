@@ -1,0 +1,30 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Model weights and precomputed arrays.
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+
+# Archives
+*.tar.gz
+*.zip
+
+# Datasets
+data/
+medmnist/
+
+# OS / editor
+.DS_Store
+.vscode/
+.cache/

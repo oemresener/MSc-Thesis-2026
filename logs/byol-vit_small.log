@@ -1,0 +1,509 @@
+21:40:00 | ssl[byol/vit_small] | INFO | Model: byol / vit_small -- params: 26.36M
+21:40:12 | ssl[byol/vit_small] | INFO | ep 001/100 it 50/175 | lr 5.71e-05 | loss 1.1031
+21:40:17 | ssl[byol/vit_small] | INFO | ep 001/100 it 100/175 | lr 1.14e-04 | loss 0.9263
+21:40:22 | ssl[byol/vit_small] | INFO | ep 001/100 it 150/175 | lr 1.71e-04 | loss 0.8907
+21:40:24 | ssl[byol/vit_small] | INFO | epoch 001 done in 00:00:24 | loss 0.8879
+21:40:31 | ssl[byol/vit_small] | INFO | ep 002/100 it 50/175 | lr 2.57e-04 | loss 0.8790
+21:40:36 | ssl[byol/vit_small] | INFO | ep 002/100 it 100/175 | lr 3.14e-04 | loss 0.8736
+21:40:42 | ssl[byol/vit_small] | INFO | ep 002/100 it 150/175 | lr 3.71e-04 | loss 0.8498
+21:40:44 | ssl[byol/vit_small] | INFO | epoch 002 done in 00:00:19 | loss 0.8314
+21:40:51 | ssl[byol/vit_small] | INFO | ep 003/100 it 50/175 | lr 4.57e-04 | loss 0.6049
+21:40:56 | ssl[byol/vit_small] | INFO | ep 003/100 it 100/175 | lr 5.14e-04 | loss 0.5462
+21:41:01 | ssl[byol/vit_small] | INFO | ep 003/100 it 150/175 | lr 5.71e-04 | loss 0.5010
+21:41:04 | ssl[byol/vit_small] | INFO | epoch 003 done in 00:00:19 | loss 0.4802
+21:41:11 | ssl[byol/vit_small] | INFO | ep 004/100 it 50/175 | lr 6.57e-04 | loss 0.3255
+21:41:16 | ssl[byol/vit_small] | INFO | ep 004/100 it 100/175 | lr 7.14e-04 | loss 0.3025
+21:41:21 | ssl[byol/vit_small] | INFO | ep 004/100 it 150/175 | lr 7.71e-04 | loss 0.2845
+21:41:23 | ssl[byol/vit_small] | INFO | epoch 004 done in 00:00:19 | loss 0.2771
+21:41:31 | ssl[byol/vit_small] | INFO | ep 005/100 it 50/175 | lr 8.57e-04 | loss 0.2194
+21:41:36 | ssl[byol/vit_small] | INFO | ep 005/100 it 100/175 | lr 9.14e-04 | loss 0.2133
+21:41:41 | ssl[byol/vit_small] | INFO | ep 005/100 it 150/175 | lr 9.71e-04 | loss 0.2068
+21:41:43 | ssl[byol/vit_small] | INFO | epoch 005 done in 00:00:19 | loss 0.2047
+21:41:51 | ssl[byol/vit_small] | INFO | ep 006/100 it 50/175 | lr 1.00e-03 | loss 0.1849
+21:41:56 | ssl[byol/vit_small] | INFO | ep 006/100 it 100/175 | lr 1.00e-03 | loss 0.1810
+21:42:01 | ssl[byol/vit_small] | INFO | ep 006/100 it 150/175 | lr 1.00e-03 | loss 0.1768
+21:42:03 | ssl[byol/vit_small] | INFO | epoch 006 done in 00:00:19 | loss 0.1755
+21:42:10 | ssl[byol/vit_small] | INFO | ep 007/100 it 50/175 | lr 1.00e-03 | loss 0.1653
+21:42:15 | ssl[byol/vit_small] | INFO | ep 007/100 it 100/175 | lr 9.99e-04 | loss 0.1629
+21:42:20 | ssl[byol/vit_small] | INFO | ep 007/100 it 150/175 | lr 9.99e-04 | loss 0.1614
+21:42:23 | ssl[byol/vit_small] | INFO | epoch 007 done in 00:00:19 | loss 0.1607
+21:42:30 | ssl[byol/vit_small] | INFO | ep 008/100 it 50/175 | lr 9.99e-04 | loss 0.1532
+21:42:35 | ssl[byol/vit_small] | INFO | ep 008/100 it 100/175 | lr 9.98e-04 | loss 0.1534
+21:42:40 | ssl[byol/vit_small] | INFO | ep 008/100 it 150/175 | lr 9.98e-04 | loss 0.1527
+21:42:43 | ssl[byol/vit_small] | INFO | epoch 008 done in 00:00:19 | loss 0.1528
+21:42:50 | ssl[byol/vit_small] | INFO | ep 009/100 it 50/175 | lr 9.97e-04 | loss 0.1479
+21:42:55 | ssl[byol/vit_small] | INFO | ep 009/100 it 100/175 | lr 9.97e-04 | loss 0.1483
+21:43:00 | ssl[byol/vit_small] | INFO | ep 009/100 it 150/175 | lr 9.96e-04 | loss 0.1484
+21:43:02 | ssl[byol/vit_small] | INFO | epoch 009 done in 00:00:19 | loss 0.1481
+21:43:09 | ssl[byol/vit_small] | INFO | ep 010/100 it 50/175 | lr 9.95e-04 | loss 0.1470
+21:43:14 | ssl[byol/vit_small] | INFO | ep 010/100 it 100/175 | lr 9.94e-04 | loss 0.1457
+21:43:19 | ssl[byol/vit_small] | INFO | ep 010/100 it 150/175 | lr 9.94e-04 | loss 0.1451
+21:43:22 | ssl[byol/vit_small] | INFO | epoch 010 done in 00:00:19 | loss 0.1451
+21:43:29 | ssl[byol/vit_small] | INFO | ep 011/100 it 50/175 | lr 9.92e-04 | loss 0.1430
+21:43:34 | ssl[byol/vit_small] | INFO | ep 011/100 it 100/175 | lr 9.92e-04 | loss 0.1444
+21:43:39 | ssl[byol/vit_small] | INFO | ep 011/100 it 150/175 | lr 9.91e-04 | loss 0.1436
+21:43:42 | ssl[byol/vit_small] | INFO | epoch 011 done in 00:00:19 | loss 0.1434
+21:43:49 | ssl[byol/vit_small] | INFO | ep 012/100 it 50/175 | lr 9.89e-04 | loss 0.1391
+21:43:54 | ssl[byol/vit_small] | INFO | ep 012/100 it 100/175 | lr 9.88e-04 | loss 0.1410
+21:43:59 | ssl[byol/vit_small] | INFO | ep 012/100 it 150/175 | lr 9.87e-04 | loss 0.1412
+21:44:01 | ssl[byol/vit_small] | INFO | epoch 012 done in 00:00:19 | loss 0.1412
+21:44:09 | ssl[byol/vit_small] | INFO | ep 013/100 it 50/175 | lr 9.86e-04 | loss 0.1400
+21:44:14 | ssl[byol/vit_small] | INFO | ep 013/100 it 100/175 | lr 9.85e-04 | loss 0.1394
+21:44:19 | ssl[byol/vit_small] | INFO | ep 013/100 it 150/175 | lr 9.83e-04 | loss 0.1398
+21:44:21 | ssl[byol/vit_small] | INFO | epoch 013 done in 00:00:19 | loss 0.1403
+21:44:29 | ssl[byol/vit_small] | INFO | ep 014/100 it 50/175 | lr 9.82e-04 | loss 0.1395
+21:44:34 | ssl[byol/vit_small] | INFO | ep 014/100 it 100/175 | lr 9.80e-04 | loss 0.1379
+21:44:39 | ssl[byol/vit_small] | INFO | ep 014/100 it 150/175 | lr 9.79e-04 | loss 0.1384
+21:44:41 | ssl[byol/vit_small] | INFO | epoch 014 done in 00:00:20 | loss 0.1382
+21:44:49 | ssl[byol/vit_small] | INFO | ep 015/100 it 50/175 | lr 9.77e-04 | loss 0.1387
+21:44:54 | ssl[byol/vit_small] | INFO | ep 015/100 it 100/175 | lr 9.75e-04 | loss 0.1383
+21:44:59 | ssl[byol/vit_small] | INFO | ep 015/100 it 150/175 | lr 9.74e-04 | loss 0.1375
+21:45:01 | ssl[byol/vit_small] | INFO | epoch 015 done in 00:00:20 | loss 0.1379
+21:45:09 | ssl[byol/vit_small] | INFO | ep 016/100 it 50/175 | lr 9.72e-04 | loss 0.1384
+21:45:14 | ssl[byol/vit_small] | INFO | ep 016/100 it 100/175 | lr 9.70e-04 | loss 0.1376
+21:45:19 | ssl[byol/vit_small] | INFO | ep 016/100 it 150/175 | lr 9.68e-04 | loss 0.1381
+21:45:22 | ssl[byol/vit_small] | INFO | epoch 016 done in 00:00:20 | loss 0.1381
+21:45:29 | ssl[byol/vit_small] | INFO | ep 017/100 it 50/175 | lr 9.66e-04 | loss 0.1377
+21:45:34 | ssl[byol/vit_small] | INFO | ep 017/100 it 100/175 | lr 9.64e-04 | loss 0.1381
+21:45:39 | ssl[byol/vit_small] | INFO | ep 017/100 it 150/175 | lr 9.62e-04 | loss 0.1388
+21:45:42 | ssl[byol/vit_small] | INFO | epoch 017 done in 00:00:20 | loss 0.1391
+21:45:50 | ssl[byol/vit_small] | INFO | ep 018/100 it 50/175 | lr 9.60e-04 | loss 0.1395
+21:45:55 | ssl[byol/vit_small] | INFO | ep 018/100 it 100/175 | lr 9.58e-04 | loss 0.1400
+21:46:00 | ssl[byol/vit_small] | INFO | ep 018/100 it 150/175 | lr 9.56e-04 | loss 0.1399
+21:46:02 | ssl[byol/vit_small] | INFO | epoch 018 done in 00:00:20 | loss 0.1399
+21:46:10 | ssl[byol/vit_small] | INFO | ep 019/100 it 50/175 | lr 9.53e-04 | loss 0.1392
+21:46:15 | ssl[byol/vit_small] | INFO | ep 019/100 it 100/175 | lr 9.51e-04 | loss 0.1394
+21:46:20 | ssl[byol/vit_small] | INFO | ep 019/100 it 150/175 | lr 9.49e-04 | loss 0.1398
+21:46:23 | ssl[byol/vit_small] | INFO | epoch 019 done in 00:00:20 | loss 0.1399
+21:46:30 | ssl[byol/vit_small] | INFO | ep 020/100 it 50/175 | lr 9.46e-04 | loss 0.1422
+21:46:35 | ssl[byol/vit_small] | INFO | ep 020/100 it 100/175 | lr 9.44e-04 | loss 0.1414
+21:46:40 | ssl[byol/vit_small] | INFO | ep 020/100 it 150/175 | lr 9.41e-04 | loss 0.1417
+21:46:43 | ssl[byol/vit_small] | INFO | epoch 020 done in 00:00:19 | loss 0.1416
+21:46:50 | ssl[byol/vit_small] | INFO | ep 021/100 it 50/175 | lr 9.38e-04 | loss 0.1448
+21:46:55 | ssl[byol/vit_small] | INFO | ep 021/100 it 100/175 | lr 9.36e-04 | loss 0.1445
+21:47:00 | ssl[byol/vit_small] | INFO | ep 021/100 it 150/175 | lr 9.34e-04 | loss 0.1442
+21:47:02 | ssl[byol/vit_small] | INFO | epoch 021 done in 00:00:19 | loss 0.1442
+21:47:10 | ssl[byol/vit_small] | INFO | ep 022/100 it 50/175 | lr 9.30e-04 | loss 0.1435
+21:47:15 | ssl[byol/vit_small] | INFO | ep 022/100 it 100/175 | lr 9.28e-04 | loss 0.1444
+21:47:20 | ssl[byol/vit_small] | INFO | ep 022/100 it 150/175 | lr 9.25e-04 | loss 0.1445
+21:47:22 | ssl[byol/vit_small] | INFO | epoch 022 done in 00:00:19 | loss 0.1446
+21:47:29 | ssl[byol/vit_small] | INFO | ep 023/100 it 50/175 | lr 9.21e-04 | loss 0.1453
+21:47:34 | ssl[byol/vit_small] | INFO | ep 023/100 it 100/175 | lr 9.19e-04 | loss 0.1454
+21:47:39 | ssl[byol/vit_small] | INFO | ep 023/100 it 150/175 | lr 9.16e-04 | loss 0.1452
+21:47:42 | ssl[byol/vit_small] | INFO | epoch 023 done in 00:00:19 | loss 0.1451
+21:47:49 | ssl[byol/vit_small] | INFO | ep 024/100 it 50/175 | lr 9.12e-04 | loss 0.1452
+21:47:54 | ssl[byol/vit_small] | INFO | ep 024/100 it 100/175 | lr 9.10e-04 | loss 0.1450
+21:47:59 | ssl[byol/vit_small] | INFO | ep 024/100 it 150/175 | lr 9.07e-04 | loss 0.1453
+21:48:02 | ssl[byol/vit_small] | INFO | epoch 024 done in 00:00:19 | loss 0.1454
+21:48:09 | ssl[byol/vit_small] | INFO | ep 025/100 it 50/175 | lr 9.03e-04 | loss 0.1443
+21:48:14 | ssl[byol/vit_small] | INFO | ep 025/100 it 100/175 | lr 9.00e-04 | loss 0.1441
+21:48:19 | ssl[byol/vit_small] | INFO | ep 025/100 it 150/175 | lr 8.97e-04 | loss 0.1440
+21:48:22 | ssl[byol/vit_small] | INFO | epoch 025 done in 00:00:19 | loss 0.1439
+21:48:29 | ssl[byol/vit_small] | INFO | ep 026/100 it 50/175 | lr 8.93e-04 | loss 0.1428
+21:48:34 | ssl[byol/vit_small] | INFO | ep 026/100 it 100/175 | lr 8.90e-04 | loss 0.1429
+21:48:39 | ssl[byol/vit_small] | INFO | ep 026/100 it 150/175 | lr 8.87e-04 | loss 0.1426
+21:48:42 | ssl[byol/vit_small] | INFO | epoch 026 done in 00:00:20 | loss 0.1422
+21:48:49 | ssl[byol/vit_small] | INFO | ep 027/100 it 50/175 | lr 8.82e-04 | loss 0.1404
+21:48:54 | ssl[byol/vit_small] | INFO | ep 027/100 it 100/175 | lr 8.79e-04 | loss 0.1401
+21:48:59 | ssl[byol/vit_small] | INFO | ep 027/100 it 150/175 | lr 8.76e-04 | loss 0.1401
+21:49:02 | ssl[byol/vit_small] | INFO | epoch 027 done in 00:00:19 | loss 0.1402
+21:49:09 | ssl[byol/vit_small] | INFO | ep 028/100 it 50/175 | lr 8.72e-04 | loss 0.1405
+21:49:14 | ssl[byol/vit_small] | INFO | ep 028/100 it 100/175 | lr 8.68e-04 | loss 0.1407
+21:49:19 | ssl[byol/vit_small] | INFO | ep 028/100 it 150/175 | lr 8.65e-04 | loss 0.1403
+21:49:22 | ssl[byol/vit_small] | INFO | epoch 028 done in 00:00:20 | loss 0.1400
+21:49:29 | ssl[byol/vit_small] | INFO | ep 029/100 it 50/175 | lr 8.60e-04 | loss 0.1404
+21:49:34 | ssl[byol/vit_small] | INFO | ep 029/100 it 100/175 | lr 8.57e-04 | loss 0.1404
+21:49:39 | ssl[byol/vit_small] | INFO | ep 029/100 it 150/175 | lr 8.54e-04 | loss 0.1393
+21:49:41 | ssl[byol/vit_small] | INFO | epoch 029 done in 00:00:19 | loss 0.1388
+21:49:48 | ssl[byol/vit_small] | INFO | ep 030/100 it 50/175 | lr 8.49e-04 | loss 0.1381
+21:49:53 | ssl[byol/vit_small] | INFO | ep 030/100 it 100/175 | lr 8.45e-04 | loss 0.1374
+21:49:58 | ssl[byol/vit_small] | INFO | ep 030/100 it 150/175 | lr 8.42e-04 | loss 0.1372
+21:50:01 | ssl[byol/vit_small] | INFO | epoch 030 done in 00:00:19 | loss 0.1374
+21:50:08 | ssl[byol/vit_small] | INFO | ep 031/100 it 50/175 | lr 8.37e-04 | loss 0.1387
+21:50:13 | ssl[byol/vit_small] | INFO | ep 031/100 it 100/175 | lr 8.33e-04 | loss 0.1378
+21:50:18 | ssl[byol/vit_small] | INFO | ep 031/100 it 150/175 | lr 8.30e-04 | loss 0.1371
+21:50:21 | ssl[byol/vit_small] | INFO | epoch 031 done in 00:00:19 | loss 0.1369
+21:50:28 | ssl[byol/vit_small] | INFO | ep 032/100 it 50/175 | lr 8.25e-04 | loss 0.1365
+21:50:33 | ssl[byol/vit_small] | INFO | ep 032/100 it 100/175 | lr 8.21e-04 | loss 0.1361
+21:50:38 | ssl[byol/vit_small] | INFO | ep 032/100 it 150/175 | lr 8.17e-04 | loss 0.1365
+21:50:40 | ssl[byol/vit_small] | INFO | epoch 032 done in 00:00:19 | loss 0.1367
+21:50:48 | ssl[byol/vit_small] | INFO | ep 033/100 it 50/175 | lr 8.12e-04 | loss 0.1373
+21:50:53 | ssl[byol/vit_small] | INFO | ep 033/100 it 100/175 | lr 8.08e-04 | loss 0.1365
+21:50:58 | ssl[byol/vit_small] | INFO | ep 033/100 it 150/175 | lr 8.04e-04 | loss 0.1370
+21:51:00 | ssl[byol/vit_small] | INFO | epoch 033 done in 00:00:19 | loss 0.1369
+21:51:07 | ssl[byol/vit_small] | INFO | ep 034/100 it 50/175 | lr 7.99e-04 | loss 0.1370
+21:51:12 | ssl[byol/vit_small] | INFO | ep 034/100 it 100/175 | lr 7.95e-04 | loss 0.1368
+21:51:17 | ssl[byol/vit_small] | INFO | ep 034/100 it 150/175 | lr 7.91e-04 | loss 0.1372
+21:51:20 | ssl[byol/vit_small] | INFO | epoch 034 done in 00:00:19 | loss 0.1374
+21:51:27 | ssl[byol/vit_small] | INFO | ep 035/100 it 50/175 | lr 7.86e-04 | loss 0.1369
+21:51:32 | ssl[byol/vit_small] | INFO | ep 035/100 it 100/175 | lr 7.82e-04 | loss 0.1373
+21:51:37 | ssl[byol/vit_small] | INFO | ep 035/100 it 150/175 | lr 7.78e-04 | loss 0.1375
+21:51:40 | ssl[byol/vit_small] | INFO | epoch 035 done in 00:00:19 | loss 0.1374
+21:51:47 | ssl[byol/vit_small] | INFO | ep 036/100 it 50/175 | lr 7.72e-04 | loss 0.1381
+21:51:52 | ssl[byol/vit_small] | INFO | ep 036/100 it 100/175 | lr 7.68e-04 | loss 0.1381
+21:51:57 | ssl[byol/vit_small] | INFO | ep 036/100 it 150/175 | lr 7.64e-04 | loss 0.1382
+21:51:59 | ssl[byol/vit_small] | INFO | epoch 036 done in 00:00:19 | loss 0.1377
+21:52:07 | ssl[byol/vit_small] | INFO | ep 037/100 it 50/175 | lr 7.58e-04 | loss 0.1370
+21:52:12 | ssl[byol/vit_small] | INFO | ep 037/100 it 100/175 | lr 7.54e-04 | loss 0.1365
+21:52:17 | ssl[byol/vit_small] | INFO | ep 037/100 it 150/175 | lr 7.50e-04 | loss 0.1368
+21:52:19 | ssl[byol/vit_small] | INFO | epoch 037 done in 00:00:19 | loss 0.1369
+21:52:26 | ssl[byol/vit_small] | INFO | ep 038/100 it 50/175 | lr 7.44e-04 | loss 0.1372
+21:52:31 | ssl[byol/vit_small] | INFO | ep 038/100 it 100/175 | lr 7.40e-04 | loss 0.1372
+21:52:36 | ssl[byol/vit_small] | INFO | ep 038/100 it 150/175 | lr 7.36e-04 | loss 0.1371
+21:52:39 | ssl[byol/vit_small] | INFO | epoch 038 done in 00:00:19 | loss 0.1373
+21:52:46 | ssl[byol/vit_small] | INFO | ep 039/100 it 50/175 | lr 7.29e-04 | loss 0.1362
+21:52:51 | ssl[byol/vit_small] | INFO | ep 039/100 it 100/175 | lr 7.25e-04 | loss 0.1367
+21:52:56 | ssl[byol/vit_small] | INFO | ep 039/100 it 150/175 | lr 7.21e-04 | loss 0.1363
+21:52:59 | ssl[byol/vit_small] | INFO | epoch 039 done in 00:00:19 | loss 0.1364
+21:53:06 | ssl[byol/vit_small] | INFO | ep 040/100 it 50/175 | lr 7.15e-04 | loss 0.1353
+21:53:11 | ssl[byol/vit_small] | INFO | ep 040/100 it 100/175 | lr 7.10e-04 | loss 0.1356
+21:53:16 | ssl[byol/vit_small] | INFO | ep 040/100 it 150/175 | lr 7.06e-04 | loss 0.1356
+21:53:19 | ssl[byol/vit_small] | INFO | epoch 040 done in 00:00:19 | loss 0.1355
+21:53:26 | ssl[byol/vit_small] | INFO | ep 041/100 it 50/175 | lr 7.00e-04 | loss 0.1345
+21:53:31 | ssl[byol/vit_small] | INFO | ep 041/100 it 100/175 | lr 6.95e-04 | loss 0.1345
+21:53:36 | ssl[byol/vit_small] | INFO | ep 041/100 it 150/175 | lr 6.91e-04 | loss 0.1345
+21:53:39 | ssl[byol/vit_small] | INFO | epoch 041 done in 00:00:19 | loss 0.1347
+21:53:46 | ssl[byol/vit_small] | INFO | ep 042/100 it 50/175 | lr 6.84e-04 | loss 0.1335
+21:53:51 | ssl[byol/vit_small] | INFO | ep 042/100 it 100/175 | lr 6.80e-04 | loss 0.1350
+21:53:56 | ssl[byol/vit_small] | INFO | ep 042/100 it 150/175 | lr 6.76e-04 | loss 0.1349
+21:53:59 | ssl[byol/vit_small] | INFO | epoch 042 done in 00:00:19 | loss 0.1349
+21:54:06 | ssl[byol/vit_small] | INFO | ep 043/100 it 50/175 | lr 6.69e-04 | loss 0.1352
+21:54:11 | ssl[byol/vit_small] | INFO | ep 043/100 it 100/175 | lr 6.65e-04 | loss 0.1345
+21:54:16 | ssl[byol/vit_small] | INFO | ep 043/100 it 150/175 | lr 6.60e-04 | loss 0.1343
+21:54:18 | ssl[byol/vit_small] | INFO | epoch 043 done in 00:00:19 | loss 0.1346
+21:54:25 | ssl[byol/vit_small] | INFO | ep 044/100 it 50/175 | lr 6.54e-04 | loss 0.1361
+21:54:30 | ssl[byol/vit_small] | INFO | ep 044/100 it 100/175 | lr 6.49e-04 | loss 0.1356
+21:54:35 | ssl[byol/vit_small] | INFO | ep 044/100 it 150/175 | lr 6.45e-04 | loss 0.1356
+21:54:38 | ssl[byol/vit_small] | INFO | epoch 044 done in 00:00:19 | loss 0.1357
+21:54:45 | ssl[byol/vit_small] | INFO | ep 045/100 it 50/175 | lr 6.38e-04 | loss 0.1352
+21:54:50 | ssl[byol/vit_small] | INFO | ep 045/100 it 100/175 | lr 6.33e-04 | loss 0.1346
+21:54:55 | ssl[byol/vit_small] | INFO | ep 045/100 it 150/175 | lr 6.29e-04 | loss 0.1345
+21:54:58 | ssl[byol/vit_small] | INFO | epoch 045 done in 00:00:19 | loss 0.1344
+21:55:05 | ssl[byol/vit_small] | INFO | ep 046/100 it 50/175 | lr 6.22e-04 | loss 0.1330
+21:55:10 | ssl[byol/vit_small] | INFO | ep 046/100 it 100/175 | lr 6.18e-04 | loss 0.1331
+21:55:15 | ssl[byol/vit_small] | INFO | ep 046/100 it 150/175 | lr 6.13e-04 | loss 0.1335
+21:55:18 | ssl[byol/vit_small] | INFO | epoch 046 done in 00:00:19 | loss 0.1336
+21:55:25 | ssl[byol/vit_small] | INFO | ep 047/100 it 50/175 | lr 6.06e-04 | loss 0.1319
+21:55:30 | ssl[byol/vit_small] | INFO | ep 047/100 it 100/175 | lr 6.02e-04 | loss 0.1328
+21:55:35 | ssl[byol/vit_small] | INFO | ep 047/100 it 150/175 | lr 5.97e-04 | loss 0.1328
+21:55:37 | ssl[byol/vit_small] | INFO | epoch 047 done in 00:00:19 | loss 0.1329
+21:55:45 | ssl[byol/vit_small] | INFO | ep 048/100 it 50/175 | lr 5.90e-04 | loss 0.1321
+21:55:50 | ssl[byol/vit_small] | INFO | ep 048/100 it 100/175 | lr 5.85e-04 | loss 0.1325
+21:55:55 | ssl[byol/vit_small] | INFO | ep 048/100 it 150/175 | lr 5.81e-04 | loss 0.1327
+21:55:57 | ssl[byol/vit_small] | INFO | epoch 048 done in 00:00:19 | loss 0.1328
+21:56:04 | ssl[byol/vit_small] | INFO | ep 049/100 it 50/175 | lr 5.74e-04 | loss 0.1341
+21:56:09 | ssl[byol/vit_small] | INFO | ep 049/100 it 100/175 | lr 5.69e-04 | loss 0.1341
+21:56:15 | ssl[byol/vit_small] | INFO | ep 049/100 it 150/175 | lr 5.65e-04 | loss 0.1341
+21:56:17 | ssl[byol/vit_small] | INFO | epoch 049 done in 00:00:19 | loss 0.1338
+21:56:24 | ssl[byol/vit_small] | INFO | ep 050/100 it 50/175 | lr 5.58e-04 | loss 0.1327
+21:56:29 | ssl[byol/vit_small] | INFO | ep 050/100 it 100/175 | lr 5.53e-04 | loss 0.1332
+21:56:34 | ssl[byol/vit_small] | INFO | ep 050/100 it 150/175 | lr 5.48e-04 | loss 0.1329
+21:56:37 | ssl[byol/vit_small] | INFO | epoch 050 done in 00:00:19 | loss 0.1332
+21:56:44 | ssl[byol/vit_small] | INFO | ep 051/100 it 50/175 | lr 5.41e-04 | loss 0.1339
+21:56:49 | ssl[byol/vit_small] | INFO | ep 051/100 it 100/175 | lr 5.37e-04 | loss 0.1340
+21:56:54 | ssl[byol/vit_small] | INFO | ep 051/100 it 150/175 | lr 5.32e-04 | loss 0.1338
+21:56:57 | ssl[byol/vit_small] | INFO | epoch 051 done in 00:00:19 | loss 0.1337
+21:57:04 | ssl[byol/vit_small] | INFO | ep 052/100 it 50/175 | lr 5.25e-04 | loss 0.1317
+21:57:09 | ssl[byol/vit_small] | INFO | ep 052/100 it 100/175 | lr 5.20e-04 | loss 0.1315
+21:57:14 | ssl[byol/vit_small] | INFO | ep 052/100 it 150/175 | lr 5.16e-04 | loss 0.1315
+21:57:17 | ssl[byol/vit_small] | INFO | epoch 052 done in 00:00:20 | loss 0.1318
+21:57:24 | ssl[byol/vit_small] | INFO | ep 053/100 it 50/175 | lr 5.09e-04 | loss 0.1309
+21:57:29 | ssl[byol/vit_small] | INFO | ep 053/100 it 100/175 | lr 5.04e-04 | loss 0.1316
+21:57:34 | ssl[byol/vit_small] | INFO | ep 053/100 it 150/175 | lr 4.99e-04 | loss 0.1317
+21:57:37 | ssl[byol/vit_small] | INFO | epoch 053 done in 00:00:19 | loss 0.1317
+21:57:44 | ssl[byol/vit_small] | INFO | ep 054/100 it 50/175 | lr 4.92e-04 | loss 0.1321
+21:57:49 | ssl[byol/vit_small] | INFO | ep 054/100 it 100/175 | lr 4.88e-04 | loss 0.1306
+21:57:54 | ssl[byol/vit_small] | INFO | ep 054/100 it 150/175 | lr 4.83e-04 | loss 0.1310
+21:57:57 | ssl[byol/vit_small] | INFO | epoch 054 done in 00:00:19 | loss 0.1308
+21:58:04 | ssl[byol/vit_small] | INFO | ep 055/100 it 50/175 | lr 4.76e-04 | loss 0.1309
+21:58:09 | ssl[byol/vit_small] | INFO | ep 055/100 it 100/175 | lr 4.71e-04 | loss 0.1300
+21:58:14 | ssl[byol/vit_small] | INFO | ep 055/100 it 150/175 | lr 4.67e-04 | loss 0.1300
+21:58:16 | ssl[byol/vit_small] | INFO | epoch 055 done in 00:00:19 | loss 0.1299
+21:58:24 | ssl[byol/vit_small] | INFO | ep 056/100 it 50/175 | lr 4.60e-04 | loss 0.1294
+21:58:29 | ssl[byol/vit_small] | INFO | ep 056/100 it 100/175 | lr 4.55e-04 | loss 0.1297
+21:58:34 | ssl[byol/vit_small] | INFO | ep 056/100 it 150/175 | lr 4.50e-04 | loss 0.1296
+21:58:36 | ssl[byol/vit_small] | INFO | epoch 056 done in 00:00:19 | loss 0.1296
+21:58:44 | ssl[byol/vit_small] | INFO | ep 057/100 it 50/175 | lr 4.43e-04 | loss 0.1289
+21:58:49 | ssl[byol/vit_small] | INFO | ep 057/100 it 100/175 | lr 4.39e-04 | loss 0.1291
+21:58:54 | ssl[byol/vit_small] | INFO | ep 057/100 it 150/175 | lr 4.34e-04 | loss 0.1285
+21:58:56 | ssl[byol/vit_small] | INFO | epoch 057 done in 00:00:20 | loss 0.1286
+21:59:04 | ssl[byol/vit_small] | INFO | ep 058/100 it 50/175 | lr 4.27e-04 | loss 0.1299
+21:59:09 | ssl[byol/vit_small] | INFO | ep 058/100 it 100/175 | lr 4.22e-04 | loss 0.1292
+21:59:14 | ssl[byol/vit_small] | INFO | ep 058/100 it 150/175 | lr 4.18e-04 | loss 0.1290
+21:59:16 | ssl[byol/vit_small] | INFO | epoch 058 done in 00:00:20 | loss 0.1287
+21:59:24 | ssl[byol/vit_small] | INFO | ep 059/100 it 50/175 | lr 4.11e-04 | loss 0.1273
+21:59:29 | ssl[byol/vit_small] | INFO | ep 059/100 it 100/175 | lr 4.06e-04 | loss 0.1279
+21:59:34 | ssl[byol/vit_small] | INFO | ep 059/100 it 150/175 | lr 4.02e-04 | loss 0.1277
+21:59:36 | ssl[byol/vit_small] | INFO | epoch 059 done in 00:00:19 | loss 0.1276
+21:59:43 | ssl[byol/vit_small] | INFO | ep 060/100 it 50/175 | lr 3.95e-04 | loss 0.1288
+21:59:48 | ssl[byol/vit_small] | INFO | ep 060/100 it 100/175 | lr 3.90e-04 | loss 0.1281
+21:59:53 | ssl[byol/vit_small] | INFO | ep 060/100 it 150/175 | lr 3.86e-04 | loss 0.1277
+21:59:56 | ssl[byol/vit_small] | INFO | epoch 060 done in 00:00:19 | loss 0.1273
+22:00:03 | ssl[byol/vit_small] | INFO | ep 061/100 it 50/175 | lr 3.79e-04 | loss 0.1263
+22:00:08 | ssl[byol/vit_small] | INFO | ep 061/100 it 100/175 | lr 3.75e-04 | loss 0.1254
+22:00:13 | ssl[byol/vit_small] | INFO | ep 061/100 it 150/175 | lr 3.70e-04 | loss 0.1257
+22:00:16 | ssl[byol/vit_small] | INFO | epoch 061 done in 00:00:19 | loss 0.1258
+22:00:23 | ssl[byol/vit_small] | INFO | ep 062/100 it 50/175 | lr 3.63e-04 | loss 0.1261
+22:00:28 | ssl[byol/vit_small] | INFO | ep 062/100 it 100/175 | lr 3.59e-04 | loss 0.1257
+22:00:33 | ssl[byol/vit_small] | INFO | ep 062/100 it 150/175 | lr 3.54e-04 | loss 0.1257
+22:00:35 | ssl[byol/vit_small] | INFO | epoch 062 done in 00:00:19 | loss 0.1259
+22:00:43 | ssl[byol/vit_small] | INFO | ep 063/100 it 50/175 | lr 3.48e-04 | loss 0.1246
+22:00:48 | ssl[byol/vit_small] | INFO | ep 063/100 it 100/175 | lr 3.43e-04 | loss 0.1248
+22:00:53 | ssl[byol/vit_small] | INFO | ep 063/100 it 150/175 | lr 3.39e-04 | loss 0.1247
+22:00:55 | ssl[byol/vit_small] | INFO | epoch 063 done in 00:00:19 | loss 0.1248
+22:01:02 | ssl[byol/vit_small] | INFO | ep 064/100 it 50/175 | lr 3.32e-04 | loss 0.1228
+22:01:07 | ssl[byol/vit_small] | INFO | ep 064/100 it 100/175 | lr 3.28e-04 | loss 0.1235
+22:01:12 | ssl[byol/vit_small] | INFO | ep 064/100 it 150/175 | lr 3.24e-04 | loss 0.1235
+22:01:15 | ssl[byol/vit_small] | INFO | epoch 064 done in 00:00:19 | loss 0.1238
+22:01:22 | ssl[byol/vit_small] | INFO | ep 065/100 it 50/175 | lr 3.17e-04 | loss 0.1223
+22:01:27 | ssl[byol/vit_small] | INFO | ep 065/100 it 100/175 | lr 3.13e-04 | loss 0.1230
+22:01:32 | ssl[byol/vit_small] | INFO | ep 065/100 it 150/175 | lr 3.08e-04 | loss 0.1231
+22:01:34 | ssl[byol/vit_small] | INFO | epoch 065 done in 00:00:19 | loss 0.1232
+22:01:42 | ssl[byol/vit_small] | INFO | ep 066/100 it 50/175 | lr 3.02e-04 | loss 0.1217
+22:01:47 | ssl[byol/vit_small] | INFO | ep 066/100 it 100/175 | lr 2.98e-04 | loss 0.1217
+22:01:52 | ssl[byol/vit_small] | INFO | ep 066/100 it 150/175 | lr 2.93e-04 | loss 0.1221
+22:01:54 | ssl[byol/vit_small] | INFO | epoch 066 done in 00:00:19 | loss 0.1222
+22:02:02 | ssl[byol/vit_small] | INFO | ep 067/100 it 50/175 | lr 2.87e-04 | loss 0.1214
+22:02:07 | ssl[byol/vit_small] | INFO | ep 067/100 it 100/175 | lr 2.83e-04 | loss 0.1215
+22:02:12 | ssl[byol/vit_small] | INFO | ep 067/100 it 150/175 | lr 2.79e-04 | loss 0.1217
+22:02:15 | ssl[byol/vit_small] | INFO | epoch 067 done in 00:00:20 | loss 0.1216
+22:02:22 | ssl[byol/vit_small] | INFO | ep 068/100 it 50/175 | lr 2.73e-04 | loss 0.1204
+22:02:27 | ssl[byol/vit_small] | INFO | ep 068/100 it 100/175 | lr 2.68e-04 | loss 0.1200
+22:02:32 | ssl[byol/vit_small] | INFO | ep 068/100 it 150/175 | lr 2.64e-04 | loss 0.1202
+22:02:34 | ssl[byol/vit_small] | INFO | epoch 068 done in 00:00:19 | loss 0.1203
+22:02:42 | ssl[byol/vit_small] | INFO | ep 069/100 it 50/175 | lr 2.58e-04 | loss 0.1196
+22:02:47 | ssl[byol/vit_small] | INFO | ep 069/100 it 100/175 | lr 2.54e-04 | loss 0.1198
+22:02:52 | ssl[byol/vit_small] | INFO | ep 069/100 it 150/175 | lr 2.50e-04 | loss 0.1196
+22:02:55 | ssl[byol/vit_small] | INFO | epoch 069 done in 00:00:20 | loss 0.1196
+22:03:02 | ssl[byol/vit_small] | INFO | ep 070/100 it 50/175 | lr 2.44e-04 | loss 0.1185
+22:03:07 | ssl[byol/vit_small] | INFO | ep 070/100 it 100/175 | lr 2.40e-04 | loss 0.1188
+22:03:12 | ssl[byol/vit_small] | INFO | ep 070/100 it 150/175 | lr 2.36e-04 | loss 0.1184
+22:03:15 | ssl[byol/vit_small] | INFO | epoch 070 done in 00:00:20 | loss 0.1185
+22:03:22 | ssl[byol/vit_small] | INFO | ep 071/100 it 50/175 | lr 2.30e-04 | loss 0.1167
+22:03:27 | ssl[byol/vit_small] | INFO | ep 071/100 it 100/175 | lr 2.27e-04 | loss 0.1172
+22:03:32 | ssl[byol/vit_small] | INFO | ep 071/100 it 150/175 | lr 2.23e-04 | loss 0.1173
+22:03:35 | ssl[byol/vit_small] | INFO | epoch 071 done in 00:00:20 | loss 0.1170
+22:03:42 | ssl[byol/vit_small] | INFO | ep 072/100 it 50/175 | lr 2.17e-04 | loss 0.1182
+22:03:47 | ssl[byol/vit_small] | INFO | ep 072/100 it 100/175 | lr 2.13e-04 | loss 0.1179
+22:03:52 | ssl[byol/vit_small] | INFO | ep 072/100 it 150/175 | lr 2.09e-04 | loss 0.1175
+22:03:54 | ssl[byol/vit_small] | INFO | epoch 072 done in 00:00:19 | loss 0.1173
+22:04:02 | ssl[byol/vit_small] | INFO | ep 073/100 it 50/175 | lr 2.04e-04 | loss 0.1160
+22:04:07 | ssl[byol/vit_small] | INFO | ep 073/100 it 100/175 | lr 2.00e-04 | loss 0.1158
+22:04:12 | ssl[byol/vit_small] | INFO | ep 073/100 it 150/175 | lr 1.96e-04 | loss 0.1159
+22:04:15 | ssl[byol/vit_small] | INFO | epoch 073 done in 00:00:20 | loss 0.1159
+22:04:22 | ssl[byol/vit_small] | INFO | ep 074/100 it 50/175 | lr 1.91e-04 | loss 0.1152
+22:04:27 | ssl[byol/vit_small] | INFO | ep 074/100 it 100/175 | lr 1.87e-04 | loss 0.1152
+22:04:32 | ssl[byol/vit_small] | INFO | ep 074/100 it 150/175 | lr 1.84e-04 | loss 0.1151
+22:04:34 | ssl[byol/vit_small] | INFO | epoch 074 done in 00:00:19 | loss 0.1149
+22:04:42 | ssl[byol/vit_small] | INFO | ep 075/100 it 50/175 | lr 1.79e-04 | loss 0.1152
+22:04:47 | ssl[byol/vit_small] | INFO | ep 075/100 it 100/175 | lr 1.75e-04 | loss 0.1151
+22:04:52 | ssl[byol/vit_small] | INFO | ep 075/100 it 150/175 | lr 1.72e-04 | loss 0.1149
+22:04:55 | ssl[byol/vit_small] | INFO | epoch 075 done in 00:00:20 | loss 0.1147
+22:05:02 | ssl[byol/vit_small] | INFO | ep 076/100 it 50/175 | lr 1.66e-04 | loss 0.1138
+22:05:07 | ssl[byol/vit_small] | INFO | ep 076/100 it 100/175 | lr 1.63e-04 | loss 0.1138
+22:05:12 | ssl[byol/vit_small] | INFO | ep 076/100 it 150/175 | lr 1.60e-04 | loss 0.1138
+22:05:14 | ssl[byol/vit_small] | INFO | epoch 076 done in 00:00:19 | loss 0.1136
+22:05:22 | ssl[byol/vit_small] | INFO | ep 077/100 it 50/175 | lr 1.55e-04 | loss 0.1140
+22:05:27 | ssl[byol/vit_small] | INFO | ep 077/100 it 100/175 | lr 1.51e-04 | loss 0.1140
+22:05:32 | ssl[byol/vit_small] | INFO | ep 077/100 it 150/175 | lr 1.48e-04 | loss 0.1136
+22:05:34 | ssl[byol/vit_small] | INFO | epoch 077 done in 00:00:19 | loss 0.1133
+22:05:41 | ssl[byol/vit_small] | INFO | ep 078/100 it 50/175 | lr 1.43e-04 | loss 0.1125
+22:05:46 | ssl[byol/vit_small] | INFO | ep 078/100 it 100/175 | lr 1.40e-04 | loss 0.1121
+22:05:52 | ssl[byol/vit_small] | INFO | ep 078/100 it 150/175 | lr 1.37e-04 | loss 0.1120
+22:05:54 | ssl[byol/vit_small] | INFO | epoch 078 done in 00:00:19 | loss 0.1120
+22:06:01 | ssl[byol/vit_small] | INFO | ep 079/100 it 50/175 | lr 1.32e-04 | loss 0.1124
+22:06:06 | ssl[byol/vit_small] | INFO | ep 079/100 it 100/175 | lr 1.29e-04 | loss 0.1116
+22:06:11 | ssl[byol/vit_small] | INFO | ep 079/100 it 150/175 | lr 1.26e-04 | loss 0.1118
+22:06:14 | ssl[byol/vit_small] | INFO | epoch 079 done in 00:00:19 | loss 0.1116
+22:06:21 | ssl[byol/vit_small] | INFO | ep 080/100 it 50/175 | lr 1.22e-04 | loss 0.1124
+22:06:26 | ssl[byol/vit_small] | INFO | ep 080/100 it 100/175 | lr 1.19e-04 | loss 0.1114
+22:06:31 | ssl[byol/vit_small] | INFO | ep 080/100 it 150/175 | lr 1.16e-04 | loss 0.1110
+22:06:34 | ssl[byol/vit_small] | INFO | epoch 080 done in 00:00:19 | loss 0.1108
+22:06:41 | ssl[byol/vit_small] | INFO | ep 081/100 it 50/175 | lr 1.12e-04 | loss 0.1096
+22:06:46 | ssl[byol/vit_small] | INFO | ep 081/100 it 100/175 | lr 1.09e-04 | loss 0.1094
+22:06:51 | ssl[byol/vit_small] | INFO | ep 081/100 it 150/175 | lr 1.06e-04 | loss 0.1094
+22:06:54 | ssl[byol/vit_small] | INFO | epoch 081 done in 00:00:19 | loss 0.1092
+22:07:01 | ssl[byol/vit_small] | INFO | ep 082/100 it 50/175 | lr 1.02e-04 | loss 0.1095
+22:07:06 | ssl[byol/vit_small] | INFO | ep 082/100 it 100/175 | lr 9.92e-05 | loss 0.1085
+22:07:11 | ssl[byol/vit_small] | INFO | ep 082/100 it 150/175 | lr 9.65e-05 | loss 0.1084
+22:07:13 | ssl[byol/vit_small] | INFO | epoch 082 done in 00:00:19 | loss 0.1086
+22:07:21 | ssl[byol/vit_small] | INFO | ep 083/100 it 50/175 | lr 9.26e-05 | loss 0.1083
+22:07:26 | ssl[byol/vit_small] | INFO | ep 083/100 it 100/175 | lr 9.00e-05 | loss 0.1075
+22:07:31 | ssl[byol/vit_small] | INFO | ep 083/100 it 150/175 | lr 8.75e-05 | loss 0.1075
+22:07:33 | ssl[byol/vit_small] | INFO | epoch 083 done in 00:00:19 | loss 0.1076
+22:07:40 | ssl[byol/vit_small] | INFO | ep 084/100 it 50/175 | lr 8.38e-05 | loss 0.1070
+22:07:45 | ssl[byol/vit_small] | INFO | ep 084/100 it 100/175 | lr 8.13e-05 | loss 0.1066
+22:07:50 | ssl[byol/vit_small] | INFO | ep 084/100 it 150/175 | lr 7.89e-05 | loss 0.1068
+22:07:53 | ssl[byol/vit_small] | INFO | epoch 084 done in 00:00:19 | loss 0.1069
+22:08:00 | ssl[byol/vit_small] | INFO | ep 085/100 it 50/175 | lr 7.54e-05 | loss 0.1063
+22:08:05 | ssl[byol/vit_small] | INFO | ep 085/100 it 100/175 | lr 7.31e-05 | loss 0.1059
+22:08:10 | ssl[byol/vit_small] | INFO | ep 085/100 it 150/175 | lr 7.08e-05 | loss 0.1059
+22:08:13 | ssl[byol/vit_small] | INFO | epoch 085 done in 00:00:19 | loss 0.1059
+22:08:20 | ssl[byol/vit_small] | INFO | ep 086/100 it 50/175 | lr 6.75e-05 | loss 0.1049
+22:08:25 | ssl[byol/vit_small] | INFO | ep 086/100 it 100/175 | lr 6.53e-05 | loss 0.1045
+22:08:30 | ssl[byol/vit_small] | INFO | ep 086/100 it 150/175 | lr 6.32e-05 | loss 0.1047
+22:08:33 | ssl[byol/vit_small] | INFO | epoch 086 done in 00:00:19 | loss 0.1046
+22:08:40 | ssl[byol/vit_small] | INFO | ep 087/100 it 50/175 | lr 6.01e-05 | loss 0.1049
+22:08:45 | ssl[byol/vit_small] | INFO | ep 087/100 it 100/175 | lr 5.81e-05 | loss 0.1048
+22:08:50 | ssl[byol/vit_small] | INFO | ep 087/100 it 150/175 | lr 5.61e-05 | loss 0.1044
+22:08:53 | ssl[byol/vit_small] | INFO | epoch 087 done in 00:00:20 | loss 0.1042
+22:09:00 | ssl[byol/vit_small] | INFO | ep 088/100 it 50/175 | lr 5.32e-05 | loss 0.1048
+22:09:05 | ssl[byol/vit_small] | INFO | ep 088/100 it 100/175 | lr 5.13e-05 | loss 0.1043
+22:09:10 | ssl[byol/vit_small] | INFO | ep 088/100 it 150/175 | lr 4.94e-05 | loss 0.1041
+22:09:13 | ssl[byol/vit_small] | INFO | epoch 088 done in 00:00:20 | loss 0.1039
+22:09:20 | ssl[byol/vit_small] | INFO | ep 089/100 it 50/175 | lr 4.67e-05 | loss 0.1036
+22:09:25 | ssl[byol/vit_small] | INFO | ep 089/100 it 100/175 | lr 4.50e-05 | loss 0.1035
+22:09:31 | ssl[byol/vit_small] | INFO | ep 089/100 it 150/175 | lr 4.33e-05 | loss 0.1033
+22:09:33 | ssl[byol/vit_small] | INFO | epoch 089 done in 00:00:20 | loss 0.1034
+22:09:40 | ssl[byol/vit_small] | INFO | ep 090/100 it 50/175 | lr 4.08e-05 | loss 0.1027
+22:09:45 | ssl[byol/vit_small] | INFO | ep 090/100 it 100/175 | lr 3.92e-05 | loss 0.1024
+22:09:50 | ssl[byol/vit_small] | INFO | ep 090/100 it 150/175 | lr 3.76e-05 | loss 0.1026
+22:09:53 | ssl[byol/vit_small] | INFO | epoch 090 done in 00:00:19 | loss 0.1026
+22:10:00 | ssl[byol/vit_small] | INFO | ep 091/100 it 50/175 | lr 3.54e-05 | loss 0.1027
+22:10:05 | ssl[byol/vit_small] | INFO | ep 091/100 it 100/175 | lr 3.39e-05 | loss 0.1023
+22:10:10 | ssl[byol/vit_small] | INFO | ep 091/100 it 150/175 | lr 3.25e-05 | loss 0.1020
+22:10:13 | ssl[byol/vit_small] | INFO | epoch 091 done in 00:00:19 | loss 0.1019
+22:10:20 | ssl[byol/vit_small] | INFO | ep 092/100 it 50/175 | lr 3.04e-05 | loss 0.1026
+22:10:25 | ssl[byol/vit_small] | INFO | ep 092/100 it 100/175 | lr 2.91e-05 | loss 0.1021
+22:10:30 | ssl[byol/vit_small] | INFO | ep 092/100 it 150/175 | lr 2.79e-05 | loss 0.1017
+22:10:32 | ssl[byol/vit_small] | INFO | epoch 092 done in 00:00:19 | loss 0.1018
+22:10:40 | ssl[byol/vit_small] | INFO | ep 093/100 it 50/175 | lr 2.60e-05 | loss 0.1003
+22:10:45 | ssl[byol/vit_small] | INFO | ep 093/100 it 100/175 | lr 2.49e-05 | loss 0.1011
+22:10:50 | ssl[byol/vit_small] | INFO | ep 093/100 it 150/175 | lr 2.38e-05 | loss 0.1011
+22:10:52 | ssl[byol/vit_small] | INFO | epoch 093 done in 00:00:20 | loss 0.1010
+22:11:00 | ssl[byol/vit_small] | INFO | ep 094/100 it 50/175 | lr 2.22e-05 | loss 0.1009
+22:11:05 | ssl[byol/vit_small] | INFO | ep 094/100 it 100/175 | lr 2.12e-05 | loss 0.1012
+22:11:10 | ssl[byol/vit_small] | INFO | ep 094/100 it 150/175 | lr 2.02e-05 | loss 0.1010
+22:11:13 | ssl[byol/vit_small] | INFO | epoch 094 done in 00:00:20 | loss 0.1009
+22:11:20 | ssl[byol/vit_small] | INFO | ep 095/100 it 50/175 | lr 1.88e-05 | loss 0.1005
+22:11:25 | ssl[byol/vit_small] | INFO | ep 095/100 it 100/175 | lr 1.80e-05 | loss 0.1009
+22:11:30 | ssl[byol/vit_small] | INFO | ep 095/100 it 150/175 | lr 1.72e-05 | loss 0.1009
+22:11:32 | ssl[byol/vit_small] | INFO | epoch 095 done in 00:00:19 | loss 0.1008
+22:11:39 | ssl[byol/vit_small] | INFO | ep 096/100 it 50/175 | lr 1.60e-05 | loss 0.1001
+22:11:44 | ssl[byol/vit_small] | INFO | ep 096/100 it 100/175 | lr 1.53e-05 | loss 0.0999
+22:11:49 | ssl[byol/vit_small] | INFO | ep 096/100 it 150/175 | lr 1.47e-05 | loss 0.1000
+22:11:52 | ssl[byol/vit_small] | INFO | epoch 096 done in 00:00:19 | loss 0.1000
+22:11:59 | ssl[byol/vit_small] | INFO | ep 097/100 it 50/175 | lr 1.37e-05 | loss 0.0995
+22:12:04 | ssl[byol/vit_small] | INFO | ep 097/100 it 100/175 | lr 1.32e-05 | loss 0.0993
+22:12:09 | ssl[byol/vit_small] | INFO | ep 097/100 it 150/175 | lr 1.27e-05 | loss 0.0989
+22:12:12 | ssl[byol/vit_small] | INFO | epoch 097 done in 00:00:19 | loss 0.0989
+22:12:19 | ssl[byol/vit_small] | INFO | ep 098/100 it 50/175 | lr 1.20e-05 | loss 0.0986
+22:12:24 | ssl[byol/vit_small] | INFO | ep 098/100 it 100/175 | lr 1.16e-05 | loss 0.0993
+22:12:29 | ssl[byol/vit_small] | INFO | ep 098/100 it 150/175 | lr 1.12e-05 | loss 0.0992
+22:12:32 | ssl[byol/vit_small] | INFO | epoch 098 done in 00:00:20 | loss 0.0992
+22:12:39 | ssl[byol/vit_small] | INFO | ep 099/100 it 50/175 | lr 1.08e-05 | loss 0.0995
+22:12:44 | ssl[byol/vit_small] | INFO | ep 099/100 it 100/175 | lr 1.06e-05 | loss 0.0997
+22:12:49 | ssl[byol/vit_small] | INFO | ep 099/100 it 150/175 | lr 1.04e-05 | loss 0.0993
+22:12:52 | ssl[byol/vit_small] | INFO | epoch 099 done in 00:00:20 | loss 0.0991
+22:12:59 | ssl[byol/vit_small] | INFO | ep 100/100 it 50/175 | lr 1.01e-05 | loss 0.0991
+22:13:04 | ssl[byol/vit_small] | INFO | ep 100/100 it 100/175 | lr 1.01e-05 | loss 0.0992
+22:13:09 | ssl[byol/vit_small] | INFO | ep 100/100 it 150/175 | lr 1.00e-05 | loss 0.0993
+22:13:12 | ssl[byol/vit_small] | INFO | epoch 100 done in 00:00:20 | loss 0.0995
+22:13:12 | ssl[byol/vit_small] | INFO | Total SSL training: 00:33:11 (best loss 0.0989)
+
+22:13:36 | eval[byol-vit_small/vit_small] | INFO | Loaded backbone weights from runs/ssl-byol-vit_small-ep100-bs512-seed42/backbone_final.pt
+22:13:37 | eval[byol-vit_small/vit_small] | INFO | Extracting features for kNN / t-SNE / UMAP...
+22:13:53 | eval[byol-vit_small/vit_small] | INFO | kNN(k=20) top-1: 0.9309
+/workspace/vcl_pathmnist/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+22:14:22 | eval[byol-vit_small/vit_small] | INFO | Saved t-SNE / UMAP plots.
+22:14:36 | probe[linear/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+22:14:45 | probe[linear/vit_small] | INFO | [linear] epoch 001/30 | train_loss 1.4593 train_acc 0.5976 | val_loss 0.4497 val_acc 0.9425
+22:14:54 | probe[linear/vit_small] | INFO | [linear] epoch 002/30 | train_loss 0.2545 train_acc 0.9539 | val_loss 0.1706 val_acc 0.9627
+22:15:03 | probe[linear/vit_small] | INFO | [linear] epoch 003/30 | train_loss 0.1462 train_acc 0.9623 | val_loss 0.1286 val_acc 0.9671
+22:15:11 | probe[linear/vit_small] | INFO | [linear] epoch 004/30 | train_loss 0.1223 train_acc 0.9655 | val_loss 0.1129 val_acc 0.9701
+22:15:20 | probe[linear/vit_small] | INFO | [linear] epoch 005/30 | train_loss 0.1110 train_acc 0.9674 | val_loss 0.1062 val_acc 0.9694
+22:15:28 | probe[linear/vit_small] | INFO | [linear] epoch 006/30 | train_loss 0.1044 train_acc 0.9689 | val_loss 0.0992 val_acc 0.9724
+22:15:37 | probe[linear/vit_small] | INFO | [linear] epoch 007/30 | train_loss 0.0992 train_acc 0.9695 | val_loss 0.0944 val_acc 0.9727
+22:15:45 | probe[linear/vit_small] | INFO | [linear] epoch 008/30 | train_loss 0.0958 train_acc 0.9701 | val_loss 0.0934 val_acc 0.9732
+22:15:54 | probe[linear/vit_small] | INFO | [linear] epoch 009/30 | train_loss 0.0931 train_acc 0.9714 | val_loss 0.0893 val_acc 0.9736
+22:16:02 | probe[linear/vit_small] | INFO | [linear] epoch 010/30 | train_loss 0.0899 train_acc 0.9724 | val_loss 0.0860 val_acc 0.9750
+22:16:11 | probe[linear/vit_small] | INFO | [linear] epoch 011/30 | train_loss 0.0890 train_acc 0.9722 | val_loss 0.0840 val_acc 0.9757
+22:16:19 | probe[linear/vit_small] | INFO | [linear] epoch 012/30 | train_loss 0.0875 train_acc 0.9728 | val_loss 0.0844 val_acc 0.9747
+22:16:27 | probe[linear/vit_small] | INFO | [linear] epoch 013/30 | train_loss 0.0866 train_acc 0.9726 | val_loss 0.0827 val_acc 0.9754
+22:16:35 | probe[linear/vit_small] | INFO | [linear] epoch 014/30 | train_loss 0.0851 train_acc 0.9730 | val_loss 0.0829 val_acc 0.9750
+22:16:44 | probe[linear/vit_small] | INFO | [linear] epoch 015/30 | train_loss 0.0838 train_acc 0.9732 | val_loss 0.0826 val_acc 0.9752
+22:16:52 | probe[linear/vit_small] | INFO | [linear] epoch 016/30 | train_loss 0.0831 train_acc 0.9736 | val_loss 0.0831 val_acc 0.9750
+22:17:00 | probe[linear/vit_small] | INFO | [linear] epoch 017/30 | train_loss 0.0824 train_acc 0.9738 | val_loss 0.0802 val_acc 0.9758
+22:17:09 | probe[linear/vit_small] | INFO | [linear] epoch 018/30 | train_loss 0.0819 train_acc 0.9736 | val_loss 0.0810 val_acc 0.9757
+22:17:17 | probe[linear/vit_small] | INFO | [linear] epoch 019/30 | train_loss 0.0819 train_acc 0.9737 | val_loss 0.0798 val_acc 0.9758
+22:17:26 | probe[linear/vit_small] | INFO | [linear] epoch 020/30 | train_loss 0.0812 train_acc 0.9739 | val_loss 0.0799 val_acc 0.9758
+22:17:34 | probe[linear/vit_small] | INFO | [linear] epoch 021/30 | train_loss 0.0805 train_acc 0.9743 | val_loss 0.0787 val_acc 0.9764
+22:17:43 | probe[linear/vit_small] | INFO | [linear] epoch 022/30 | train_loss 0.0802 train_acc 0.9743 | val_loss 0.0803 val_acc 0.9757
+22:17:51 | probe[linear/vit_small] | INFO | [linear] epoch 023/30 | train_loss 0.0797 train_acc 0.9742 | val_loss 0.0784 val_acc 0.9760
+22:17:59 | probe[linear/vit_small] | INFO | [linear] epoch 024/30 | train_loss 0.0797 train_acc 0.9746 | val_loss 0.0790 val_acc 0.9756
+22:18:07 | probe[linear/vit_small] | INFO | [linear] epoch 025/30 | train_loss 0.0787 train_acc 0.9748 | val_loss 0.0792 val_acc 0.9759
+22:18:16 | probe[linear/vit_small] | INFO | [linear] epoch 026/30 | train_loss 0.0788 train_acc 0.9749 | val_loss 0.0793 val_acc 0.9757
+22:18:24 | probe[linear/vit_small] | INFO | [linear] epoch 027/30 | train_loss 0.0787 train_acc 0.9747 | val_loss 0.0787 val_acc 0.9760
+22:18:33 | probe[linear/vit_small] | INFO | [linear] epoch 028/30 | train_loss 0.0786 train_acc 0.9749 | val_loss 0.0788 val_acc 0.9763
+22:18:41 | probe[linear/vit_small] | INFO | [linear] epoch 029/30 | train_loss 0.0787 train_acc 0.9751 | val_loss 0.0786 val_acc 0.9762
+22:18:49 | probe[linear/vit_small] | INFO | [linear] epoch 030/30 | train_loss 0.0783 train_acc 0.9752 | val_loss 0.0785 val_acc 0.9761
+22:18:49 | probe[linear/vit_small] | INFO | [linear] done in 00:04:13 | best val_acc 0.9764
+22:18:50 | eval[byol-vit_small/vit_small] | INFO | Linear test acc 0.9295 | bal-acc 0.9062 | f1-macro 0.9003 | AUC 0.9940806712547041
+22:19:05 | probe[finetune_10pct/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+22:19:09 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 001/30 | train_loss 1.8262 train_acc 0.3966 | val_loss 0.8115 val_acc 0.8548
+22:19:12 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 002/30 | train_loss 0.3331 train_acc 0.9228 | val_loss 0.1546 val_acc 0.9514
+22:19:16 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 003/30 | train_loss 0.1216 train_acc 0.9628 | val_loss 0.1080 val_acc 0.9641
+22:19:19 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 004/30 | train_loss 0.0916 train_acc 0.9701 | val_loss 0.1137 val_acc 0.9619
+22:19:22 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 005/30 | train_loss 0.0777 train_acc 0.9734 | val_loss 0.0904 val_acc 0.9736
+22:19:25 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 006/30 | train_loss 0.0646 train_acc 0.9799 | val_loss 0.0720 val_acc 0.9777
+22:19:28 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 007/30 | train_loss 0.0493 train_acc 0.9850 | val_loss 0.0653 val_acc 0.9800
+22:19:32 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 008/30 | train_loss 0.0456 train_acc 0.9851 | val_loss 0.0707 val_acc 0.9786
+22:19:35 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 009/30 | train_loss 0.0411 train_acc 0.9878 | val_loss 0.0699 val_acc 0.9777
+22:19:38 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 010/30 | train_loss 0.0390 train_acc 0.9869 | val_loss 0.0807 val_acc 0.9756
+22:19:41 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 011/30 | train_loss 0.0318 train_acc 0.9901 | val_loss 0.0673 val_acc 0.9801
+22:19:44 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 012/30 | train_loss 0.0271 train_acc 0.9912 | val_loss 0.0671 val_acc 0.9802
+22:19:48 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 013/30 | train_loss 0.0260 train_acc 0.9923 | val_loss 0.0699 val_acc 0.9791
+22:19:51 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 014/30 | train_loss 0.0220 train_acc 0.9932 | val_loss 0.0615 val_acc 0.9824
+22:19:54 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 015/30 | train_loss 0.0203 train_acc 0.9936 | val_loss 0.0735 val_acc 0.9797
+22:19:57 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 016/30 | train_loss 0.0191 train_acc 0.9941 | val_loss 0.0617 val_acc 0.9812
+22:20:00 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 017/30 | train_loss 0.0184 train_acc 0.9939 | val_loss 0.0605 val_acc 0.9826
+22:20:04 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 018/30 | train_loss 0.0146 train_acc 0.9958 | val_loss 0.0684 val_acc 0.9803
+22:20:07 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 019/30 | train_loss 0.0104 train_acc 0.9972 | val_loss 0.0655 val_acc 0.9813
+22:20:10 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 020/30 | train_loss 0.0104 train_acc 0.9970 | val_loss 0.0624 val_acc 0.9835
+22:20:13 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 021/30 | train_loss 0.0087 train_acc 0.9977 | val_loss 0.0663 val_acc 0.9816
+22:20:16 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 022/30 | train_loss 0.0076 train_acc 0.9977 | val_loss 0.0582 val_acc 0.9840
+22:20:19 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 023/30 | train_loss 0.0085 train_acc 0.9979 | val_loss 0.0585 val_acc 0.9850
+22:20:22 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 024/30 | train_loss 0.0061 train_acc 0.9989 | val_loss 0.0567 val_acc 0.9848
+22:20:25 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 025/30 | train_loss 0.0050 train_acc 0.9991 | val_loss 0.0604 val_acc 0.9838
+22:20:28 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 026/30 | train_loss 0.0062 train_acc 0.9979 | val_loss 0.0600 val_acc 0.9834
+22:20:31 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 027/30 | train_loss 0.0052 train_acc 0.9991 | val_loss 0.0590 val_acc 0.9837
+22:20:34 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 028/30 | train_loss 0.0063 train_acc 0.9980 | val_loss 0.0573 val_acc 0.9842
+22:20:37 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 029/30 | train_loss 0.0051 train_acc 0.9990 | val_loss 0.0570 val_acc 0.9844
+22:20:40 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 030/30 | train_loss 0.0054 train_acc 0.9988 | val_loss 0.0572 val_acc 0.9844
+22:20:40 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] done in 00:01:34 | best val_acc 0.9850
+22:20:41 | eval[byol-vit_small/vit_small] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.9450 | bal-acc 0.9245 | f1-macro 0.9236
+22:20:56 | probe[finetune_1pct/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+22:20:58 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 001/30 | train_loss 2.3867 train_acc 0.0999 | val_loss 2.1679 val_acc 0.2139
+22:21:01 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 002/30 | train_loss 2.0341 train_acc 0.3119 | val_loss 1.6027 val_acc 0.4467
+22:21:03 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 003/30 | train_loss 1.4420 train_acc 0.5616 | val_loss 0.9823 val_acc 0.7755
+22:21:05 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 004/30 | train_loss 0.8903 train_acc 0.8091 | val_loss 0.6211 val_acc 0.8699
+22:21:07 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 005/30 | train_loss 0.5593 train_acc 0.8979 | val_loss 0.4107 val_acc 0.9048
+22:21:09 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 006/30 | train_loss 0.3751 train_acc 0.9090 | val_loss 0.2942 val_acc 0.9220
+22:21:11 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 007/30 | train_loss 0.2671 train_acc 0.9412 | val_loss 0.2197 val_acc 0.9386
+22:21:14 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 008/30 | train_loss 0.1929 train_acc 0.9489 | val_loss 0.2041 val_acc 0.9391
+22:21:16 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 009/30 | train_loss 0.1472 train_acc 0.9612 | val_loss 0.1856 val_acc 0.9425
+22:21:18 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 010/30 | train_loss 0.1457 train_acc 0.9589 | val_loss 0.1578 val_acc 0.9502
+22:21:20 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 011/30 | train_loss 0.0937 train_acc 0.9700 | val_loss 0.1844 val_acc 0.9399
+22:21:22 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 012/30 | train_loss 0.0722 train_acc 0.9767 | val_loss 0.1444 val_acc 0.9543
+22:21:24 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 013/30 | train_loss 0.0713 train_acc 0.9789 | val_loss 0.1355 val_acc 0.9563
+22:21:26 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 014/30 | train_loss 0.0671 train_acc 0.9822 | val_loss 0.1635 val_acc 0.9469
+22:21:28 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 015/30 | train_loss 0.0529 train_acc 0.9834 | val_loss 0.1566 val_acc 0.9495
+22:21:30 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 016/30 | train_loss 0.0486 train_acc 0.9878 | val_loss 0.1410 val_acc 0.9575
+22:21:32 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 017/30 | train_loss 0.0387 train_acc 0.9889 | val_loss 0.1462 val_acc 0.9552
+22:21:34 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 018/30 | train_loss 0.0362 train_acc 0.9900 | val_loss 0.1563 val_acc 0.9528
+22:21:36 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 019/30 | train_loss 0.0290 train_acc 0.9933 | val_loss 0.1494 val_acc 0.9540
+22:21:37 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 020/30 | train_loss 0.0299 train_acc 0.9933 | val_loss 0.1529 val_acc 0.9532
+22:21:39 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 021/30 | train_loss 0.0231 train_acc 0.9945 | val_loss 0.1533 val_acc 0.9530
+22:21:41 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 022/30 | train_loss 0.0212 train_acc 0.9978 | val_loss 0.1480 val_acc 0.9546
+22:21:43 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 023/30 | train_loss 0.0248 train_acc 0.9933 | val_loss 0.1457 val_acc 0.9564
+22:21:45 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 024/30 | train_loss 0.0177 train_acc 0.9978 | val_loss 0.1452 val_acc 0.9559
+22:21:47 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 025/30 | train_loss 0.0154 train_acc 0.9978 | val_loss 0.1436 val_acc 0.9564
+22:21:49 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 026/30 | train_loss 0.0273 train_acc 0.9911 | val_loss 0.1425 val_acc 0.9577
+22:21:51 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 027/30 | train_loss 0.0152 train_acc 0.9989 | val_loss 0.1428 val_acc 0.9578
+22:21:53 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 028/30 | train_loss 0.0140 train_acc 1.0000 | val_loss 0.1431 val_acc 0.9578
+22:21:56 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 029/30 | train_loss 0.0146 train_acc 0.9989 | val_loss 0.1433 val_acc 0.9572
+22:21:58 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 030/30 | train_loss 0.0219 train_acc 0.9945 | val_loss 0.1434 val_acc 0.9569
+22:21:58 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] done in 00:01:01 | best val_acc 0.9578
+22:21:59 | eval[byol-vit_small/vit_small] | INFO | Low-shot 1.0% (n=901) -> test acc 0.9178 | bal-acc 0.8779 | f1-macro 0.8769
+22:21:59 | eval[byol-vit_small/vit_small] | INFO | Downstream evaluation complete.

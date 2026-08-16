@@ -1,0 +1,39 @@
+{
+  "pathmnist": {
+    "method": "sal-resnet50",
+    "backbone": "resnet50",
+    "dataset": "pathmnist",
+    "knn": {
+      "knn_top1": 0.9318941504178273,
+      "k": 20
+    },
+    "linear_eval": {
+      "best_val_acc": 0.9852059177282761,
+      "test_metrics": {
+        "accuracy": 0.9363509749303621,
+        "balanced_accuracy": 0.9138616923770874,
+        "f1_macro": 0.9138666867813865,
+        "f1_weighted": 0.9343263736097223
+      },
+      "test_auc": 0.9953848516810512
+    },
+    "lowshot": {
+      "0.1": {
+        "n_train": 9000,
+        "best_val_acc": 0.9913034787038859,
+        "test_accuracy": 0.9483286908077995,
+        "test_balanced_accuracy": 0.9259806510320057,
+        "test_f1_macro": 0.9267239231140338,
+        "test_auc_macro": 0.9968745415290456
+      },
+      "0.01": {
+        "n_train": 901,
+        "best_val_acc": 0.9673130750560799,
+        "test_accuracy": 0.9357938718662953,
+        "test_balanced_accuracy": 0.9070210169638712,
+        "test_f1_macro": 0.9091600592412852,
+        "test_auc_macro": 0.9903345110416866
+      }
+    }
+  }
+}

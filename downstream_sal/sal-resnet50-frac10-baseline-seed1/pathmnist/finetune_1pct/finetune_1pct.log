@@ -1,0 +1,32 @@
+04:14:36 | probe[finetune_1pct/resnet50] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+04:14:38 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 001/30 | train_loss 2.0210 train_acc 0.2819 | val_loss 1.8067 val_acc 0.3276
+04:14:40 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 002/30 | train_loss 1.2283 train_acc 0.5905 | val_loss 1.0430 val_acc 0.6320
+04:14:41 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 003/30 | train_loss 0.6876 train_acc 0.7281 | val_loss 0.8933 val_acc 0.6536
+04:14:43 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 004/30 | train_loss 0.6483 train_acc 0.7791 | val_loss 0.7295 val_acc 0.7435
+04:14:44 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 005/30 | train_loss 0.5310 train_acc 0.8302 | val_loss 0.6894 val_acc 0.7482
+04:14:46 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 006/30 | train_loss 0.4306 train_acc 0.8457 | val_loss 0.5208 val_acc 0.8088
+04:14:47 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 007/30 | train_loss 0.4144 train_acc 0.8479 | val_loss 0.5951 val_acc 0.7988
+04:14:49 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 008/30 | train_loss 0.3670 train_acc 0.8657 | val_loss 0.4421 val_acc 0.8356
+04:14:50 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 009/30 | train_loss 0.2929 train_acc 0.8946 | val_loss 0.4909 val_acc 0.8295
+04:14:52 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 010/30 | train_loss 0.2977 train_acc 0.8912 | val_loss 0.4622 val_acc 0.8362
+04:14:53 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 011/30 | train_loss 0.2680 train_acc 0.9012 | val_loss 0.4574 val_acc 0.8392
+04:14:55 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 012/30 | train_loss 0.2501 train_acc 0.9090 | val_loss 0.4626 val_acc 0.8441
+04:14:56 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 013/30 | train_loss 0.2365 train_acc 0.9134 | val_loss 0.4616 val_acc 0.8481
+04:14:58 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 014/30 | train_loss 0.2764 train_acc 0.9079 | val_loss 0.5174 val_acc 0.8282
+04:14:59 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 015/30 | train_loss 0.2684 train_acc 0.9046 | val_loss 0.4751 val_acc 0.8395
+04:15:00 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 016/30 | train_loss 0.2013 train_acc 0.9323 | val_loss 0.4045 val_acc 0.8634
+04:15:02 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 017/30 | train_loss 0.2090 train_acc 0.9245 | val_loss 0.4084 val_acc 0.8576
+04:15:03 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 018/30 | train_loss 0.1939 train_acc 0.9301 | val_loss 0.3916 val_acc 0.8746
+04:15:04 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 019/30 | train_loss 0.1676 train_acc 0.9301 | val_loss 0.3774 val_acc 0.8752
+04:15:06 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 020/30 | train_loss 0.1426 train_acc 0.9545 | val_loss 0.4102 val_acc 0.8622
+04:15:07 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 021/30 | train_loss 0.1512 train_acc 0.9356 | val_loss 0.4426 val_acc 0.8530
+04:15:08 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 022/30 | train_loss 0.1352 train_acc 0.9523 | val_loss 0.4051 val_acc 0.8678
+04:15:10 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 023/30 | train_loss 0.1348 train_acc 0.9589 | val_loss 0.3848 val_acc 0.8735
+04:15:11 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 024/30 | train_loss 0.1543 train_acc 0.9412 | val_loss 0.3713 val_acc 0.8771
+04:15:13 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 025/30 | train_loss 0.1179 train_acc 0.9612 | val_loss 0.3654 val_acc 0.8807
+04:15:14 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 026/30 | train_loss 0.1180 train_acc 0.9678 | val_loss 0.3728 val_acc 0.8790
+04:15:15 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 027/30 | train_loss 0.1194 train_acc 0.9556 | val_loss 0.3660 val_acc 0.8805
+04:15:17 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 028/30 | train_loss 0.1129 train_acc 0.9645 | val_loss 0.3601 val_acc 0.8819
+04:15:18 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 029/30 | train_loss 0.1102 train_acc 0.9600 | val_loss 0.3570 val_acc 0.8840
+04:15:19 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] epoch 030/30 | train_loss 0.1220 train_acc 0.9578 | val_loss 0.3550 val_acc 0.8848
+04:15:20 | probe[finetune_1pct/resnet50] | INFO | [finetune_1pct] done in 00:00:43 | best val_acc 0.8848

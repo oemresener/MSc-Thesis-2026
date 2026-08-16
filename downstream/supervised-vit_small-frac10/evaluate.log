@@ -1,0 +1,8 @@
+15:24:02 | eval[Supervised-10pct/vit_small] | INFO | Loaded backbone weights from runs/sup-vit_small-ep100-bs256-seed42-frac10/backbone_final.pt
+15:24:03 | eval[Supervised-10pct/vit_small] | INFO | Extracting features for kNN / t-SNE / UMAP...
+15:24:19 | eval[Supervised-10pct/vit_small] | INFO | kNN(k=20) top-1: 0.8447
+15:24:50 | eval[Supervised-10pct/vit_small] | INFO | Saved t-SNE / UMAP plots.
+15:32:08 | eval[Supervised-10pct/vit_small] | INFO | Linear test acc 0.8391 | bal-acc 0.7896 | f1-macro 0.7791 | AUC 0.9812951291417225
+15:33:46 | eval[Supervised-10pct/vit_small] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.8404 | bal-acc 0.7938 | f1-macro 0.7803
+15:34:50 | eval[Supervised-10pct/vit_small] | INFO | Low-shot 1.0% (n=901) -> test acc 0.8306 | bal-acc 0.7807 | f1-macro 0.7680
+15:34:50 | eval[Supervised-10pct/vit_small] | INFO | Downstream evaluation complete.

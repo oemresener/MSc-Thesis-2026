@@ -1,0 +1,36 @@
+{
+  "method": "byol-vit_small",
+  "backbone": "vit_small",
+  "knn": {
+    "knn_top1": 0.9309192200557103,
+    "k": 20
+  },
+  "linear_eval": {
+    "best_val_acc": 0.9764094364876653,
+    "test_metrics": {
+      "accuracy": 0.9295264623955432,
+      "balanced_accuracy": 0.9062122282673357,
+      "f1_macro": 0.9003306353910988,
+      "f1_weighted": 0.9298025362602451
+    },
+    "test_auc": 0.9940806712547041
+  },
+  "lowshot": {
+    "0.1": {
+      "n_train": 9000,
+      "best_val_acc": 0.9850059977916182,
+      "test_accuracy": 0.9449860724233984,
+      "test_balanced_accuracy": 0.9245355358215891,
+      "test_f1_macro": 0.9235964438669461,
+      "test_auc_macro": 0.9944524077820832
+    },
+    "0.01": {
+      "n_train": 901,
+      "best_val_acc": 0.9578168736081846,
+      "test_accuracy": 0.9178272980501393,
+      "test_balanced_accuracy": 0.8779270538802693,
+      "test_f1_macro": 0.8769052379394225,
+      "test_auc_macro": 0.9904447921889403
+    }
+  }
+}

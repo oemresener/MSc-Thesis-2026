@@ -1,0 +1,111 @@
+02:10:34 | ssl[byol/vit_small] | INFO | Model: byol / vit_small -- params: 26.36M
+02:10:40 | ssl[byol/vit_small] | INFO | epoch 001 done in 00:00:06 | loss 1.0171
+02:10:45 | ssl[byol/vit_small] | INFO | epoch 002 done in 00:00:04 | loss 0.8130
+02:10:49 | ssl[byol/vit_small] | INFO | epoch 003 done in 00:00:04 | loss 0.8750
+02:10:54 | ssl[byol/vit_small] | INFO | epoch 004 done in 00:00:05 | loss 0.8941
+02:10:58 | ssl[byol/vit_small] | INFO | epoch 005 done in 00:00:04 | loss 0.8342
+02:11:02 | ssl[byol/vit_small] | INFO | epoch 006 done in 00:00:04 | loss 0.6708
+02:11:07 | ssl[byol/vit_small] | INFO | epoch 007 done in 00:00:04 | loss 0.5058
+02:11:12 | ssl[byol/vit_small] | INFO | epoch 008 done in 00:00:04 | loss 0.4094
+02:11:16 | ssl[byol/vit_small] | INFO | epoch 009 done in 00:00:04 | loss 0.3430
+02:11:21 | ssl[byol/vit_small] | INFO | epoch 010 done in 00:00:05 | loss 0.3014
+02:11:25 | ssl[byol/vit_small] | INFO | epoch 011 done in 00:00:04 | loss 0.2688
+02:11:30 | ssl[byol/vit_small] | INFO | epoch 012 done in 00:00:04 | loss 0.2387
+02:11:35 | ssl[byol/vit_small] | INFO | epoch 013 done in 00:00:04 | loss 0.2210
+02:11:39 | ssl[byol/vit_small] | INFO | epoch 014 done in 00:00:04 | loss 0.2136
+02:11:45 | ssl[byol/vit_small] | INFO | epoch 015 done in 00:00:05 | loss 0.2008
+02:11:51 | ssl[byol/vit_small] | INFO | epoch 016 done in 00:00:06 | loss 0.1882
+02:11:57 | ssl[byol/vit_small] | INFO | epoch 017 done in 00:00:05 | loss 0.1838
+02:12:03 | ssl[byol/vit_small] | INFO | epoch 018 done in 00:00:06 | loss 0.1803
+02:12:09 | ssl[byol/vit_small] | INFO | epoch 019 done in 00:00:05 | loss 0.1712
+02:12:15 | ssl[byol/vit_small] | INFO | epoch 020 done in 00:00:06 | loss 0.1747
+02:12:22 | ssl[byol/vit_small] | INFO | epoch 021 done in 00:00:06 | loss 0.1720
+02:12:28 | ssl[byol/vit_small] | INFO | epoch 022 done in 00:00:05 | loss 0.1692
+02:12:34 | ssl[byol/vit_small] | INFO | epoch 023 done in 00:00:06 | loss 0.1734
+02:12:41 | ssl[byol/vit_small] | INFO | epoch 024 done in 00:00:06 | loss 0.1599
+02:12:47 | ssl[byol/vit_small] | INFO | epoch 025 done in 00:00:05 | loss 0.1602
+02:12:52 | ssl[byol/vit_small] | INFO | epoch 026 done in 00:00:05 | loss 0.1646
+02:13:00 | ssl[byol/vit_small] | INFO | epoch 027 done in 00:00:07 | loss 0.1650
+02:13:04 | ssl[byol/vit_small] | INFO | epoch 028 done in 00:00:04 | loss 0.1591
+02:13:11 | ssl[byol/vit_small] | INFO | epoch 029 done in 00:00:07 | loss 0.1551
+02:13:18 | ssl[byol/vit_small] | INFO | epoch 030 done in 00:00:06 | loss 0.1570
+02:13:24 | ssl[byol/vit_small] | INFO | epoch 031 done in 00:00:05 | loss 0.1603
+02:13:31 | ssl[byol/vit_small] | INFO | epoch 032 done in 00:00:06 | loss 0.1564
+02:13:37 | ssl[byol/vit_small] | INFO | epoch 033 done in 00:00:06 | loss 0.1553
+02:13:43 | ssl[byol/vit_small] | INFO | epoch 034 done in 00:00:05 | loss 0.1523
+02:13:49 | ssl[byol/vit_small] | INFO | epoch 035 done in 00:00:06 | loss 0.1522
+02:13:56 | ssl[byol/vit_small] | INFO | epoch 036 done in 00:00:06 | loss 0.1503
+02:14:01 | ssl[byol/vit_small] | INFO | epoch 037 done in 00:00:05 | loss 0.1511
+02:14:08 | ssl[byol/vit_small] | INFO | epoch 038 done in 00:00:06 | loss 0.1504
+02:14:13 | ssl[byol/vit_small] | INFO | epoch 039 done in 00:00:05 | loss 0.1467
+02:14:20 | ssl[byol/vit_small] | INFO | epoch 040 done in 00:00:06 | loss 0.1475
+02:14:26 | ssl[byol/vit_small] | INFO | epoch 041 done in 00:00:06 | loss 0.1473
+02:14:32 | ssl[byol/vit_small] | INFO | epoch 042 done in 00:00:05 | loss 0.1478
+02:14:38 | ssl[byol/vit_small] | INFO | epoch 043 done in 00:00:05 | loss 0.1478
+02:14:44 | ssl[byol/vit_small] | INFO | epoch 044 done in 00:00:06 | loss 0.1461
+02:14:49 | ssl[byol/vit_small] | INFO | epoch 045 done in 00:00:04 | loss 0.1475
+02:14:56 | ssl[byol/vit_small] | INFO | epoch 046 done in 00:00:07 | loss 0.1485
+02:15:02 | ssl[byol/vit_small] | INFO | epoch 047 done in 00:00:05 | loss 0.1453
+02:15:08 | ssl[byol/vit_small] | INFO | epoch 048 done in 00:00:06 | loss 0.1414
+02:15:15 | ssl[byol/vit_small] | INFO | epoch 049 done in 00:00:06 | loss 0.1461
+02:15:21 | ssl[byol/vit_small] | INFO | epoch 050 done in 00:00:05 | loss 0.1427
+02:15:27 | ssl[byol/vit_small] | INFO | epoch 051 done in 00:00:06 | loss 0.1436
+02:15:33 | ssl[byol/vit_small] | INFO | epoch 052 done in 00:00:06 | loss 0.1414
+02:15:39 | ssl[byol/vit_small] | INFO | epoch 053 done in 00:00:05 | loss 0.1441
+02:15:45 | ssl[byol/vit_small] | INFO | epoch 054 done in 00:00:05 | loss 0.1409
+02:15:52 | ssl[byol/vit_small] | INFO | epoch 055 done in 00:00:07 | loss 0.1412
+02:15:57 | ssl[byol/vit_small] | INFO | epoch 056 done in 00:00:05 | loss 0.1431
+02:16:04 | ssl[byol/vit_small] | INFO | epoch 057 done in 00:00:06 | loss 0.1405
+02:16:11 | ssl[byol/vit_small] | INFO | epoch 058 done in 00:00:06 | loss 0.1394
+02:16:16 | ssl[byol/vit_small] | INFO | epoch 059 done in 00:00:05 | loss 0.1381
+02:16:23 | ssl[byol/vit_small] | INFO | epoch 060 done in 00:00:06 | loss 0.1382
+02:16:30 | ssl[byol/vit_small] | INFO | epoch 061 done in 00:00:06 | loss 0.1358
+02:16:35 | ssl[byol/vit_small] | INFO | epoch 062 done in 00:00:05 | loss 0.1343
+02:16:42 | ssl[byol/vit_small] | INFO | epoch 063 done in 00:00:06 | loss 0.1345
+02:16:48 | ssl[byol/vit_small] | INFO | epoch 064 done in 00:00:06 | loss 0.1335
+02:16:53 | ssl[byol/vit_small] | INFO | epoch 065 done in 00:00:04 | loss 0.1321
+02:17:00 | ssl[byol/vit_small] | INFO | epoch 066 done in 00:00:06 | loss 0.1341
+02:17:05 | ssl[byol/vit_small] | INFO | epoch 067 done in 00:00:05 | loss 0.1303
+02:17:12 | ssl[byol/vit_small] | INFO | epoch 068 done in 00:00:06 | loss 0.1318
+02:17:18 | ssl[byol/vit_small] | INFO | epoch 069 done in 00:00:06 | loss 0.1341
+02:17:24 | ssl[byol/vit_small] | INFO | epoch 070 done in 00:00:05 | loss 0.1322
+02:17:30 | ssl[byol/vit_small] | INFO | epoch 071 done in 00:00:06 | loss 0.1274
+02:17:37 | ssl[byol/vit_small] | INFO | epoch 072 done in 00:00:06 | loss 0.1313
+02:17:42 | ssl[byol/vit_small] | INFO | epoch 073 done in 00:00:04 | loss 0.1291
+02:17:49 | ssl[byol/vit_small] | INFO | epoch 074 done in 00:00:06 | loss 0.1281
+02:17:55 | ssl[byol/vit_small] | INFO | epoch 075 done in 00:00:06 | loss 0.1274
+02:18:01 | ssl[byol/vit_small] | INFO | epoch 076 done in 00:00:05 | loss 0.1275
+02:18:08 | ssl[byol/vit_small] | INFO | epoch 077 done in 00:00:06 | loss 0.1258
+02:18:15 | ssl[byol/vit_small] | INFO | epoch 078 done in 00:00:06 | loss 0.1275
+02:18:20 | ssl[byol/vit_small] | INFO | epoch 079 done in 00:00:05 | loss 0.1294
+02:18:26 | ssl[byol/vit_small] | INFO | epoch 080 done in 00:00:06 | loss 0.1262
+02:18:33 | ssl[byol/vit_small] | INFO | epoch 081 done in 00:00:06 | loss 0.1260
+02:18:38 | ssl[byol/vit_small] | INFO | epoch 082 done in 00:00:05 | loss 0.1282
+02:18:45 | ssl[byol/vit_small] | INFO | epoch 083 done in 00:00:06 | loss 0.1255
+02:18:50 | ssl[byol/vit_small] | INFO | epoch 084 done in 00:00:05 | loss 0.1245
+02:18:57 | ssl[byol/vit_small] | INFO | epoch 085 done in 00:00:06 | loss 0.1253
+02:19:03 | ssl[byol/vit_small] | INFO | epoch 086 done in 00:00:06 | loss 0.1245
+02:19:09 | ssl[byol/vit_small] | INFO | epoch 087 done in 00:00:05 | loss 0.1223
+02:19:15 | ssl[byol/vit_small] | INFO | epoch 088 done in 00:00:06 | loss 0.1259
+02:19:22 | ssl[byol/vit_small] | INFO | epoch 089 done in 00:00:07 | loss 0.1237
+02:19:27 | ssl[byol/vit_small] | INFO | epoch 090 done in 00:00:05 | loss 0.1222
+02:19:34 | ssl[byol/vit_small] | INFO | epoch 091 done in 00:00:06 | loss 0.1251
+02:19:41 | ssl[byol/vit_small] | INFO | epoch 092 done in 00:00:06 | loss 0.1242
+02:19:47 | ssl[byol/vit_small] | INFO | epoch 093 done in 00:00:05 | loss 0.1226
+02:19:53 | ssl[byol/vit_small] | INFO | epoch 094 done in 00:00:06 | loss 0.1222
+02:20:00 | ssl[byol/vit_small] | INFO | epoch 095 done in 00:00:06 | loss 0.1241
+02:20:06 | ssl[byol/vit_small] | INFO | epoch 096 done in 00:00:05 | loss 0.1239
+02:20:12 | ssl[byol/vit_small] | INFO | epoch 097 done in 00:00:05 | loss 0.1238
+02:20:19 | ssl[byol/vit_small] | INFO | epoch 098 done in 00:00:06 | loss 0.1226
+02:20:23 | ssl[byol/vit_small] | INFO | epoch 099 done in 00:00:04 | loss 0.1248
+02:20:29 | ssl[byol/vit_small] | INFO | epoch 100 done in 00:00:06 | loss 0.1210
+02:20:29 | ssl[byol/vit_small] | INFO | Total SSL training: 00:09:55 (best loss 0.1210)
+
+02:24:11 | eval[BYOL-10pct/vit_small] | INFO | Loaded backbone weights from runs/ssl-byol-vit_small-ep100-bs256-seed42-frac10/backbone_final.pt
+02:25:14 | eval[BYOL-10pct/vit_small] | INFO | Extracting features for kNN / t-SNE / UMAP...
+02:26:26 | eval[BYOL-10pct/vit_small] | INFO | kNN(k=20) top-1: 0.8592
+02:27:13 | eval[BYOL-10pct/vit_small] | INFO | Saved t-SNE / UMAP plots.
+02:52:49 | eval[BYOL-10pct/vit_small] | INFO | Linear test acc 0.8281 | bal-acc 0.7866 | f1-macro 0.7674 | AUC 0.9811020290134019
+02:59:48 | eval[BYOL-10pct/vit_small] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.8819 | bal-acc 0.8516 | f1-macro 0.8420
+03:02:46 | eval[BYOL-10pct/vit_small] | INFO | Low-shot 1.0% (n=901) -> test acc 0.8451 | bal-acc 0.7978 | f1-macro 0.7853
+03:02:46 | eval[BYOL-10pct/vit_small] | INFO | Downstream evaluation complete.

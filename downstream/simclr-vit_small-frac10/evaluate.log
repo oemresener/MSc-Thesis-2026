@@ -1,0 +1,8 @@
+02:24:11 | eval[SimCLR-10pct/vit_small] | INFO | Loaded backbone weights from runs/ssl-simclr-vit_small-ep100-bs256-seed42-frac10/backbone_final.pt
+02:38:17 | eval[SimCLR-10pct/vit_small] | INFO | Extracting features for kNN / t-SNE / UMAP...
+02:42:47 | eval[SimCLR-10pct/vit_small] | INFO | kNN(k=20) top-1: 0.8806
+02:43:48 | eval[SimCLR-10pct/vit_small] | INFO | Saved t-SNE / UMAP plots.
+03:10:09 | eval[SimCLR-10pct/vit_small] | INFO | Linear test acc 0.8747 | bal-acc 0.8449 | f1-macro 0.8348 | AUC 0.987612743202112
+03:14:37 | eval[SimCLR-10pct/vit_small] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.8999 | bal-acc 0.8796 | f1-macro 0.8726
+03:16:46 | eval[SimCLR-10pct/vit_small] | INFO | Low-shot 1.0% (n=901) -> test acc 0.8720 | bal-acc 0.8304 | f1-macro 0.8255
+03:16:46 | eval[SimCLR-10pct/vit_small] | INFO | Downstream evaluation complete.

@@ -1,0 +1,36 @@
+{
+  "method": "vssl-resnet50",
+  "backbone": "resnet50",
+  "knn": {
+    "knn_top1": 0.8844011142061281,
+    "k": 20
+  },
+  "linear_eval": {
+    "best_val_acc": 0.9345261899055075,
+    "test_metrics": {
+      "accuracy": 0.9029247910863509,
+      "balanced_accuracy": 0.8728770450816352,
+      "f1_macro": 0.8623016102711384,
+      "f1_weighted": 0.9040588148199681
+    },
+    "test_auc": 0.9904475847055509
+  },
+  "lowshot": {
+    "0.1": {
+      "n_train": 9000,
+      "best_val_acc": 0.9731107558883795,
+      "test_accuracy": 0.9356545961002786,
+      "test_balanced_accuracy": 0.9168596743884763,
+      "test_f1_macro": 0.9117574075432204,
+      "test_auc_macro": 0.9937082496836039
+    },
+    "0.01": {
+      "n_train": 901,
+      "best_val_acc": 0.9068372655944412,
+      "test_accuracy": 0.8729805013927576,
+      "test_balanced_accuracy": 0.8413620370192777,
+      "test_f1_macro": 0.8327106417100135,
+      "test_auc_macro": 0.9864719435808813
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "accuracy": 0.8259052924791086,
+  "balanced_accuracy": 0.7728320052419808,
+  "f1_macro": 0.7700526556783506,
+  "f1_weighted": 0.8273456482441257,
+  "f1_per_class": {
+    "Adipose": 0.9574700109051254,
+    "Background": 0.976231884057971,
+    "Debris": 0.5508196721311476,
+    "Lymphocytes": 0.9533995416348358,
+    "Mucus": 0.7390300230946882,
+    "Smooth muscle": 0.5811384876805438,
+    "Normal colon mucosa": 0.8535620052770448,
+    "Cancer-associated stroma": 0.4018867924528302,
+    "Colorectal adenocarcinoma": 0.9169354838709678
+  },
+  "confusion_matrix": [
+    [
+      1317,
+      7,
+      0,
+      0,
+      11,
+      1,
+      2,
+      0,
+      0
+    ],
+    [
+      5,
+      842,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      168,
+      0,
+      0,
+      100,
+      0,
+      62,
+      0
+    ],
+    [
+      0,
+      0,
+      6,
+      624,
+      0,
+      0,
+      4,
+      0,
+      0
+    ],
+    [
+      84,
+      20,
+      4,
+      0,
+      640,
+      56,
+      95,
+      128,
+      8
+    ],
+    [
+      0,
+      0,
+      20,
+      0,
+      0,
+      342,
+      0,
+      224,
+      6
+    ],
+    [
+      2,
+      0,
+      1,
+      36,
+      16,
+      0,
+      647,
+      1,
+      38
+    ],
+    [
+      0,
+      0,
+      47,
+      2,
+      9,
+      82,
+      10,
+      213,
+      58
+    ],
+    [
+      5,
+      0,
+      25,
+      13,
+      21,
+      4,
+      17,
+      11,
+      1137
+    ]
+  ],
+  "support": {
+    "Adipose": 1338,
+    "Background": 847,
+    "Debris": 339,
+    "Lymphocytes": 634,
+    "Mucus": 1035,
+    "Smooth muscle": 592,
+    "Normal colon mucosa": 741,
+    "Cancer-associated stroma": 421,
+    "Colorectal adenocarcinoma": 1233
+  },
+  "classification_report": {
+    "Adipose": {
+      "precision": 0.9320594479830149,
+      "recall": 0.984304932735426,
+      "f1-score": 0.9574700109051254,
+      "support": 1338.0
+    },
+    "Background": {
+      "precision": 0.958997722095672,
+      "recall": 0.9940968122786304,
+      "f1-score": 0.976231884057971,
+      "support": 847.0
+    },
+    "Debris": {
+      "precision": 0.6199261992619927,
+      "recall": 0.49557522123893805,
+      "f1-score": 0.5508196721311476,
+      "support": 339.0
+    },
+    "Lymphocytes": {
+      "precision": 0.9244444444444444,
+      "recall": 0.9842271293375394,
+      "f1-score": 0.9533995416348358,
+      "support": 634.0
+    },
+    "Mucus": {
+      "precision": 0.9182209469153515,
+      "recall": 0.6183574879227053,
+      "f1-score": 0.7390300230946882,
+      "support": 1035.0
+    },
+    "Smooth muscle": {
+      "precision": 0.5846153846153846,
+      "recall": 0.5777027027027027,
+      "f1-score": 0.5811384876805438,
+      "support": 592.0
+    },
+    "Normal colon mucosa": {
+      "precision": 0.8348387096774194,
+      "recall": 0.873144399460189,
+      "f1-score": 0.8535620052770448,
+      "support": 741.0
+    },
+    "Cancer-associated stroma": {
+      "precision": 0.3333333333333333,
+      "recall": 0.505938242280285,
+      "f1-score": 0.4018867924528302,
+      "support": 421.0
+    },
+    "Colorectal adenocarcinoma": {
+      "precision": 0.9117882919005613,
+      "recall": 0.9221411192214112,
+      "f1-score": 0.9169354838709678,
+      "support": 1233.0
+    },
+    "accuracy": 0.8259052924791086,
+    "macro avg": {
+      "precision": 0.7798027200252416,
+      "recall": 0.7728320052419808,
+      "f1-score": 0.7700526556783506,
+      "support": 7180.0
+    },
+    "weighted avg": {
+      "precision": 0.8405646434834667,
+      "recall": 0.8259052924791086,
+      "f1-score": 0.8273456482441257,
+      "support": 7180.0
+    }
+  },
+  "roc_auc_ovr_macro": 0.9738670328948726,
+  "roc_auc_ovr_weighted": 0.9816699377767112
+}

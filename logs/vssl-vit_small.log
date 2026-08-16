@@ -1,0 +1,513 @@
+------------------------------------------------
+[VSSL] backbone=vit_small | 2026-05-09T19:08:58+00:00
+------------------------------------------------
+19:09:06 | ssl[vssl/vit_small] | INFO | Model: vssl / vit_small -- params: 25.56M
+19:09:17 | ssl[vssl/vit_small] | INFO | ep 001/100 it 50/175 | lr 5.71e-05 | loss -15.1587 | loss_kl -7.8526 | loss_ll 7.3060 | loss_neg_ll -7.3060
+19:09:23 | ssl[vssl/vit_small] | INFO | ep 001/100 it 100/175 | lr 1.14e-04 | loss -17.2278 | loss_kl -7.7123 | loss_ll 9.5156 | loss_neg_ll -9.5156
+19:09:28 | ssl[vssl/vit_small] | INFO | ep 001/100 it 150/175 | lr 1.71e-04 | loss -18.4468 | loss_kl -7.9487 | loss_ll 10.4981 | loss_neg_ll -10.4981
+19:09:30 | ssl[vssl/vit_small] | INFO | epoch 001 done in 00:00:24 | loss -18.8479
+19:09:38 | ssl[vssl/vit_small] | INFO | ep 002/100 it 50/175 | lr 2.57e-04 | loss -21.3639 | loss_kl -8.7047 | loss_ll 12.6592 | loss_neg_ll -12.6592
+19:09:43 | ssl[vssl/vit_small] | INFO | ep 002/100 it 100/175 | lr 3.14e-04 | loss -21.4066 | loss_kl -8.7274 | loss_ll 12.6792 | loss_neg_ll -12.6792
+19:09:48 | ssl[vssl/vit_small] | INFO | ep 002/100 it 150/175 | lr 3.71e-04 | loss -21.4383 | loss_kl -8.7521 | loss_ll 12.6862 | loss_neg_ll -12.6862
+19:09:51 | ssl[vssl/vit_small] | INFO | epoch 002 done in 00:00:20 | loss -21.4545
+19:09:58 | ssl[vssl/vit_small] | INFO | ep 003/100 it 50/175 | lr 4.57e-04 | loss -21.5773 | loss_kl -8.8971 | loss_ll 12.6802 | loss_neg_ll -12.6802
+19:10:03 | ssl[vssl/vit_small] | INFO | ep 003/100 it 100/175 | lr 5.14e-04 | loss -21.6160 | loss_kl -8.9370 | loss_ll 12.6789 | loss_neg_ll -12.6789
+19:10:08 | ssl[vssl/vit_small] | INFO | ep 003/100 it 150/175 | lr 5.71e-04 | loss -21.6474 | loss_kl -8.9708 | loss_ll 12.6766 | loss_neg_ll -12.6766
+19:10:11 | ssl[vssl/vit_small] | INFO | epoch 003 done in 00:00:20 | loss -21.6702
+19:10:19 | ssl[vssl/vit_small] | INFO | ep 004/100 it 50/175 | lr 6.57e-04 | loss -21.8674 | loss_kl -9.1920 | loss_ll 12.6754 | loss_neg_ll -12.6754
+19:10:24 | ssl[vssl/vit_small] | INFO | ep 004/100 it 100/175 | lr 7.14e-04 | loss -21.9188 | loss_kl -9.2414 | loss_ll 12.6774 | loss_neg_ll -12.6774
+19:10:29 | ssl[vssl/vit_small] | INFO | ep 004/100 it 150/175 | lr 7.71e-04 | loss -21.9569 | loss_kl -9.2816 | loss_ll 12.6753 | loss_neg_ll -12.6753
+19:10:31 | ssl[vssl/vit_small] | INFO | epoch 004 done in 00:00:20 | loss -21.9749
+19:10:39 | ssl[vssl/vit_small] | INFO | ep 005/100 it 50/175 | lr 8.57e-04 | loss -22.1549 | loss_kl -9.4770 | loss_ll 12.6779 | loss_neg_ll -12.6779
+19:10:44 | ssl[vssl/vit_small] | INFO | ep 005/100 it 100/175 | lr 9.14e-04 | loss -22.1995 | loss_kl -9.5151 | loss_ll 12.6844 | loss_neg_ll -12.6844
+19:10:49 | ssl[vssl/vit_small] | INFO | ep 005/100 it 150/175 | lr 9.71e-04 | loss -22.2421 | loss_kl -9.5525 | loss_ll 12.6896 | loss_neg_ll -12.6896
+19:10:52 | ssl[vssl/vit_small] | INFO | epoch 005 done in 00:00:20 | loss -22.2620
+19:10:59 | ssl[vssl/vit_small] | INFO | ep 006/100 it 50/175 | lr 1.00e-03 | loss -22.4497 | loss_kl -9.7226 | loss_ll 12.7271 | loss_neg_ll -12.7271
+19:11:04 | ssl[vssl/vit_small] | INFO | ep 006/100 it 100/175 | lr 1.00e-03 | loss -22.4835 | loss_kl -9.7498 | loss_ll 12.7337 | loss_neg_ll -12.7337
+19:11:09 | ssl[vssl/vit_small] | INFO | ep 006/100 it 150/175 | lr 1.00e-03 | loss -22.5301 | loss_kl -9.7797 | loss_ll 12.7505 | loss_neg_ll -12.7505
+19:11:12 | ssl[vssl/vit_small] | INFO | epoch 006 done in 00:00:20 | loss -22.5479
+19:11:19 | ssl[vssl/vit_small] | INFO | ep 007/100 it 50/175 | lr 1.00e-03 | loss -22.7289 | loss_kl -9.9004 | loss_ll 12.8285 | loss_neg_ll -12.8285
+19:11:24 | ssl[vssl/vit_small] | INFO | ep 007/100 it 100/175 | lr 9.99e-04 | loss -22.7570 | loss_kl -9.9165 | loss_ll 12.8405 | loss_neg_ll -12.8405
+19:11:29 | ssl[vssl/vit_small] | INFO | ep 007/100 it 150/175 | lr 9.99e-04 | loss -22.7863 | loss_kl -9.9310 | loss_ll 12.8552 | loss_neg_ll -12.8552
+19:11:32 | ssl[vssl/vit_small] | INFO | epoch 007 done in 00:00:20 | loss -22.8004
+19:11:39 | ssl[vssl/vit_small] | INFO | ep 008/100 it 50/175 | lr 9.99e-04 | loss -22.9325 | loss_kl -10.0028 | loss_ll 12.9297 | loss_neg_ll -12.9297
+19:11:45 | ssl[vssl/vit_small] | INFO | ep 008/100 it 100/175 | lr 9.98e-04 | loss -22.9515 | loss_kl -10.0115 | loss_ll 12.9400 | loss_neg_ll -12.9400
+19:11:50 | ssl[vssl/vit_small] | INFO | ep 008/100 it 150/175 | lr 9.98e-04 | loss -22.9751 | loss_kl -10.0211 | loss_ll 12.9540 | loss_neg_ll -12.9540
+19:11:52 | ssl[vssl/vit_small] | INFO | epoch 008 done in 00:00:20 | loss -22.9861
+19:12:00 | ssl[vssl/vit_small] | INFO | ep 009/100 it 50/175 | lr 9.97e-04 | loss -23.0646 | loss_kl -10.0576 | loss_ll 13.0070 | loss_neg_ll -13.0070
+19:12:05 | ssl[vssl/vit_small] | INFO | ep 009/100 it 100/175 | lr 9.97e-04 | loss -23.0806 | loss_kl -10.0640 | loss_ll 13.0166 | loss_neg_ll -13.0166
+19:12:10 | ssl[vssl/vit_small] | INFO | ep 009/100 it 150/175 | lr 9.96e-04 | loss -23.0934 | loss_kl -10.0681 | loss_ll 13.0253 | loss_neg_ll -13.0253
+19:12:13 | ssl[vssl/vit_small] | INFO | epoch 009 done in 00:00:20 | loss -23.0996
+19:12:20 | ssl[vssl/vit_small] | INFO | ep 010/100 it 50/175 | lr 9.95e-04 | loss -23.1635 | loss_kl -10.0885 | loss_ll 13.0750 | loss_neg_ll -13.0750
+19:12:25 | ssl[vssl/vit_small] | INFO | ep 010/100 it 100/175 | lr 9.94e-04 | loss -23.1713 | loss_kl -10.0909 | loss_ll 13.0804 | loss_neg_ll -13.0804
+19:12:30 | ssl[vssl/vit_small] | INFO | ep 010/100 it 150/175 | lr 9.94e-04 | loss -23.1838 | loss_kl -10.0941 | loss_ll 13.0897 | loss_neg_ll -13.0897
+19:12:33 | ssl[vssl/vit_small] | INFO | epoch 010 done in 00:00:20 | loss -23.1898
+19:12:41 | ssl[vssl/vit_small] | INFO | ep 011/100 it 50/175 | lr 9.92e-04 | loss -23.2296 | loss_kl -10.1042 | loss_ll 13.1253 | loss_neg_ll -13.1253
+19:12:46 | ssl[vssl/vit_small] | INFO | ep 011/100 it 100/175 | lr 9.92e-04 | loss -23.2396 | loss_kl -10.1067 | loss_ll 13.1328 | loss_neg_ll -13.1328
+19:12:51 | ssl[vssl/vit_small] | INFO | ep 011/100 it 150/175 | lr 9.91e-04 | loss -23.2481 | loss_kl -10.1078 | loss_ll 13.1402 | loss_neg_ll -13.1402
+19:12:53 | ssl[vssl/vit_small] | INFO | epoch 011 done in 00:00:20 | loss -23.2502
+19:13:01 | ssl[vssl/vit_small] | INFO | ep 012/100 it 50/175 | lr 9.89e-04 | loss -23.2725 | loss_kl -10.1133 | loss_ll 13.1592 | loss_neg_ll -13.1592
+19:13:06 | ssl[vssl/vit_small] | INFO | ep 012/100 it 100/175 | lr 9.88e-04 | loss -23.2884 | loss_kl -10.1166 | loss_ll 13.1718 | loss_neg_ll -13.1718
+19:13:11 | ssl[vssl/vit_small] | INFO | ep 012/100 it 150/175 | lr 9.87e-04 | loss -23.2945 | loss_kl -10.1175 | loss_ll 13.1770 | loss_neg_ll -13.1770
+19:13:13 | ssl[vssl/vit_small] | INFO | epoch 012 done in 00:00:19 | loss -23.2964
+19:13:21 | ssl[vssl/vit_small] | INFO | ep 013/100 it 50/175 | lr 9.86e-04 | loss -23.3210 | loss_kl -10.1187 | loss_ll 13.2023 | loss_neg_ll -13.2023
+19:13:26 | ssl[vssl/vit_small] | INFO | ep 013/100 it 100/175 | lr 9.85e-04 | loss -23.3266 | loss_kl -10.1202 | loss_ll 13.2064 | loss_neg_ll -13.2064
+19:13:31 | ssl[vssl/vit_small] | INFO | ep 013/100 it 150/175 | lr 9.83e-04 | loss -23.3295 | loss_kl -10.1205 | loss_ll 13.2090 | loss_neg_ll -13.2090
+19:13:34 | ssl[vssl/vit_small] | INFO | epoch 013 done in 00:00:20 | loss -23.3322
+19:13:41 | ssl[vssl/vit_small] | INFO | ep 014/100 it 50/175 | lr 9.82e-04 | loss -23.3475 | loss_kl -10.1192 | loss_ll 13.2283 | loss_neg_ll -13.2283
+19:13:46 | ssl[vssl/vit_small] | INFO | ep 014/100 it 100/175 | lr 9.80e-04 | loss -23.3549 | loss_kl -10.1210 | loss_ll 13.2338 | loss_neg_ll -13.2338
+19:13:51 | ssl[vssl/vit_small] | INFO | ep 014/100 it 150/175 | lr 9.79e-04 | loss -23.3606 | loss_kl -10.1221 | loss_ll 13.2385 | loss_neg_ll -13.2385
+19:13:54 | ssl[vssl/vit_small] | INFO | epoch 014 done in 00:00:19 | loss -23.3643
+19:14:01 | ssl[vssl/vit_small] | INFO | ep 015/100 it 50/175 | lr 9.77e-04 | loss -23.3885 | loss_kl -10.1271 | loss_ll 13.2614 | loss_neg_ll -13.2614
+19:14:06 | ssl[vssl/vit_small] | INFO | ep 015/100 it 100/175 | lr 9.75e-04 | loss -23.3891 | loss_kl -10.1265 | loss_ll 13.2627 | loss_neg_ll -13.2627
+19:14:11 | ssl[vssl/vit_small] | INFO | ep 015/100 it 150/175 | lr 9.74e-04 | loss -23.3913 | loss_kl -10.1262 | loss_ll 13.2652 | loss_neg_ll -13.2652
+19:14:13 | ssl[vssl/vit_small] | INFO | epoch 015 done in 00:00:19 | loss -23.3930
+19:14:21 | ssl[vssl/vit_small] | INFO | ep 016/100 it 50/175 | lr 9.72e-04 | loss -23.4055 | loss_kl -10.1271 | loss_ll 13.2784 | loss_neg_ll -13.2784
+19:14:26 | ssl[vssl/vit_small] | INFO | ep 016/100 it 100/175 | lr 9.70e-04 | loss -23.4065 | loss_kl -10.1269 | loss_ll 13.2796 | loss_neg_ll -13.2796
+19:14:31 | ssl[vssl/vit_small] | INFO | ep 016/100 it 150/175 | lr 9.68e-04 | loss -23.4116 | loss_kl -10.1276 | loss_ll 13.2840 | loss_neg_ll -13.2840
+19:14:33 | ssl[vssl/vit_small] | INFO | epoch 016 done in 00:00:19 | loss -23.4134
+19:14:41 | ssl[vssl/vit_small] | INFO | ep 017/100 it 50/175 | lr 9.66e-04 | loss -23.4243 | loss_kl -10.1296 | loss_ll 13.2947 | loss_neg_ll -13.2947
+19:14:46 | ssl[vssl/vit_small] | INFO | ep 017/100 it 100/175 | lr 9.64e-04 | loss -23.4262 | loss_kl -10.1290 | loss_ll 13.2972 | loss_neg_ll -13.2972
+19:14:51 | ssl[vssl/vit_small] | INFO | ep 017/100 it 150/175 | lr 9.62e-04 | loss -23.4298 | loss_kl -10.1291 | loss_ll 13.3007 | loss_neg_ll -13.3007
+19:14:53 | ssl[vssl/vit_small] | INFO | epoch 017 done in 00:00:20 | loss -23.4323
+19:15:01 | ssl[vssl/vit_small] | INFO | ep 018/100 it 50/175 | lr 9.60e-04 | loss -23.4460 | loss_kl -10.1296 | loss_ll 13.3165 | loss_neg_ll -13.3165
+19:15:06 | ssl[vssl/vit_small] | INFO | ep 018/100 it 100/175 | lr 9.58e-04 | loss -23.4486 | loss_kl -10.1303 | loss_ll 13.3183 | loss_neg_ll -13.3183
+19:15:11 | ssl[vssl/vit_small] | INFO | ep 018/100 it 150/175 | lr 9.56e-04 | loss -23.4455 | loss_kl -10.1295 | loss_ll 13.3160 | loss_neg_ll -13.3160
+19:15:14 | ssl[vssl/vit_small] | INFO | epoch 018 done in 00:00:20 | loss -23.4469
+19:15:21 | ssl[vssl/vit_small] | INFO | ep 019/100 it 50/175 | lr 9.53e-04 | loss -23.4681 | loss_kl -10.1345 | loss_ll 13.3336 | loss_neg_ll -13.3336
+19:15:26 | ssl[vssl/vit_small] | INFO | ep 019/100 it 100/175 | lr 9.51e-04 | loss -23.4688 | loss_kl -10.1337 | loss_ll 13.3351 | loss_neg_ll -13.3351
+19:15:31 | ssl[vssl/vit_small] | INFO | ep 019/100 it 150/175 | lr 9.49e-04 | loss -23.4724 | loss_kl -10.1331 | loss_ll 13.3392 | loss_neg_ll -13.3392
+19:15:34 | ssl[vssl/vit_small] | INFO | epoch 019 done in 00:00:20 | loss -23.4727
+19:15:41 | ssl[vssl/vit_small] | INFO | ep 020/100 it 50/175 | lr 9.46e-04 | loss -23.4890 | loss_kl -10.1336 | loss_ll 13.3554 | loss_neg_ll -13.3554
+19:15:46 | ssl[vssl/vit_small] | INFO | ep 020/100 it 100/175 | lr 9.44e-04 | loss -23.4905 | loss_kl -10.1332 | loss_ll 13.3573 | loss_neg_ll -13.3573
+19:15:51 | ssl[vssl/vit_small] | INFO | ep 020/100 it 150/175 | lr 9.41e-04 | loss -23.4907 | loss_kl -10.1326 | loss_ll 13.3581 | loss_neg_ll -13.3581
+19:15:54 | ssl[vssl/vit_small] | INFO | epoch 020 done in 00:00:20 | loss -23.4937
+19:16:02 | ssl[vssl/vit_small] | INFO | ep 021/100 it 50/175 | lr 9.38e-04 | loss -23.5129 | loss_kl -10.1377 | loss_ll 13.3753 | loss_neg_ll -13.3753
+19:16:07 | ssl[vssl/vit_small] | INFO | ep 021/100 it 100/175 | lr 9.36e-04 | loss -23.5155 | loss_kl -10.1374 | loss_ll 13.3780 | loss_neg_ll -13.3780
+19:16:12 | ssl[vssl/vit_small] | INFO | ep 021/100 it 150/175 | lr 9.34e-04 | loss -23.5137 | loss_kl -10.1358 | loss_ll 13.3779 | loss_neg_ll -13.3779
+19:16:14 | ssl[vssl/vit_small] | INFO | epoch 021 done in 00:00:20 | loss -23.5125
+19:16:22 | ssl[vssl/vit_small] | INFO | ep 022/100 it 50/175 | lr 9.30e-04 | loss -23.5256 | loss_kl -10.1354 | loss_ll 13.3902 | loss_neg_ll -13.3902
+19:16:27 | ssl[vssl/vit_small] | INFO | ep 022/100 it 100/175 | lr 9.28e-04 | loss -23.5272 | loss_kl -10.1363 | loss_ll 13.3909 | loss_neg_ll -13.3909
+19:16:32 | ssl[vssl/vit_small] | INFO | ep 022/100 it 150/175 | lr 9.25e-04 | loss -23.5278 | loss_kl -10.1359 | loss_ll 13.3919 | loss_neg_ll -13.3919
+19:16:34 | ssl[vssl/vit_small] | INFO | epoch 022 done in 00:00:20 | loss -23.5274
+19:16:42 | ssl[vssl/vit_small] | INFO | ep 023/100 it 50/175 | lr 9.21e-04 | loss -23.5326 | loss_kl -10.1354 | loss_ll 13.3972 | loss_neg_ll -13.3972
+19:16:47 | ssl[vssl/vit_small] | INFO | ep 023/100 it 100/175 | lr 9.19e-04 | loss -23.5402 | loss_kl -10.1372 | loss_ll 13.4030 | loss_neg_ll -13.4030
+19:16:52 | ssl[vssl/vit_small] | INFO | ep 023/100 it 150/175 | lr 9.16e-04 | loss -23.5449 | loss_kl -10.1378 | loss_ll 13.4070 | loss_neg_ll -13.4070
+19:16:55 | ssl[vssl/vit_small] | INFO | epoch 023 done in 00:00:20 | loss -23.5458
+19:17:02 | ssl[vssl/vit_small] | INFO | ep 024/100 it 50/175 | lr 9.12e-04 | loss -23.5583 | loss_kl -10.1394 | loss_ll 13.4189 | loss_neg_ll -13.4189
+19:17:07 | ssl[vssl/vit_small] | INFO | ep 024/100 it 100/175 | lr 9.10e-04 | loss -23.5563 | loss_kl -10.1373 | loss_ll 13.4190 | loss_neg_ll -13.4190
+19:17:12 | ssl[vssl/vit_small] | INFO | ep 024/100 it 150/175 | lr 9.07e-04 | loss -23.5581 | loss_kl -10.1379 | loss_ll 13.4203 | loss_neg_ll -13.4203
+19:17:14 | ssl[vssl/vit_small] | INFO | epoch 024 done in 00:00:19 | loss -23.5603
+19:17:22 | ssl[vssl/vit_small] | INFO | ep 025/100 it 50/175 | lr 9.03e-04 | loss -23.5680 | loss_kl -10.1385 | loss_ll 13.4295 | loss_neg_ll -13.4295
+19:17:27 | ssl[vssl/vit_small] | INFO | ep 025/100 it 100/175 | lr 9.00e-04 | loss -23.5729 | loss_kl -10.1394 | loss_ll 13.4335 | loss_neg_ll -13.4335
+19:17:32 | ssl[vssl/vit_small] | INFO | ep 025/100 it 150/175 | lr 8.97e-04 | loss -23.5757 | loss_kl -10.1409 | loss_ll 13.4348 | loss_neg_ll -13.4348
+19:17:35 | ssl[vssl/vit_small] | INFO | epoch 025 done in 00:00:20 | loss -23.5777
+19:17:42 | ssl[vssl/vit_small] | INFO | ep 026/100 it 50/175 | lr 8.93e-04 | loss -23.5805 | loss_kl -10.1436 | loss_ll 13.4369 | loss_neg_ll -13.4369
+19:17:47 | ssl[vssl/vit_small] | INFO | ep 026/100 it 100/175 | lr 8.90e-04 | loss -23.5797 | loss_kl -10.1420 | loss_ll 13.4378 | loss_neg_ll -13.4378
+19:17:52 | ssl[vssl/vit_small] | INFO | ep 026/100 it 150/175 | lr 8.87e-04 | loss -23.5819 | loss_kl -10.1413 | loss_ll 13.4406 | loss_neg_ll -13.4406
+19:17:55 | ssl[vssl/vit_small] | INFO | epoch 026 done in 00:00:20 | loss -23.5812
+19:18:03 | ssl[vssl/vit_small] | INFO | ep 027/100 it 50/175 | lr 8.82e-04 | loss -23.5801 | loss_kl -10.1391 | loss_ll 13.4410 | loss_neg_ll -13.4410
+19:18:08 | ssl[vssl/vit_small] | INFO | ep 027/100 it 100/175 | lr 8.79e-04 | loss -23.5831 | loss_kl -10.1406 | loss_ll 13.4426 | loss_neg_ll -13.4426
+19:18:13 | ssl[vssl/vit_small] | INFO | ep 027/100 it 150/175 | lr 8.76e-04 | loss -23.5832 | loss_kl -10.1410 | loss_ll 13.4421 | loss_neg_ll -13.4421
+19:18:15 | ssl[vssl/vit_small] | INFO | epoch 027 done in 00:00:20 | loss -23.5802
+19:18:23 | ssl[vssl/vit_small] | INFO | ep 028/100 it 50/175 | lr 8.72e-04 | loss -23.5865 | loss_kl -10.1418 | loss_ll 13.4447 | loss_neg_ll -13.4447
+19:18:28 | ssl[vssl/vit_small] | INFO | ep 028/100 it 100/175 | lr 8.68e-04 | loss -23.5868 | loss_kl -10.1419 | loss_ll 13.4449 | loss_neg_ll -13.4449
+19:18:33 | ssl[vssl/vit_small] | INFO | ep 028/100 it 150/175 | lr 8.65e-04 | loss -23.5865 | loss_kl -10.1416 | loss_ll 13.4449 | loss_neg_ll -13.4449
+19:18:36 | ssl[vssl/vit_small] | INFO | epoch 028 done in 00:00:20 | loss -23.5852
+19:18:43 | ssl[vssl/vit_small] | INFO | ep 029/100 it 50/175 | lr 8.60e-04 | loss -23.5845 | loss_kl -10.1436 | loss_ll 13.4410 | loss_neg_ll -13.4410
+19:18:48 | ssl[vssl/vit_small] | INFO | ep 029/100 it 100/175 | lr 8.57e-04 | loss -23.5819 | loss_kl -10.1424 | loss_ll 13.4395 | loss_neg_ll -13.4395
+19:18:54 | ssl[vssl/vit_small] | INFO | ep 029/100 it 150/175 | lr 8.54e-04 | loss -23.5862 | loss_kl -10.1427 | loss_ll 13.4436 | loss_neg_ll -13.4436
+19:18:56 | ssl[vssl/vit_small] | INFO | epoch 029 done in 00:00:20 | loss -23.5876
+19:19:03 | ssl[vssl/vit_small] | INFO | ep 030/100 it 50/175 | lr 8.49e-04 | loss -23.5975 | loss_kl -10.1432 | loss_ll 13.4543 | loss_neg_ll -13.4543
+19:19:09 | ssl[vssl/vit_small] | INFO | ep 030/100 it 100/175 | lr 8.45e-04 | loss -23.5950 | loss_kl -10.1420 | loss_ll 13.4530 | loss_neg_ll -13.4530
+19:19:14 | ssl[vssl/vit_small] | INFO | ep 030/100 it 150/175 | lr 8.42e-04 | loss -23.5933 | loss_kl -10.1419 | loss_ll 13.4514 | loss_neg_ll -13.4514
+19:19:16 | ssl[vssl/vit_small] | INFO | epoch 030 done in 00:00:20 | loss -23.5921
+19:19:24 | ssl[vssl/vit_small] | INFO | ep 031/100 it 50/175 | lr 8.37e-04 | loss -23.6000 | loss_kl -10.1415 | loss_ll 13.4584 | loss_neg_ll -13.4584
+19:19:29 | ssl[vssl/vit_small] | INFO | ep 031/100 it 100/175 | lr 8.33e-04 | loss -23.5956 | loss_kl -10.1399 | loss_ll 13.4557 | loss_neg_ll -13.4557
+19:19:34 | ssl[vssl/vit_small] | INFO | ep 031/100 it 150/175 | lr 8.30e-04 | loss -23.5976 | loss_kl -10.1404 | loss_ll 13.4573 | loss_neg_ll -13.4573
+19:19:37 | ssl[vssl/vit_small] | INFO | epoch 031 done in 00:00:20 | loss -23.5986
+19:19:44 | ssl[vssl/vit_small] | INFO | ep 032/100 it 50/175 | lr 8.25e-04 | loss -23.6193 | loss_kl -10.1444 | loss_ll 13.4749 | loss_neg_ll -13.4749
+19:19:49 | ssl[vssl/vit_small] | INFO | ep 032/100 it 100/175 | lr 8.21e-04 | loss -23.6143 | loss_kl -10.1424 | loss_ll 13.4719 | loss_neg_ll -13.4719
+19:19:55 | ssl[vssl/vit_small] | INFO | ep 032/100 it 150/175 | lr 8.17e-04 | loss -23.6131 | loss_kl -10.1423 | loss_ll 13.4708 | loss_neg_ll -13.4708
+19:19:57 | ssl[vssl/vit_small] | INFO | epoch 032 done in 00:00:20 | loss -23.6121
+19:20:05 | ssl[vssl/vit_small] | INFO | ep 033/100 it 50/175 | lr 8.12e-04 | loss -23.6224 | loss_kl -10.1421 | loss_ll 13.4804 | loss_neg_ll -13.4804
+19:20:10 | ssl[vssl/vit_small] | INFO | ep 033/100 it 100/175 | lr 8.08e-04 | loss -23.6230 | loss_kl -10.1416 | loss_ll 13.4813 | loss_neg_ll -13.4813
+19:20:15 | ssl[vssl/vit_small] | INFO | ep 033/100 it 150/175 | lr 8.04e-04 | loss -23.6259 | loss_kl -10.1431 | loss_ll 13.4828 | loss_neg_ll -13.4828
+19:20:17 | ssl[vssl/vit_small] | INFO | epoch 033 done in 00:00:20 | loss -23.6267
+19:20:25 | ssl[vssl/vit_small] | INFO | ep 034/100 it 50/175 | lr 7.99e-04 | loss -23.6367 | loss_kl -10.1454 | loss_ll 13.4913 | loss_neg_ll -13.4913
+19:20:30 | ssl[vssl/vit_small] | INFO | ep 034/100 it 100/175 | lr 7.95e-04 | loss -23.6410 | loss_kl -10.1453 | loss_ll 13.4957 | loss_neg_ll -13.4957
+19:20:35 | ssl[vssl/vit_small] | INFO | ep 034/100 it 150/175 | lr 7.91e-04 | loss -23.6399 | loss_kl -10.1444 | loss_ll 13.4954 | loss_neg_ll -13.4954
+19:20:38 | ssl[vssl/vit_small] | INFO | epoch 034 done in 00:00:20 | loss -23.6412
+19:20:45 | ssl[vssl/vit_small] | INFO | ep 035/100 it 50/175 | lr 7.86e-04 | loss -23.6409 | loss_kl -10.1415 | loss_ll 13.4993 | loss_neg_ll -13.4993
+19:20:50 | ssl[vssl/vit_small] | INFO | ep 035/100 it 100/175 | lr 7.82e-04 | loss -23.6393 | loss_kl -10.1423 | loss_ll 13.4970 | loss_neg_ll -13.4970
+19:20:55 | ssl[vssl/vit_small] | INFO | ep 035/100 it 150/175 | lr 7.78e-04 | loss -23.6395 | loss_kl -10.1426 | loss_ll 13.4969 | loss_neg_ll -13.4969
+19:20:58 | ssl[vssl/vit_small] | INFO | epoch 035 done in 00:00:20 | loss -23.6406
+19:21:05 | ssl[vssl/vit_small] | INFO | ep 036/100 it 50/175 | lr 7.72e-04 | loss -23.6524 | loss_kl -10.1455 | loss_ll 13.5069 | loss_neg_ll -13.5069
+19:21:10 | ssl[vssl/vit_small] | INFO | ep 036/100 it 100/175 | lr 7.68e-04 | loss -23.6476 | loss_kl -10.1439 | loss_ll 13.5037 | loss_neg_ll -13.5037
+19:21:16 | ssl[vssl/vit_small] | INFO | ep 036/100 it 150/175 | lr 7.64e-04 | loss -23.6365 | loss_kl -10.1409 | loss_ll 13.4956 | loss_neg_ll -13.4956
+19:21:18 | ssl[vssl/vit_small] | INFO | epoch 036 done in 00:00:20 | loss -23.6363
+19:21:25 | ssl[vssl/vit_small] | INFO | ep 037/100 it 50/175 | lr 7.58e-04 | loss -23.6408 | loss_kl -10.1417 | loss_ll 13.4992 | loss_neg_ll -13.4992
+19:21:31 | ssl[vssl/vit_small] | INFO | ep 037/100 it 100/175 | lr 7.54e-04 | loss -23.6420 | loss_kl -10.1429 | loss_ll 13.4991 | loss_neg_ll -13.4991
+19:21:36 | ssl[vssl/vit_small] | INFO | ep 037/100 it 150/175 | lr 7.50e-04 | loss -23.6394 | loss_kl -10.1421 | loss_ll 13.4973 | loss_neg_ll -13.4973
+19:21:38 | ssl[vssl/vit_small] | INFO | epoch 037 done in 00:00:20 | loss -23.6394
+19:21:46 | ssl[vssl/vit_small] | INFO | ep 038/100 it 50/175 | lr 7.44e-04 | loss -23.6329 | loss_kl -10.1420 | loss_ll 13.4909 | loss_neg_ll -13.4909
+19:21:51 | ssl[vssl/vit_small] | INFO | ep 038/100 it 100/175 | lr 7.40e-04 | loss -23.6397 | loss_kl -10.1449 | loss_ll 13.4948 | loss_neg_ll -13.4948
+19:21:56 | ssl[vssl/vit_small] | INFO | ep 038/100 it 150/175 | lr 7.36e-04 | loss -23.6399 | loss_kl -10.1446 | loss_ll 13.4953 | loss_neg_ll -13.4953
+19:21:59 | ssl[vssl/vit_small] | INFO | epoch 038 done in 00:00:20 | loss -23.6394
+19:22:06 | ssl[vssl/vit_small] | INFO | ep 039/100 it 50/175 | lr 7.29e-04 | loss -23.6377 | loss_kl -10.1458 | loss_ll 13.4918 | loss_neg_ll -13.4918
+19:22:11 | ssl[vssl/vit_small] | INFO | ep 039/100 it 100/175 | lr 7.25e-04 | loss -23.6400 | loss_kl -10.1460 | loss_ll 13.4940 | loss_neg_ll -13.4940
+19:22:16 | ssl[vssl/vit_small] | INFO | ep 039/100 it 150/175 | lr 7.21e-04 | loss -23.6401 | loss_kl -10.1471 | loss_ll 13.4930 | loss_neg_ll -13.4930
+19:22:19 | ssl[vssl/vit_small] | INFO | epoch 039 done in 00:00:20 | loss -23.6395
+19:22:26 | ssl[vssl/vit_small] | INFO | ep 040/100 it 50/175 | lr 7.15e-04 | loss -23.6402 | loss_kl -10.1493 | loss_ll 13.4909 | loss_neg_ll -13.4909
+19:22:31 | ssl[vssl/vit_small] | INFO | ep 040/100 it 100/175 | lr 7.10e-04 | loss -23.6370 | loss_kl -10.1487 | loss_ll 13.4883 | loss_neg_ll -13.4883
+19:22:37 | ssl[vssl/vit_small] | INFO | ep 040/100 it 150/175 | lr 7.06e-04 | loss -23.6347 | loss_kl -10.1487 | loss_ll 13.4859 | loss_neg_ll -13.4859
+19:22:39 | ssl[vssl/vit_small] | INFO | epoch 040 done in 00:00:20 | loss -23.6346
+19:22:46 | ssl[vssl/vit_small] | INFO | ep 041/100 it 50/175 | lr 7.00e-04 | loss -23.6281 | loss_kl -10.1500 | loss_ll 13.4781 | loss_neg_ll -13.4781
+19:22:52 | ssl[vssl/vit_small] | INFO | ep 041/100 it 100/175 | lr 6.95e-04 | loss -23.6303 | loss_kl -10.1499 | loss_ll 13.4804 | loss_neg_ll -13.4804
+19:22:57 | ssl[vssl/vit_small] | INFO | ep 041/100 it 150/175 | lr 6.91e-04 | loss -23.6275 | loss_kl -10.1489 | loss_ll 13.4785 | loss_neg_ll -13.4785
+19:22:59 | ssl[vssl/vit_small] | INFO | epoch 041 done in 00:00:20 | loss -23.6283
+19:23:07 | ssl[vssl/vit_small] | INFO | ep 042/100 it 50/175 | lr 6.84e-04 | loss -23.6194 | loss_kl -10.1488 | loss_ll 13.4706 | loss_neg_ll -13.4706
+19:23:12 | ssl[vssl/vit_small] | INFO | ep 042/100 it 100/175 | lr 6.80e-04 | loss -23.6163 | loss_kl -10.1481 | loss_ll 13.4682 | loss_neg_ll -13.4682
+19:23:17 | ssl[vssl/vit_small] | INFO | ep 042/100 it 150/175 | lr 6.76e-04 | loss -23.6168 | loss_kl -10.1488 | loss_ll 13.4680 | loss_neg_ll -13.4680
+19:23:19 | ssl[vssl/vit_small] | INFO | epoch 042 done in 00:00:20 | loss -23.6163
+19:23:27 | ssl[vssl/vit_small] | INFO | ep 043/100 it 50/175 | lr 6.69e-04 | loss -23.6150 | loss_kl -10.1500 | loss_ll 13.4650 | loss_neg_ll -13.4650
+19:23:32 | ssl[vssl/vit_small] | INFO | ep 043/100 it 100/175 | lr 6.65e-04 | loss -23.6147 | loss_kl -10.1500 | loss_ll 13.4647 | loss_neg_ll -13.4647
+19:23:37 | ssl[vssl/vit_small] | INFO | ep 043/100 it 150/175 | lr 6.60e-04 | loss -23.6146 | loss_kl -10.1509 | loss_ll 13.4636 | loss_neg_ll -13.4636
+19:23:40 | ssl[vssl/vit_small] | INFO | epoch 043 done in 00:00:20 | loss -23.6146
+19:23:47 | ssl[vssl/vit_small] | INFO | ep 044/100 it 50/175 | lr 6.54e-04 | loss -23.6236 | loss_kl -10.1545 | loss_ll 13.4692 | loss_neg_ll -13.4692
+19:23:53 | ssl[vssl/vit_small] | INFO | ep 044/100 it 100/175 | lr 6.49e-04 | loss -23.6170 | loss_kl -10.1517 | loss_ll 13.4653 | loss_neg_ll -13.4653
+19:23:58 | ssl[vssl/vit_small] | INFO | ep 044/100 it 150/175 | lr 6.45e-04 | loss -23.6141 | loss_kl -10.1509 | loss_ll 13.4632 | loss_neg_ll -13.4632
+19:24:00 | ssl[vssl/vit_small] | INFO | epoch 044 done in 00:00:20 | loss -23.6145
+19:24:08 | ssl[vssl/vit_small] | INFO | ep 045/100 it 50/175 | lr 6.38e-04 | loss -23.6070 | loss_kl -10.1518 | loss_ll 13.4552 | loss_neg_ll -13.4552
+19:24:13 | ssl[vssl/vit_small] | INFO | ep 045/100 it 100/175 | lr 6.33e-04 | loss -23.6077 | loss_kl -10.1515 | loss_ll 13.4562 | loss_neg_ll -13.4562
+19:24:18 | ssl[vssl/vit_small] | INFO | ep 045/100 it 150/175 | lr 6.29e-04 | loss -23.6085 | loss_kl -10.1502 | loss_ll 13.4583 | loss_neg_ll -13.4583
+19:24:21 | ssl[vssl/vit_small] | INFO | epoch 045 done in 00:00:20 | loss -23.6110
+19:24:28 | ssl[vssl/vit_small] | INFO | ep 046/100 it 50/175 | lr 6.22e-04 | loss -23.6154 | loss_kl -10.1477 | loss_ll 13.4677 | loss_neg_ll -13.4677
+19:24:34 | ssl[vssl/vit_small] | INFO | ep 046/100 it 100/175 | lr 6.18e-04 | loss -23.6225 | loss_kl -10.1504 | loss_ll 13.4721 | loss_neg_ll -13.4721
+19:24:39 | ssl[vssl/vit_small] | INFO | ep 046/100 it 150/175 | lr 6.13e-04 | loss -23.6263 | loss_kl -10.1517 | loss_ll 13.4746 | loss_neg_ll -13.4746
+19:24:41 | ssl[vssl/vit_small] | INFO | epoch 046 done in 00:00:20 | loss -23.6271
+19:24:49 | ssl[vssl/vit_small] | INFO | ep 047/100 it 50/175 | lr 6.06e-04 | loss -23.6381 | loss_kl -10.1556 | loss_ll 13.4824 | loss_neg_ll -13.4824
+19:24:54 | ssl[vssl/vit_small] | INFO | ep 047/100 it 100/175 | lr 6.02e-04 | loss -23.6376 | loss_kl -10.1539 | loss_ll 13.4837 | loss_neg_ll -13.4837
+19:24:59 | ssl[vssl/vit_small] | INFO | ep 047/100 it 150/175 | lr 5.97e-04 | loss -23.6393 | loss_kl -10.1538 | loss_ll 13.4855 | loss_neg_ll -13.4855
+19:25:02 | ssl[vssl/vit_small] | INFO | epoch 047 done in 00:00:20 | loss -23.6393
+19:25:09 | ssl[vssl/vit_small] | INFO | ep 048/100 it 50/175 | lr 5.90e-04 | loss -23.6481 | loss_kl -10.1556 | loss_ll 13.4924 | loss_neg_ll -13.4924
+19:25:14 | ssl[vssl/vit_small] | INFO | ep 048/100 it 100/175 | lr 5.85e-04 | loss -23.6519 | loss_kl -10.1569 | loss_ll 13.4950 | loss_neg_ll -13.4950
+19:25:20 | ssl[vssl/vit_small] | INFO | ep 048/100 it 150/175 | lr 5.81e-04 | loss -23.6532 | loss_kl -10.1572 | loss_ll 13.4961 | loss_neg_ll -13.4961
+19:25:22 | ssl[vssl/vit_small] | INFO | epoch 048 done in 00:00:20 | loss -23.6528
+19:25:30 | ssl[vssl/vit_small] | INFO | ep 049/100 it 50/175 | lr 5.74e-04 | loss -23.6419 | loss_kl -10.1516 | loss_ll 13.4903 | loss_neg_ll -13.4903
+19:25:35 | ssl[vssl/vit_small] | INFO | ep 049/100 it 100/175 | lr 5.69e-04 | loss -23.6469 | loss_kl -10.1530 | loss_ll 13.4940 | loss_neg_ll -13.4940
+19:25:40 | ssl[vssl/vit_small] | INFO | ep 049/100 it 150/175 | lr 5.65e-04 | loss -23.6509 | loss_kl -10.1542 | loss_ll 13.4967 | loss_neg_ll -13.4967
+19:25:43 | ssl[vssl/vit_small] | INFO | epoch 049 done in 00:00:20 | loss -23.6520
+19:25:50 | ssl[vssl/vit_small] | INFO | ep 050/100 it 50/175 | lr 5.58e-04 | loss -23.6659 | loss_kl -10.1565 | loss_ll 13.5094 | loss_neg_ll -13.5094
+19:25:55 | ssl[vssl/vit_small] | INFO | ep 050/100 it 100/175 | lr 5.53e-04 | loss -23.6667 | loss_kl -10.1565 | loss_ll 13.5103 | loss_neg_ll -13.5103
+19:26:00 | ssl[vssl/vit_small] | INFO | ep 050/100 it 150/175 | lr 5.48e-04 | loss -23.6652 | loss_kl -10.1558 | loss_ll 13.5094 | loss_neg_ll -13.5094
+19:26:03 | ssl[vssl/vit_small] | INFO | epoch 050 done in 00:00:20 | loss -23.6659
+19:26:10 | ssl[vssl/vit_small] | INFO | ep 051/100 it 50/175 | lr 5.41e-04 | loss -23.6711 | loss_kl -10.1576 | loss_ll 13.5134 | loss_neg_ll -13.5134
+19:26:16 | ssl[vssl/vit_small] | INFO | ep 051/100 it 100/175 | lr 5.37e-04 | loss -23.6693 | loss_kl -10.1570 | loss_ll 13.5123 | loss_neg_ll -13.5123
+19:26:21 | ssl[vssl/vit_small] | INFO | ep 051/100 it 150/175 | lr 5.32e-04 | loss -23.6667 | loss_kl -10.1556 | loss_ll 13.5111 | loss_neg_ll -13.5111
+19:26:23 | ssl[vssl/vit_small] | INFO | epoch 051 done in 00:00:20 | loss -23.6670
+19:26:31 | ssl[vssl/vit_small] | INFO | ep 052/100 it 50/175 | lr 5.25e-04 | loss -23.6751 | loss_kl -10.1582 | loss_ll 13.5169 | loss_neg_ll -13.5169
+19:26:36 | ssl[vssl/vit_small] | INFO | ep 052/100 it 100/175 | lr 5.20e-04 | loss -23.6688 | loss_kl -10.1554 | loss_ll 13.5134 | loss_neg_ll -13.5134
+19:26:41 | ssl[vssl/vit_small] | INFO | ep 052/100 it 150/175 | lr 5.16e-04 | loss -23.6716 | loss_kl -10.1562 | loss_ll 13.5154 | loss_neg_ll -13.5154
+19:26:44 | ssl[vssl/vit_small] | INFO | epoch 052 done in 00:00:20 | loss -23.6726
+19:26:51 | ssl[vssl/vit_small] | INFO | ep 053/100 it 50/175 | lr 5.09e-04 | loss -23.6759 | loss_kl -10.1584 | loss_ll 13.5175 | loss_neg_ll -13.5175
+19:26:56 | ssl[vssl/vit_small] | INFO | ep 053/100 it 100/175 | lr 5.04e-04 | loss -23.6750 | loss_kl -10.1581 | loss_ll 13.5169 | loss_neg_ll -13.5169
+19:27:02 | ssl[vssl/vit_small] | INFO | ep 053/100 it 150/175 | lr 4.99e-04 | loss -23.6763 | loss_kl -10.1591 | loss_ll 13.5173 | loss_neg_ll -13.5173
+19:27:04 | ssl[vssl/vit_small] | INFO | epoch 053 done in 00:00:20 | loss -23.6768
+19:27:12 | ssl[vssl/vit_small] | INFO | ep 054/100 it 50/175 | lr 4.92e-04 | loss -23.6660 | loss_kl -10.1570 | loss_ll 13.5090 | loss_neg_ll -13.5090
+19:27:17 | ssl[vssl/vit_small] | INFO | ep 054/100 it 100/175 | lr 4.88e-04 | loss -23.6703 | loss_kl -10.1581 | loss_ll 13.5122 | loss_neg_ll -13.5122
+19:27:22 | ssl[vssl/vit_small] | INFO | ep 054/100 it 150/175 | lr 4.83e-04 | loss -23.6705 | loss_kl -10.1592 | loss_ll 13.5113 | loss_neg_ll -13.5113
+19:27:24 | ssl[vssl/vit_small] | INFO | epoch 054 done in 00:00:20 | loss -23.6707
+19:27:32 | ssl[vssl/vit_small] | INFO | ep 055/100 it 50/175 | lr 4.76e-04 | loss -23.6551 | loss_kl -10.1563 | loss_ll 13.4989 | loss_neg_ll -13.4989
+19:27:37 | ssl[vssl/vit_small] | INFO | ep 055/100 it 100/175 | lr 4.71e-04 | loss -23.6600 | loss_kl -10.1570 | loss_ll 13.5030 | loss_neg_ll -13.5030
+19:27:42 | ssl[vssl/vit_small] | INFO | ep 055/100 it 150/175 | lr 4.67e-04 | loss -23.6626 | loss_kl -10.1580 | loss_ll 13.5047 | loss_neg_ll -13.5047
+19:27:45 | ssl[vssl/vit_small] | INFO | epoch 055 done in 00:00:20 | loss -23.6622
+19:27:52 | ssl[vssl/vit_small] | INFO | ep 056/100 it 50/175 | lr 4.60e-04 | loss -23.6691 | loss_kl -10.1618 | loss_ll 13.5073 | loss_neg_ll -13.5073
+19:27:58 | ssl[vssl/vit_small] | INFO | ep 056/100 it 100/175 | lr 4.55e-04 | loss -23.6646 | loss_kl -10.1610 | loss_ll 13.5036 | loss_neg_ll -13.5036
+19:28:03 | ssl[vssl/vit_small] | INFO | ep 056/100 it 150/175 | lr 4.50e-04 | loss -23.6623 | loss_kl -10.1602 | loss_ll 13.5021 | loss_neg_ll -13.5021
+19:28:05 | ssl[vssl/vit_small] | INFO | epoch 056 done in 00:00:20 | loss -23.6627
+19:28:13 | ssl[vssl/vit_small] | INFO | ep 057/100 it 50/175 | lr 4.43e-04 | loss -23.6577 | loss_kl -10.1577 | loss_ll 13.5000 | loss_neg_ll -13.5000
+19:28:18 | ssl[vssl/vit_small] | INFO | ep 057/100 it 100/175 | lr 4.39e-04 | loss -23.6590 | loss_kl -10.1586 | loss_ll 13.5005 | loss_neg_ll -13.5005
+19:28:23 | ssl[vssl/vit_small] | INFO | ep 057/100 it 150/175 | lr 4.34e-04 | loss -23.6609 | loss_kl -10.1593 | loss_ll 13.5016 | loss_neg_ll -13.5016
+19:28:26 | ssl[vssl/vit_small] | INFO | epoch 057 done in 00:00:20 | loss -23.6627
+19:28:33 | ssl[vssl/vit_small] | INFO | ep 058/100 it 50/175 | lr 4.27e-04 | loss -23.6633 | loss_kl -10.1601 | loss_ll 13.5033 | loss_neg_ll -13.5033
+19:28:38 | ssl[vssl/vit_small] | INFO | ep 058/100 it 100/175 | lr 4.22e-04 | loss -23.6615 | loss_kl -10.1584 | loss_ll 13.5031 | loss_neg_ll -13.5031
+19:28:43 | ssl[vssl/vit_small] | INFO | ep 058/100 it 150/175 | lr 4.18e-04 | loss -23.6634 | loss_kl -10.1590 | loss_ll 13.5044 | loss_neg_ll -13.5044
+19:28:46 | ssl[vssl/vit_small] | INFO | epoch 058 done in 00:00:20 | loss -23.6637
+19:28:54 | ssl[vssl/vit_small] | INFO | ep 059/100 it 50/175 | lr 4.11e-04 | loss -23.6748 | loss_kl -10.1628 | loss_ll 13.5119 | loss_neg_ll -13.5119
+19:28:59 | ssl[vssl/vit_small] | INFO | ep 059/100 it 100/175 | lr 4.06e-04 | loss -23.6741 | loss_kl -10.1618 | loss_ll 13.5122 | loss_neg_ll -13.5122
+19:29:04 | ssl[vssl/vit_small] | INFO | ep 059/100 it 150/175 | lr 4.02e-04 | loss -23.6763 | loss_kl -10.1620 | loss_ll 13.5143 | loss_neg_ll -13.5143
+19:29:07 | ssl[vssl/vit_small] | INFO | epoch 059 done in 00:00:20 | loss -23.6781
+19:29:14 | ssl[vssl/vit_small] | INFO | ep 060/100 it 50/175 | lr 3.95e-04 | loss -23.6893 | loss_kl -10.1647 | loss_ll 13.5246 | loss_neg_ll -13.5246
+19:29:19 | ssl[vssl/vit_small] | INFO | ep 060/100 it 100/175 | lr 3.90e-04 | loss -23.6847 | loss_kl -10.1630 | loss_ll 13.5216 | loss_neg_ll -13.5216
+19:29:24 | ssl[vssl/vit_small] | INFO | ep 060/100 it 150/175 | lr 3.86e-04 | loss -23.6816 | loss_kl -10.1620 | loss_ll 13.5197 | loss_neg_ll -13.5197
+19:29:27 | ssl[vssl/vit_small] | INFO | epoch 060 done in 00:00:20 | loss -23.6812
+19:29:35 | ssl[vssl/vit_small] | INFO | ep 061/100 it 50/175 | lr 3.79e-04 | loss -23.6893 | loss_kl -10.1634 | loss_ll 13.5259 | loss_neg_ll -13.5259
+19:29:40 | ssl[vssl/vit_small] | INFO | ep 061/100 it 100/175 | lr 3.75e-04 | loss -23.6826 | loss_kl -10.1626 | loss_ll 13.5200 | loss_neg_ll -13.5200
+19:29:45 | ssl[vssl/vit_small] | INFO | ep 061/100 it 150/175 | lr 3.70e-04 | loss -23.6841 | loss_kl -10.1628 | loss_ll 13.5213 | loss_neg_ll -13.5213
+19:29:47 | ssl[vssl/vit_small] | INFO | epoch 061 done in 00:00:20 | loss -23.6844
+19:29:55 | ssl[vssl/vit_small] | INFO | ep 062/100 it 50/175 | lr 3.63e-04 | loss -23.6884 | loss_kl -10.1644 | loss_ll 13.5240 | loss_neg_ll -13.5240
+19:30:00 | ssl[vssl/vit_small] | INFO | ep 062/100 it 100/175 | lr 3.59e-04 | loss -23.6905 | loss_kl -10.1647 | loss_ll 13.5257 | loss_neg_ll -13.5257
+19:30:05 | ssl[vssl/vit_small] | INFO | ep 062/100 it 150/175 | lr 3.54e-04 | loss -23.6903 | loss_kl -10.1643 | loss_ll 13.5260 | loss_neg_ll -13.5260
+19:30:08 | ssl[vssl/vit_small] | INFO | epoch 062 done in 00:00:20 | loss -23.6902
+19:30:16 | ssl[vssl/vit_small] | INFO | ep 063/100 it 50/175 | lr 3.48e-04 | loss -23.6846 | loss_kl -10.1640 | loss_ll 13.5207 | loss_neg_ll -13.5207
+19:30:21 | ssl[vssl/vit_small] | INFO | ep 063/100 it 100/175 | lr 3.43e-04 | loss -23.6794 | loss_kl -10.1614 | loss_ll 13.5180 | loss_neg_ll -13.5180
+19:30:26 | ssl[vssl/vit_small] | INFO | ep 063/100 it 150/175 | lr 3.39e-04 | loss -23.6825 | loss_kl -10.1610 | loss_ll 13.5215 | loss_neg_ll -13.5215
+19:30:28 | ssl[vssl/vit_small] | INFO | epoch 063 done in 00:00:20 | loss -23.6841
+19:30:36 | ssl[vssl/vit_small] | INFO | ep 064/100 it 50/175 | lr 3.32e-04 | loss -23.6866 | loss_kl -10.1630 | loss_ll 13.5236 | loss_neg_ll -13.5236
+19:30:41 | ssl[vssl/vit_small] | INFO | ep 064/100 it 100/175 | lr 3.28e-04 | loss -23.6827 | loss_kl -10.1615 | loss_ll 13.5213 | loss_neg_ll -13.5213
+19:30:46 | ssl[vssl/vit_small] | INFO | ep 064/100 it 150/175 | lr 3.24e-04 | loss -23.6845 | loss_kl -10.1624 | loss_ll 13.5221 | loss_neg_ll -13.5221
+19:30:49 | ssl[vssl/vit_small] | INFO | epoch 064 done in 00:00:20 | loss -23.6856
+19:30:56 | ssl[vssl/vit_small] | INFO | ep 065/100 it 50/175 | lr 3.17e-04 | loss -23.6842 | loss_kl -10.1629 | loss_ll 13.5214 | loss_neg_ll -13.5214
+19:31:01 | ssl[vssl/vit_small] | INFO | ep 065/100 it 100/175 | lr 3.13e-04 | loss -23.6831 | loss_kl -10.1613 | loss_ll 13.5218 | loss_neg_ll -13.5218
+19:31:07 | ssl[vssl/vit_small] | INFO | ep 065/100 it 150/175 | lr 3.08e-04 | loss -23.6832 | loss_kl -10.1614 | loss_ll 13.5218 | loss_neg_ll -13.5218
+19:31:09 | ssl[vssl/vit_small] | INFO | epoch 065 done in 00:00:20 | loss -23.6842
+19:31:17 | ssl[vssl/vit_small] | INFO | ep 066/100 it 50/175 | lr 3.02e-04 | loss -23.6905 | loss_kl -10.1641 | loss_ll 13.5263 | loss_neg_ll -13.5263
+19:31:22 | ssl[vssl/vit_small] | INFO | ep 066/100 it 100/175 | lr 2.98e-04 | loss -23.6951 | loss_kl -10.1647 | loss_ll 13.5303 | loss_neg_ll -13.5303
+19:31:27 | ssl[vssl/vit_small] | INFO | ep 066/100 it 150/175 | lr 2.93e-04 | loss -23.6936 | loss_kl -10.1639 | loss_ll 13.5297 | loss_neg_ll -13.5297
+19:31:30 | ssl[vssl/vit_small] | INFO | epoch 066 done in 00:00:20 | loss -23.6936
+19:31:37 | ssl[vssl/vit_small] | INFO | ep 067/100 it 50/175 | lr 2.87e-04 | loss -23.6902 | loss_kl -10.1642 | loss_ll 13.5260 | loss_neg_ll -13.5260
+19:31:42 | ssl[vssl/vit_small] | INFO | ep 067/100 it 100/175 | lr 2.83e-04 | loss -23.6896 | loss_kl -10.1637 | loss_ll 13.5259 | loss_neg_ll -13.5259
+19:31:48 | ssl[vssl/vit_small] | INFO | ep 067/100 it 150/175 | lr 2.79e-04 | loss -23.6922 | loss_kl -10.1639 | loss_ll 13.5283 | loss_neg_ll -13.5283
+19:31:50 | ssl[vssl/vit_small] | INFO | epoch 067 done in 00:00:20 | loss -23.6918
+19:31:58 | ssl[vssl/vit_small] | INFO | ep 068/100 it 50/175 | lr 2.73e-04 | loss -23.6931 | loss_kl -10.1646 | loss_ll 13.5285 | loss_neg_ll -13.5285
+19:32:03 | ssl[vssl/vit_small] | INFO | ep 068/100 it 100/175 | lr 2.68e-04 | loss -23.6917 | loss_kl -10.1644 | loss_ll 13.5273 | loss_neg_ll -13.5273
+19:32:08 | ssl[vssl/vit_small] | INFO | ep 068/100 it 150/175 | lr 2.64e-04 | loss -23.6899 | loss_kl -10.1639 | loss_ll 13.5260 | loss_neg_ll -13.5260
+19:32:10 | ssl[vssl/vit_small] | INFO | epoch 068 done in 00:00:20 | loss -23.6894
+19:32:18 | ssl[vssl/vit_small] | INFO | ep 069/100 it 50/175 | lr 2.58e-04 | loss -23.6898 | loss_kl -10.1630 | loss_ll 13.5268 | loss_neg_ll -13.5268
+19:32:23 | ssl[vssl/vit_small] | INFO | ep 069/100 it 100/175 | lr 2.54e-04 | loss -23.6916 | loss_kl -10.1647 | loss_ll 13.5269 | loss_neg_ll -13.5269
+19:32:28 | ssl[vssl/vit_small] | INFO | ep 069/100 it 150/175 | lr 2.50e-04 | loss -23.6932 | loss_kl -10.1652 | loss_ll 13.5280 | loss_neg_ll -13.5280
+19:32:31 | ssl[vssl/vit_small] | INFO | epoch 069 done in 00:00:20 | loss -23.6933
+19:32:38 | ssl[vssl/vit_small] | INFO | ep 070/100 it 50/175 | lr 2.44e-04 | loss -23.6947 | loss_kl -10.1659 | loss_ll 13.5288 | loss_neg_ll -13.5288
+19:32:43 | ssl[vssl/vit_small] | INFO | ep 070/100 it 100/175 | lr 2.40e-04 | loss -23.6949 | loss_kl -10.1663 | loss_ll 13.5286 | loss_neg_ll -13.5286
+19:32:49 | ssl[vssl/vit_small] | INFO | ep 070/100 it 150/175 | lr 2.36e-04 | loss -23.6945 | loss_kl -10.1659 | loss_ll 13.5286 | loss_neg_ll -13.5286
+19:32:51 | ssl[vssl/vit_small] | INFO | epoch 070 done in 00:00:20 | loss -23.6964
+19:32:59 | ssl[vssl/vit_small] | INFO | ep 071/100 it 50/175 | lr 2.30e-04 | loss -23.7016 | loss_kl -10.1676 | loss_ll 13.5340 | loss_neg_ll -13.5340
+19:33:04 | ssl[vssl/vit_small] | INFO | ep 071/100 it 100/175 | lr 2.27e-04 | loss -23.7058 | loss_kl -10.1687 | loss_ll 13.5371 | loss_neg_ll -13.5371
+19:33:09 | ssl[vssl/vit_small] | INFO | ep 071/100 it 150/175 | lr 2.23e-04 | loss -23.7035 | loss_kl -10.1676 | loss_ll 13.5359 | loss_neg_ll -13.5359
+19:33:12 | ssl[vssl/vit_small] | INFO | epoch 071 done in 00:00:20 | loss -23.7021
+19:33:19 | ssl[vssl/vit_small] | INFO | ep 072/100 it 50/175 | lr 2.17e-04 | loss -23.6982 | loss_kl -10.1645 | loss_ll 13.5337 | loss_neg_ll -13.5337
+19:33:24 | ssl[vssl/vit_small] | INFO | ep 072/100 it 100/175 | lr 2.13e-04 | loss -23.6978 | loss_kl -10.1647 | loss_ll 13.5332 | loss_neg_ll -13.5332
+19:33:29 | ssl[vssl/vit_small] | INFO | ep 072/100 it 150/175 | lr 2.09e-04 | loss -23.6994 | loss_kl -10.1660 | loss_ll 13.5333 | loss_neg_ll -13.5333
+19:33:32 | ssl[vssl/vit_small] | INFO | epoch 072 done in 00:00:20 | loss -23.7000
+19:33:39 | ssl[vssl/vit_small] | INFO | ep 073/100 it 50/175 | lr 2.04e-04 | loss -23.6991 | loss_kl -10.1667 | loss_ll 13.5324 | loss_neg_ll -13.5324
+19:33:44 | ssl[vssl/vit_small] | INFO | ep 073/100 it 100/175 | lr 2.00e-04 | loss -23.7005 | loss_kl -10.1671 | loss_ll 13.5334 | loss_neg_ll -13.5334
+19:33:50 | ssl[vssl/vit_small] | INFO | ep 073/100 it 150/175 | lr 1.96e-04 | loss -23.7014 | loss_kl -10.1669 | loss_ll 13.5345 | loss_neg_ll -13.5345
+19:33:52 | ssl[vssl/vit_small] | INFO | epoch 073 done in 00:00:20 | loss -23.7020
+19:34:00 | ssl[vssl/vit_small] | INFO | ep 074/100 it 50/175 | lr 1.91e-04 | loss -23.7054 | loss_kl -10.1678 | loss_ll 13.5377 | loss_neg_ll -13.5377
+19:34:05 | ssl[vssl/vit_small] | INFO | ep 074/100 it 100/175 | lr 1.87e-04 | loss -23.7052 | loss_kl -10.1674 | loss_ll 13.5379 | loss_neg_ll -13.5379
+19:34:10 | ssl[vssl/vit_small] | INFO | ep 074/100 it 150/175 | lr 1.84e-04 | loss -23.7063 | loss_kl -10.1671 | loss_ll 13.5392 | loss_neg_ll -13.5392
+19:34:12 | ssl[vssl/vit_small] | INFO | epoch 074 done in 00:00:20 | loss -23.7068
+19:34:20 | ssl[vssl/vit_small] | INFO | ep 075/100 it 50/175 | lr 1.79e-04 | loss -23.7107 | loss_kl -10.1693 | loss_ll 13.5414 | loss_neg_ll -13.5414
+19:34:25 | ssl[vssl/vit_small] | INFO | ep 075/100 it 100/175 | lr 1.75e-04 | loss -23.7109 | loss_kl -10.1690 | loss_ll 13.5419 | loss_neg_ll -13.5419
+19:34:30 | ssl[vssl/vit_small] | INFO | ep 075/100 it 150/175 | lr 1.72e-04 | loss -23.7124 | loss_kl -10.1679 | loss_ll 13.5445 | loss_neg_ll -13.5445
+19:34:33 | ssl[vssl/vit_small] | INFO | epoch 075 done in 00:00:20 | loss -23.7134
+19:34:40 | ssl[vssl/vit_small] | INFO | ep 076/100 it 50/175 | lr 1.66e-04 | loss -23.7204 | loss_kl -10.1683 | loss_ll 13.5521 | loss_neg_ll -13.5521
+19:34:45 | ssl[vssl/vit_small] | INFO | ep 076/100 it 100/175 | lr 1.63e-04 | loss -23.7203 | loss_kl -10.1685 | loss_ll 13.5518 | loss_neg_ll -13.5518
+19:34:50 | ssl[vssl/vit_small] | INFO | ep 076/100 it 150/175 | lr 1.60e-04 | loss -23.7202 | loss_kl -10.1695 | loss_ll 13.5507 | loss_neg_ll -13.5507
+19:34:53 | ssl[vssl/vit_small] | INFO | epoch 076 done in 00:00:20 | loss -23.7198
+19:35:00 | ssl[vssl/vit_small] | INFO | ep 077/100 it 50/175 | lr 1.55e-04 | loss -23.7153 | loss_kl -10.1677 | loss_ll 13.5476 | loss_neg_ll -13.5476
+19:35:06 | ssl[vssl/vit_small] | INFO | ep 077/100 it 100/175 | lr 1.51e-04 | loss -23.7184 | loss_kl -10.1679 | loss_ll 13.5505 | loss_neg_ll -13.5505
+19:35:11 | ssl[vssl/vit_small] | INFO | ep 077/100 it 150/175 | lr 1.48e-04 | loss -23.7185 | loss_kl -10.1685 | loss_ll 13.5501 | loss_neg_ll -13.5501
+19:35:13 | ssl[vssl/vit_small] | INFO | epoch 077 done in 00:00:20 | loss -23.7184
+19:35:21 | ssl[vssl/vit_small] | INFO | ep 078/100 it 50/175 | lr 1.43e-04 | loss -23.7155 | loss_kl -10.1675 | loss_ll 13.5479 | loss_neg_ll -13.5479
+19:35:26 | ssl[vssl/vit_small] | INFO | ep 078/100 it 100/175 | lr 1.40e-04 | loss -23.7201 | loss_kl -10.1692 | loss_ll 13.5509 | loss_neg_ll -13.5509
+19:35:31 | ssl[vssl/vit_small] | INFO | ep 078/100 it 150/175 | lr 1.37e-04 | loss -23.7203 | loss_kl -10.1692 | loss_ll 13.5511 | loss_neg_ll -13.5511
+19:35:33 | ssl[vssl/vit_small] | INFO | epoch 078 done in 00:00:20 | loss -23.7209
+19:35:41 | ssl[vssl/vit_small] | INFO | ep 079/100 it 50/175 | lr 1.32e-04 | loss -23.7231 | loss_kl -10.1691 | loss_ll 13.5540 | loss_neg_ll -13.5540
+19:35:46 | ssl[vssl/vit_small] | INFO | ep 079/100 it 100/175 | lr 1.29e-04 | loss -23.7230 | loss_kl -10.1693 | loss_ll 13.5537 | loss_neg_ll -13.5537
+19:35:51 | ssl[vssl/vit_small] | INFO | ep 079/100 it 150/175 | lr 1.26e-04 | loss -23.7211 | loss_kl -10.1694 | loss_ll 13.5517 | loss_neg_ll -13.5517
+19:35:54 | ssl[vssl/vit_small] | INFO | epoch 079 done in 00:00:20 | loss -23.7212
+19:36:01 | ssl[vssl/vit_small] | INFO | ep 080/100 it 50/175 | lr 1.22e-04 | loss -23.7227 | loss_kl -10.1694 | loss_ll 13.5532 | loss_neg_ll -13.5532
+19:36:06 | ssl[vssl/vit_small] | INFO | ep 080/100 it 100/175 | lr 1.19e-04 | loss -23.7195 | loss_kl -10.1699 | loss_ll 13.5496 | loss_neg_ll -13.5496
+19:36:12 | ssl[vssl/vit_small] | INFO | ep 080/100 it 150/175 | lr 1.16e-04 | loss -23.7183 | loss_kl -10.1704 | loss_ll 13.5479 | loss_neg_ll -13.5479
+19:36:14 | ssl[vssl/vit_small] | INFO | epoch 080 done in 00:00:20 | loss -23.7183
+19:36:22 | ssl[vssl/vit_small] | INFO | ep 081/100 it 50/175 | lr 1.12e-04 | loss -23.7168 | loss_kl -10.1725 | loss_ll 13.5442 | loss_neg_ll -13.5442
+19:36:27 | ssl[vssl/vit_small] | INFO | ep 081/100 it 100/175 | lr 1.09e-04 | loss -23.7158 | loss_kl -10.1716 | loss_ll 13.5442 | loss_neg_ll -13.5442
+19:36:32 | ssl[vssl/vit_small] | INFO | ep 081/100 it 150/175 | lr 1.06e-04 | loss -23.7159 | loss_kl -10.1719 | loss_ll 13.5441 | loss_neg_ll -13.5441
+19:36:35 | ssl[vssl/vit_small] | INFO | epoch 081 done in 00:00:20 | loss -23.7143
+19:36:42 | ssl[vssl/vit_small] | INFO | ep 082/100 it 50/175 | lr 1.02e-04 | loss -23.7137 | loss_kl -10.1688 | loss_ll 13.5450 | loss_neg_ll -13.5450
+19:36:48 | ssl[vssl/vit_small] | INFO | ep 082/100 it 100/175 | lr 9.92e-05 | loss -23.7093 | loss_kl -10.1688 | loss_ll 13.5405 | loss_neg_ll -13.5405
+19:36:53 | ssl[vssl/vit_small] | INFO | ep 082/100 it 150/175 | lr 9.65e-05 | loss -23.7089 | loss_kl -10.1697 | loss_ll 13.5392 | loss_neg_ll -13.5392
+19:36:56 | ssl[vssl/vit_small] | INFO | epoch 082 done in 00:00:21 | loss -23.7080
+19:37:04 | ssl[vssl/vit_small] | INFO | ep 083/100 it 50/175 | lr 9.26e-05 | loss -23.7082 | loss_kl -10.1729 | loss_ll 13.5353 | loss_neg_ll -13.5353
+19:37:09 | ssl[vssl/vit_small] | INFO | ep 083/100 it 100/175 | lr 9.00e-05 | loss -23.7049 | loss_kl -10.1710 | loss_ll 13.5339 | loss_neg_ll -13.5339
+19:37:14 | ssl[vssl/vit_small] | INFO | ep 083/100 it 150/175 | lr 8.75e-05 | loss -23.7030 | loss_kl -10.1709 | loss_ll 13.5321 | loss_neg_ll -13.5321
+19:37:17 | ssl[vssl/vit_small] | INFO | epoch 083 done in 00:00:20 | loss -23.7019
+19:37:24 | ssl[vssl/vit_small] | INFO | ep 084/100 it 50/175 | lr 8.38e-05 | loss -23.6943 | loss_kl -10.1699 | loss_ll 13.5244 | loss_neg_ll -13.5244
+19:37:29 | ssl[vssl/vit_small] | INFO | ep 084/100 it 100/175 | lr 8.13e-05 | loss -23.6934 | loss_kl -10.1705 | loss_ll 13.5229 | loss_neg_ll -13.5229
+19:37:34 | ssl[vssl/vit_small] | INFO | ep 084/100 it 150/175 | lr 7.89e-05 | loss -23.6942 | loss_kl -10.1709 | loss_ll 13.5233 | loss_neg_ll -13.5233
+19:37:37 | ssl[vssl/vit_small] | INFO | epoch 084 done in 00:00:20 | loss -23.6948
+19:37:44 | ssl[vssl/vit_small] | INFO | ep 085/100 it 50/175 | lr 7.54e-05 | loss -23.6947 | loss_kl -10.1706 | loss_ll 13.5240 | loss_neg_ll -13.5240
+19:37:49 | ssl[vssl/vit_small] | INFO | ep 085/100 it 100/175 | lr 7.31e-05 | loss -23.6936 | loss_kl -10.1709 | loss_ll 13.5228 | loss_neg_ll -13.5228
+19:37:54 | ssl[vssl/vit_small] | INFO | ep 085/100 it 150/175 | lr 7.08e-05 | loss -23.6929 | loss_kl -10.1708 | loss_ll 13.5220 | loss_neg_ll -13.5220
+19:37:57 | ssl[vssl/vit_small] | INFO | epoch 085 done in 00:00:20 | loss -23.6934
+19:38:04 | ssl[vssl/vit_small] | INFO | ep 086/100 it 50/175 | lr 6.75e-05 | loss -23.6923 | loss_kl -10.1723 | loss_ll 13.5200 | loss_neg_ll -13.5200
+19:38:10 | ssl[vssl/vit_small] | INFO | ep 086/100 it 100/175 | lr 6.53e-05 | loss -23.6944 | loss_kl -10.1733 | loss_ll 13.5211 | loss_neg_ll -13.5211
+19:38:15 | ssl[vssl/vit_small] | INFO | ep 086/100 it 150/175 | lr 6.32e-05 | loss -23.6915 | loss_kl -10.1722 | loss_ll 13.5193 | loss_neg_ll -13.5193
+19:38:17 | ssl[vssl/vit_small] | INFO | epoch 086 done in 00:00:20 | loss -23.6919
+19:38:25 | ssl[vssl/vit_small] | INFO | ep 087/100 it 50/175 | lr 6.01e-05 | loss -23.6934 | loss_kl -10.1722 | loss_ll 13.5212 | loss_neg_ll -13.5212
+19:38:30 | ssl[vssl/vit_small] | INFO | ep 087/100 it 100/175 | lr 5.81e-05 | loss -23.6932 | loss_kl -10.1720 | loss_ll 13.5212 | loss_neg_ll -13.5212
+19:38:35 | ssl[vssl/vit_small] | INFO | ep 087/100 it 150/175 | lr 5.61e-05 | loss -23.6910 | loss_kl -10.1715 | loss_ll 13.5195 | loss_neg_ll -13.5195
+19:38:38 | ssl[vssl/vit_small] | INFO | epoch 087 done in 00:00:20 | loss -23.6909
+19:38:45 | ssl[vssl/vit_small] | INFO | ep 088/100 it 50/175 | lr 5.32e-05 | loss -23.6900 | loss_kl -10.1714 | loss_ll 13.5186 | loss_neg_ll -13.5186
+19:38:50 | ssl[vssl/vit_small] | INFO | ep 088/100 it 100/175 | lr 5.13e-05 | loss -23.6922 | loss_kl -10.1728 | loss_ll 13.5194 | loss_neg_ll -13.5194
+19:38:56 | ssl[vssl/vit_small] | INFO | ep 088/100 it 150/175 | lr 4.94e-05 | loss -23.6949 | loss_kl -10.1739 | loss_ll 13.5210 | loss_neg_ll -13.5210
+19:38:58 | ssl[vssl/vit_small] | INFO | epoch 088 done in 00:00:20 | loss -23.6937
+19:39:06 | ssl[vssl/vit_small] | INFO | ep 089/100 it 50/175 | lr 4.67e-05 | loss -23.6906 | loss_kl -10.1725 | loss_ll 13.5181 | loss_neg_ll -13.5181
+19:39:11 | ssl[vssl/vit_small] | INFO | ep 089/100 it 100/175 | lr 4.50e-05 | loss -23.6920 | loss_kl -10.1735 | loss_ll 13.5185 | loss_neg_ll -13.5185
+19:39:16 | ssl[vssl/vit_small] | INFO | ep 089/100 it 150/175 | lr 4.33e-05 | loss -23.6926 | loss_kl -10.1743 | loss_ll 13.5183 | loss_neg_ll -13.5183
+19:39:19 | ssl[vssl/vit_small] | INFO | epoch 089 done in 00:00:20 | loss -23.6922
+19:39:26 | ssl[vssl/vit_small] | INFO | ep 090/100 it 50/175 | lr 4.08e-05 | loss -23.6903 | loss_kl -10.1736 | loss_ll 13.5167 | loss_neg_ll -13.5167
+19:39:31 | ssl[vssl/vit_small] | INFO | ep 090/100 it 100/175 | lr 3.92e-05 | loss -23.6911 | loss_kl -10.1740 | loss_ll 13.5171 | loss_neg_ll -13.5171
+19:39:36 | ssl[vssl/vit_small] | INFO | ep 090/100 it 150/175 | lr 3.76e-05 | loss -23.6930 | loss_kl -10.1742 | loss_ll 13.5188 | loss_neg_ll -13.5188
+19:39:39 | ssl[vssl/vit_small] | INFO | epoch 090 done in 00:00:20 | loss -23.6927
+19:39:46 | ssl[vssl/vit_small] | INFO | ep 091/100 it 50/175 | lr 3.54e-05 | loss -23.6900 | loss_kl -10.1717 | loss_ll 13.5184 | loss_neg_ll -13.5184
+19:39:51 | ssl[vssl/vit_small] | INFO | ep 091/100 it 100/175 | lr 3.39e-05 | loss -23.6919 | loss_kl -10.1730 | loss_ll 13.5189 | loss_neg_ll -13.5189
+19:39:56 | ssl[vssl/vit_small] | INFO | ep 091/100 it 150/175 | lr 3.25e-05 | loss -23.6924 | loss_kl -10.1733 | loss_ll 13.5192 | loss_neg_ll -13.5192
+19:39:59 | ssl[vssl/vit_small] | INFO | epoch 091 done in 00:00:19 | loss -23.6926
+19:40:07 | ssl[vssl/vit_small] | INFO | ep 092/100 it 50/175 | lr 3.04e-05 | loss -23.6907 | loss_kl -10.1730 | loss_ll 13.5177 | loss_neg_ll -13.5177
+19:40:12 | ssl[vssl/vit_small] | INFO | ep 092/100 it 100/175 | lr 2.91e-05 | loss -23.6918 | loss_kl -10.1726 | loss_ll 13.5193 | loss_neg_ll -13.5193
+19:40:17 | ssl[vssl/vit_small] | INFO | ep 092/100 it 150/175 | lr 2.79e-05 | loss -23.6935 | loss_kl -10.1733 | loss_ll 13.5202 | loss_neg_ll -13.5202
+19:40:20 | ssl[vssl/vit_small] | INFO | epoch 092 done in 00:00:21 | loss -23.6926
+19:40:27 | ssl[vssl/vit_small] | INFO | ep 093/100 it 50/175 | lr 2.60e-05 | loss -23.6930 | loss_kl -10.1726 | loss_ll 13.5205 | loss_neg_ll -13.5205
+19:40:32 | ssl[vssl/vit_small] | INFO | ep 093/100 it 100/175 | lr 2.49e-05 | loss -23.6922 | loss_kl -10.1725 | loss_ll 13.5197 | loss_neg_ll -13.5197
+19:40:38 | ssl[vssl/vit_small] | INFO | ep 093/100 it 150/175 | lr 2.38e-05 | loss -23.6925 | loss_kl -10.1733 | loss_ll 13.5192 | loss_neg_ll -13.5192
+19:40:40 | ssl[vssl/vit_small] | INFO | epoch 093 done in 00:00:20 | loss -23.6925
+19:40:48 | ssl[vssl/vit_small] | INFO | ep 094/100 it 50/175 | lr 2.22e-05 | loss -23.6919 | loss_kl -10.1740 | loss_ll 13.5178 | loss_neg_ll -13.5178
+19:40:54 | ssl[vssl/vit_small] | INFO | ep 094/100 it 100/175 | lr 2.12e-05 | loss -23.6907 | loss_kl -10.1738 | loss_ll 13.5169 | loss_neg_ll -13.5169
+19:40:59 | ssl[vssl/vit_small] | INFO | ep 094/100 it 150/175 | lr 2.02e-05 | loss -23.6904 | loss_kl -10.1741 | loss_ll 13.5163 | loss_neg_ll -13.5163
+19:41:01 | ssl[vssl/vit_small] | INFO | epoch 094 done in 00:00:21 | loss -23.6908
+19:41:09 | ssl[vssl/vit_small] | INFO | ep 095/100 it 50/175 | lr 1.88e-05 | loss -23.6886 | loss_kl -10.1738 | loss_ll 13.5149 | loss_neg_ll -13.5149
+19:41:14 | ssl[vssl/vit_small] | INFO | ep 095/100 it 100/175 | lr 1.80e-05 | loss -23.6864 | loss_kl -10.1728 | loss_ll 13.5136 | loss_neg_ll -13.5136
+19:41:19 | ssl[vssl/vit_small] | INFO | ep 095/100 it 150/175 | lr 1.72e-05 | loss -23.6850 | loss_kl -10.1723 | loss_ll 13.5127 | loss_neg_ll -13.5127
+19:41:22 | ssl[vssl/vit_small] | INFO | epoch 095 done in 00:00:20 | loss -23.6862
+19:41:29 | ssl[vssl/vit_small] | INFO | ep 096/100 it 50/175 | lr 1.60e-05 | loss -23.6818 | loss_kl -10.1736 | loss_ll 13.5082 | loss_neg_ll -13.5082
+19:41:34 | ssl[vssl/vit_small] | INFO | ep 096/100 it 100/175 | lr 1.53e-05 | loss -23.6845 | loss_kl -10.1748 | loss_ll 13.5097 | loss_neg_ll -13.5097
+19:41:39 | ssl[vssl/vit_small] | INFO | ep 096/100 it 150/175 | lr 1.47e-05 | loss -23.6836 | loss_kl -10.1741 | loss_ll 13.5095 | loss_neg_ll -13.5095
+19:41:42 | ssl[vssl/vit_small] | INFO | epoch 096 done in 00:00:20 | loss -23.6830
+19:41:49 | ssl[vssl/vit_small] | INFO | ep 097/100 it 50/175 | lr 1.37e-05 | loss -23.6832 | loss_kl -10.1733 | loss_ll 13.5099 | loss_neg_ll -13.5099
+19:41:54 | ssl[vssl/vit_small] | INFO | ep 097/100 it 100/175 | lr 1.32e-05 | loss -23.6818 | loss_kl -10.1735 | loss_ll 13.5083 | loss_neg_ll -13.5083
+19:41:59 | ssl[vssl/vit_small] | INFO | ep 097/100 it 150/175 | lr 1.27e-05 | loss -23.6832 | loss_kl -10.1745 | loss_ll 13.5087 | loss_neg_ll -13.5087
+19:42:02 | ssl[vssl/vit_small] | INFO | epoch 097 done in 00:00:20 | loss -23.6826
+19:42:09 | ssl[vssl/vit_small] | INFO | ep 098/100 it 50/175 | lr 1.20e-05 | loss -23.6807 | loss_kl -10.1739 | loss_ll 13.5068 | loss_neg_ll -13.5068
+19:42:15 | ssl[vssl/vit_small] | INFO | ep 098/100 it 100/175 | lr 1.16e-05 | loss -23.6791 | loss_kl -10.1728 | loss_ll 13.5063 | loss_neg_ll -13.5063
+19:42:20 | ssl[vssl/vit_small] | INFO | ep 098/100 it 150/175 | lr 1.12e-05 | loss -23.6785 | loss_kl -10.1724 | loss_ll 13.5062 | loss_neg_ll -13.5062
+19:42:22 | ssl[vssl/vit_small] | INFO | epoch 098 done in 00:00:20 | loss -23.6784
+19:42:30 | ssl[vssl/vit_small] | INFO | ep 099/100 it 50/175 | lr 1.08e-05 | loss -23.6778 | loss_kl -10.1724 | loss_ll 13.5054 | loss_neg_ll -13.5054
+19:42:35 | ssl[vssl/vit_small] | INFO | ep 099/100 it 100/175 | lr 1.06e-05 | loss -23.6797 | loss_kl -10.1735 | loss_ll 13.5062 | loss_neg_ll -13.5062
+19:42:40 | ssl[vssl/vit_small] | INFO | ep 099/100 it 150/175 | lr 1.04e-05 | loss -23.6808 | loss_kl -10.1745 | loss_ll 13.5064 | loss_neg_ll -13.5064
+19:42:43 | ssl[vssl/vit_small] | INFO | epoch 099 done in 00:00:20 | loss -23.6815
+19:42:50 | ssl[vssl/vit_small] | INFO | ep 100/100 it 50/175 | lr 1.01e-05 | loss -23.6836 | loss_kl -10.1754 | loss_ll 13.5083 | loss_neg_ll -13.5083
+19:42:55 | ssl[vssl/vit_small] | INFO | ep 100/100 it 100/175 | lr 1.01e-05 | loss -23.6833 | loss_kl -10.1750 | loss_ll 13.5083 | loss_neg_ll -13.5083
+19:43:00 | ssl[vssl/vit_small] | INFO | ep 100/100 it 150/175 | lr 1.00e-05 | loss -23.6820 | loss_kl -10.1743 | loss_ll 13.5077 | loss_neg_ll -13.5077
+19:43:02 | ssl[vssl/vit_small] | INFO | epoch 100 done in 00:00:19 | loss -23.6820
+19:43:03 | ssl[vssl/vit_small] | INFO | Total SSL training: 00:33:56 (best loss -23.7212)
+[done pretrain] vit_small in 00:34:07
+
+19:56:51 | eval[vssl-vit_small/vit_small] | INFO | Loaded backbone weights from runs/ssl-vssl-vit_small-ep100-bs512-seed42/backbone_final.pt
+19:56:52 | eval[vssl-vit_small/vit_small] | INFO | Extracting features for kNN / t-SNE / UMAP...
+19:57:10 | eval[vssl-vit_small/vit_small] | INFO | kNN(k=20) top-1: 0.8974
+/workspace/vcl_pathmnist/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+19:57:41 | eval[vssl-vit_small/vit_small] | INFO | Saved t-SNE / UMAP plots.
+19:57:54 | probe[linear/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+19:58:23 | probe[linear/vit_small] | INFO | [linear] epoch 001/30 | train_loss 1.3440 train_acc 0.6158 | val_loss 0.5133 val_acc 0.8963
+19:58:52 | probe[linear/vit_small] | INFO | [linear] epoch 002/30 | train_loss 0.3626 train_acc 0.9083 | val_loss 0.2615 val_acc 0.9305
+19:59:20 | probe[linear/vit_small] | INFO | [linear] epoch 003/30 | train_loss 0.2478 train_acc 0.9280 | val_loss 0.2071 val_acc 0.9403
+19:59:47 | probe[linear/vit_small] | INFO | [linear] epoch 004/30 | train_loss 0.2155 train_acc 0.9340 | val_loss 0.1855 val_acc 0.9441
+20:00:13 | probe[linear/vit_small] | INFO | [linear] epoch 005/30 | train_loss 0.1994 train_acc 0.9376 | val_loss 0.1748 val_acc 0.9490
+20:00:40 | probe[linear/vit_small] | INFO | [linear] epoch 006/30 | train_loss 0.1903 train_acc 0.9402 | val_loss 0.1630 val_acc 0.9512
+20:01:07 | probe[linear/vit_small] | INFO | [linear] epoch 007/30 | train_loss 0.1819 train_acc 0.9422 | val_loss 0.1563 val_acc 0.9540
+20:01:34 | probe[linear/vit_small] | INFO | [linear] epoch 008/30 | train_loss 0.1766 train_acc 0.9438 | val_loss 0.1542 val_acc 0.9546
+20:02:00 | probe[linear/vit_small] | INFO | [linear] epoch 009/30 | train_loss 0.1721 train_acc 0.9455 | val_loss 0.1481 val_acc 0.9545
+20:02:26 | probe[linear/vit_small] | INFO | [linear] epoch 010/30 | train_loss 0.1673 train_acc 0.9459 | val_loss 0.1453 val_acc 0.9565
+20:02:53 | probe[linear/vit_small] | INFO | [linear] epoch 011/30 | train_loss 0.1638 train_acc 0.9478 | val_loss 0.1439 val_acc 0.9565
+20:03:19 | probe[linear/vit_small] | INFO | [linear] epoch 012/30 | train_loss 0.1615 train_acc 0.9484 | val_loss 0.1402 val_acc 0.9584
+20:03:46 | probe[linear/vit_small] | INFO | [linear] epoch 013/30 | train_loss 0.1586 train_acc 0.9500 | val_loss 0.1382 val_acc 0.9583
+20:04:12 | probe[linear/vit_small] | INFO | [linear] epoch 014/30 | train_loss 0.1576 train_acc 0.9501 | val_loss 0.1367 val_acc 0.9588
+20:04:40 | probe[linear/vit_small] | INFO | [linear] epoch 015/30 | train_loss 0.1569 train_acc 0.9496 | val_loss 0.1382 val_acc 0.9578
+20:05:06 | probe[linear/vit_small] | INFO | [linear] epoch 016/30 | train_loss 0.1534 train_acc 0.9512 | val_loss 0.1342 val_acc 0.9599
+20:05:32 | probe[linear/vit_small] | INFO | [linear] epoch 017/30 | train_loss 0.1523 train_acc 0.9516 | val_loss 0.1329 val_acc 0.9592
+20:05:58 | probe[linear/vit_small] | INFO | [linear] epoch 018/30 | train_loss 0.1517 train_acc 0.9518 | val_loss 0.1315 val_acc 0.9599
+20:06:24 | probe[linear/vit_small] | INFO | [linear] epoch 019/30 | train_loss 0.1511 train_acc 0.9521 | val_loss 0.1314 val_acc 0.9607
+20:06:51 | probe[linear/vit_small] | INFO | [linear] epoch 020/30 | train_loss 0.1490 train_acc 0.9524 | val_loss 0.1306 val_acc 0.9600
+20:07:17 | probe[linear/vit_small] | INFO | [linear] epoch 021/30 | train_loss 0.1482 train_acc 0.9528 | val_loss 0.1300 val_acc 0.9602
+20:07:44 | probe[linear/vit_small] | INFO | [linear] epoch 022/30 | train_loss 0.1481 train_acc 0.9526 | val_loss 0.1310 val_acc 0.9596
+20:08:11 | probe[linear/vit_small] | INFO | [linear] epoch 023/30 | train_loss 0.1465 train_acc 0.9532 | val_loss 0.1289 val_acc 0.9605
+20:08:39 | probe[linear/vit_small] | INFO | [linear] epoch 024/30 | train_loss 0.1466 train_acc 0.9533 | val_loss 0.1292 val_acc 0.9605
+20:09:05 | probe[linear/vit_small] | INFO | [linear] epoch 025/30 | train_loss 0.1463 train_acc 0.9536 | val_loss 0.1286 val_acc 0.9610
+20:09:32 | probe[linear/vit_small] | INFO | [linear] epoch 026/30 | train_loss 0.1467 train_acc 0.9529 | val_loss 0.1287 val_acc 0.9604
+20:09:58 | probe[linear/vit_small] | INFO | [linear] epoch 027/30 | train_loss 0.1466 train_acc 0.9534 | val_loss 0.1286 val_acc 0.9606
+20:10:24 | probe[linear/vit_small] | INFO | [linear] epoch 028/30 | train_loss 0.1448 train_acc 0.9538 | val_loss 0.1286 val_acc 0.9605
+20:10:50 | probe[linear/vit_small] | INFO | [linear] epoch 029/30 | train_loss 0.1475 train_acc 0.9528 | val_loss 0.1286 val_acc 0.9607
+20:11:15 | probe[linear/vit_small] | INFO | [linear] epoch 030/30 | train_loss 0.1462 train_acc 0.9530 | val_loss 0.1283 val_acc 0.9610
+20:11:15 | probe[linear/vit_small] | INFO | [linear] done in 00:13:20 | best val_acc 0.9610
+20:11:16 | eval[vssl-vit_small/vit_small] | INFO | Linear test acc 0.9011 | bal-acc 0.8720 | f1-macro 0.8637 | AUC 0.9912384434381377
+20:11:30 | probe[finetune_10pct/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+20:11:35 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 001/30 | train_loss 1.8156 train_acc 0.3937 | val_loss 0.8844 val_acc 0.7945
+20:11:39 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 002/30 | train_loss 0.4200 train_acc 0.8932 | val_loss 0.1982 val_acc 0.9388
+20:11:43 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 003/30 | train_loss 0.1868 train_acc 0.9417 | val_loss 0.1498 val_acc 0.9510
+20:11:47 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 004/30 | train_loss 0.1429 train_acc 0.9537 | val_loss 0.1508 val_acc 0.9514
+20:11:51 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 005/30 | train_loss 0.1149 train_acc 0.9639 | val_loss 0.1102 val_acc 0.9661
+20:11:55 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 006/30 | train_loss 0.0946 train_acc 0.9699 | val_loss 0.1141 val_acc 0.9654
+20:11:59 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 007/30 | train_loss 0.0878 train_acc 0.9710 | val_loss 0.1002 val_acc 0.9678
+20:12:03 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 008/30 | train_loss 0.0765 train_acc 0.9752 | val_loss 0.0982 val_acc 0.9699
+20:12:07 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 009/30 | train_loss 0.0749 train_acc 0.9750 | val_loss 0.1009 val_acc 0.9686
+20:12:11 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 010/30 | train_loss 0.0600 train_acc 0.9797 | val_loss 0.1052 val_acc 0.9655
+20:12:15 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 011/30 | train_loss 0.0612 train_acc 0.9798 | val_loss 0.1138 val_acc 0.9632
+20:12:19 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 012/30 | train_loss 0.0625 train_acc 0.9788 | val_loss 0.1032 val_acc 0.9671
+20:12:23 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 013/30 | train_loss 0.0465 train_acc 0.9837 | val_loss 0.0977 val_acc 0.9721
+20:12:27 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 014/30 | train_loss 0.0427 train_acc 0.9861 | val_loss 0.0911 val_acc 0.9714
+20:12:31 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 015/30 | train_loss 0.0348 train_acc 0.9873 | val_loss 0.0837 val_acc 0.9732
+20:12:35 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 016/30 | train_loss 0.0324 train_acc 0.9896 | val_loss 0.0865 val_acc 0.9739
+20:12:39 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 017/30 | train_loss 0.0331 train_acc 0.9890 | val_loss 0.0896 val_acc 0.9725
+20:12:43 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 018/30 | train_loss 0.0323 train_acc 0.9893 | val_loss 0.0822 val_acc 0.9739
+20:12:47 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 019/30 | train_loss 0.0269 train_acc 0.9909 | val_loss 0.0816 val_acc 0.9743
+20:12:51 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 020/30 | train_loss 0.0242 train_acc 0.9914 | val_loss 0.0836 val_acc 0.9739
+20:12:55 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 021/30 | train_loss 0.0201 train_acc 0.9941 | val_loss 0.0893 val_acc 0.9729
+20:12:59 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 022/30 | train_loss 0.0200 train_acc 0.9939 | val_loss 0.0833 val_acc 0.9740
+20:13:03 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 023/30 | train_loss 0.0228 train_acc 0.9926 | val_loss 0.0825 val_acc 0.9752
+20:13:07 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 024/30 | train_loss 0.0197 train_acc 0.9941 | val_loss 0.0851 val_acc 0.9740
+20:13:11 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 025/30 | train_loss 0.0176 train_acc 0.9947 | val_loss 0.0835 val_acc 0.9738
+20:13:15 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 026/30 | train_loss 0.0177 train_acc 0.9952 | val_loss 0.0814 val_acc 0.9742
+20:13:18 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 027/30 | train_loss 0.0147 train_acc 0.9956 | val_loss 0.0823 val_acc 0.9743
+20:13:22 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 028/30 | train_loss 0.0175 train_acc 0.9944 | val_loss 0.0818 val_acc 0.9750
+20:13:26 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 029/30 | train_loss 0.0161 train_acc 0.9951 | val_loss 0.0817 val_acc 0.9753
+20:13:30 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] epoch 030/30 | train_loss 0.0177 train_acc 0.9940 | val_loss 0.0812 val_acc 0.9748
+20:13:30 | probe[finetune_10pct/vit_small] | INFO | [finetune_10pct] done in 00:02:00 | best val_acc 0.9753
+20:13:32 | eval[vssl-vit_small/vit_small] | INFO | Low-shot 10.0% (n=9000) -> test acc 0.9067 | bal-acc 0.8824 | f1-macro 0.8796
+20:13:45 | probe[finetune_1pct/vit_small] | INFO | Loaded backbone weights — missing: 0, unexpected: 0
+20:13:47 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 001/30 | train_loss 2.3141 train_acc 0.1077 | val_loss 2.0931 val_acc 0.2532
+20:13:49 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 002/30 | train_loss 2.0007 train_acc 0.3407 | val_loss 1.5697 val_acc 0.6269
+20:13:51 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 003/30 | train_loss 1.4530 train_acc 0.6704 | val_loss 1.0716 val_acc 0.7563
+20:13:53 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 004/30 | train_loss 0.9787 train_acc 0.7791 | val_loss 0.7226 val_acc 0.8308
+20:13:55 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 005/30 | train_loss 0.6397 train_acc 0.8413 | val_loss 0.4888 val_acc 0.8724
+20:13:57 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 006/30 | train_loss 0.4398 train_acc 0.8857 | val_loss 0.3677 val_acc 0.8954
+20:13:59 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 007/30 | train_loss 0.3229 train_acc 0.9034 | val_loss 0.3036 val_acc 0.9082
+20:14:01 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 008/30 | train_loss 0.2610 train_acc 0.9234 | val_loss 0.2684 val_acc 0.9146
+20:14:03 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 009/30 | train_loss 0.1976 train_acc 0.9412 | val_loss 0.2528 val_acc 0.9165
+20:14:05 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 010/30 | train_loss 0.1779 train_acc 0.9478 | val_loss 0.2485 val_acc 0.9235
+20:14:07 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 011/30 | train_loss 0.1548 train_acc 0.9478 | val_loss 0.2287 val_acc 0.9319
+20:14:09 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 012/30 | train_loss 0.1366 train_acc 0.9534 | val_loss 0.2175 val_acc 0.9325
+20:14:11 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 013/30 | train_loss 0.1201 train_acc 0.9645 | val_loss 0.2126 val_acc 0.9344
+20:14:12 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 014/30 | train_loss 0.1062 train_acc 0.9678 | val_loss 0.2134 val_acc 0.9352
+20:14:14 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 015/30 | train_loss 0.0882 train_acc 0.9734 | val_loss 0.2084 val_acc 0.9367
+20:14:16 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 016/30 | train_loss 0.0900 train_acc 0.9767 | val_loss 0.1999 val_acc 0.9392
+20:14:18 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 017/30 | train_loss 0.0744 train_acc 0.9723 | val_loss 0.2048 val_acc 0.9384
+20:14:20 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 018/30 | train_loss 0.0643 train_acc 0.9867 | val_loss 0.2083 val_acc 0.9363
+20:14:21 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 019/30 | train_loss 0.0579 train_acc 0.9867 | val_loss 0.2143 val_acc 0.9347
+20:14:23 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 020/30 | train_loss 0.0639 train_acc 0.9811 | val_loss 0.2099 val_acc 0.9365
+20:14:25 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 021/30 | train_loss 0.0549 train_acc 0.9856 | val_loss 0.2032 val_acc 0.9398
+20:14:27 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 022/30 | train_loss 0.0541 train_acc 0.9822 | val_loss 0.1989 val_acc 0.9411
+20:14:29 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 023/30 | train_loss 0.0437 train_acc 0.9889 | val_loss 0.2000 val_acc 0.9410
+20:14:30 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 024/30 | train_loss 0.0509 train_acc 0.9878 | val_loss 0.2029 val_acc 0.9395
+20:14:32 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 025/30 | train_loss 0.0433 train_acc 0.9911 | val_loss 0.2034 val_acc 0.9392
+20:14:34 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 026/30 | train_loss 0.0456 train_acc 0.9878 | val_loss 0.2036 val_acc 0.9389
+20:14:36 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 027/30 | train_loss 0.0386 train_acc 0.9911 | val_loss 0.2038 val_acc 0.9389
+20:14:37 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 028/30 | train_loss 0.0372 train_acc 0.9933 | val_loss 0.2037 val_acc 0.9390
+20:14:39 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 029/30 | train_loss 0.0353 train_acc 0.9933 | val_loss 0.2035 val_acc 0.9395
+20:14:41 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] epoch 030/30 | train_loss 0.0506 train_acc 0.9867 | val_loss 0.2033 val_acc 0.9399
+20:14:41 | probe[finetune_1pct/vit_small] | INFO | [finetune_1pct] done in 00:00:55 | best val_acc 0.9411
+20:14:42 | eval[vssl-vit_small/vit_small] | INFO | Low-shot 1.0% (n=901) -> test acc 0.8916 | bal-acc 0.8514 | f1-macro 0.8445
+20:14:42 | eval[vssl-vit_small/vit_small] | INFO | Downstream evaluation complete.
